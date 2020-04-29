@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Neuvonnan ja myynnin yhteyshenkilösi.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Yhteyshenkilösi huoltoon ja käytettyihin ajoneuvoihin liittyen",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Et ole vielä valinnut Mercedes-Benz-jälleenmyyjää.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Valitse Mercedes-Benz-jälleenmyyjä",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Valitse nyt Mercedes-Benz-jälleenmyyjä, jotta voit hyödyntää \"Mercedes me\" -etuja täysin.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Sijaintisuunnitelma",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Jälleenmyyjän verkkosivusto",
+
+  "dcic.ll.overview.title":
+    "Mercedes-Benz-jälleenmyyjäsi.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Lähetä kysely",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Vaihda Mercedes-Benz-kumppani"
+
+}

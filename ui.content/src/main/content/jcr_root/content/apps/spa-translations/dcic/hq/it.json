@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Il tuo referente per consulenza e acquisto.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Il tuo referente per il servizio assistenza e l'usato",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Non ha ancora selezionato un Concessionario Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Seleziona Concessionario Mercedes-Benz",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Per poter sfruttare pienamente tutti i vantaggi di \"Mercedes me\", scelga subito un Concessionario Mercedes-Benz.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Piano di localizzazione",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Sito Web del rivenditore",
+
+  "dcic.ll.overview.title":
+    "Il tuo partner Mercedes-Benz.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Invia richiesta",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Cambia partner Mercedes-Benz"
+
+}

@@ -1,0 +1,18 @@
+{
+
+  "upmc.ll.yourdata.pin.headline":
+    "Видаліть свій Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Тут можна встановити PIN для з'єднання з вашим Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Ви дійсно бажаєте видалити PIN?",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Видаліть свій Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Тут можна видалити PIN для з'єднання з вашим Mercedes-Benz"
+
+}

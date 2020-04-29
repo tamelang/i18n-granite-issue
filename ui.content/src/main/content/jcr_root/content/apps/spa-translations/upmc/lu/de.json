@@ -1,0 +1,10 @@
+{
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "Festnetz- und Mobilfunknummern müssen im internationalen Format angegeben werden. Beispiel: +352152123123123.",
+	"upmc.ll.yourdata.deleteregistration.text.two": "Sie können Ihren Kündigungswunsch auch schriftlich per Brief oder Fax an uns richten:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Fax: +35 29 69 69 56 14",
+	"todo.upmc.ll.payment.creditnumber.label": "Kreditkartennummer: ",
+	"todo.upmc.ll.payment.cardholder.label": "Kreditkartenhalter: ",
+	"todo.upmc.ll.layer.payment.setdefault": "Default",
+	"todo.upmc.ll.layer.payment.delete.request": "Sind Sie sicher, dass Sie das Zahlungsmittel (**** **** **** ###digits###) löschen wollen?",
+	"todo.upmc.ll.payment.privacy.policy.action": "Datenschutzerklärung der Daimler Mobility Services GmbH",
+    "upmc.ll.yourdata.privacypolicy.text.agreement": "Durch die Vervollständigung meiner Registrierung bestätige ich, die <u>Datenschutzrichtlinien</u> gelesen zu haben und diesen zuzustimmen."
+}

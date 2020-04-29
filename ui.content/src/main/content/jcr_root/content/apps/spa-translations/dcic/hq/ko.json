@@ -1,0 +1,54 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "구매 및 상담 담당자",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "서비스 및 중고차량 담당자",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "문의 보내기",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "위치 계획",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "딜러 웹 사이트",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Mercedes-Benz 파트너 변경",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "아직 Mercedes-Benz 파트너를 선택하지 않으셨습니다.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Mercedes-Benz 파트너 선택하기",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "\"Mercedes me\"의 장점을 모두 이용하려면 지금 Mercedes-Benz Partner를 선택하세요.",
+
+  "dcic.ll.overview.title":
+    "Mercedes-Benz 딜러",
+
+  "dcic.ll.service.error.config.missingjwt":
+    "Session information isn't availabe. Please log in again",
+
+  "dcic.ll.service.error.config.missinglocale":
+    "Language configuration not found. Please log in again",
+
+  "dcic.ll.service.error.loadingvehicledata":
+    "Unfortunately, vehicle data couldn't be loaded.",
+
+  "dcic.ll.service.error.missingdealer":
+    "Unfortunately, there is currently no information available about your Mercedes-Benz dealer.",
+
+  "dcic.ll.service.error.missingfinservice":
+    "No VIN was specified for the service partner!",
+
+  "dcic.ll.service.error.missingfinvehicle":
+    "There was no VIN specified for the vehicle",
+
+  "dcic.ll.service.error.savingdealer":
+    "The dealer can not be saved at the moment."
+
+}

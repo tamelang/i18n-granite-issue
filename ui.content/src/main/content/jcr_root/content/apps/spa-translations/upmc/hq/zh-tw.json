@@ -1,0 +1,897 @@
+{
+
+  "upmc.ll.global.language.de":
+    "德語",
+
+  "upmc.ll.global.language.tr":
+    "土耳其語",
+
+  "upmc.ll.global.language.da":
+    "丹麥語",
+
+  "upmc.ll.profile.useragreements":
+    "使用條款",
+
+  "upmc.ll.global.JP":
+    "日本",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "新的國家或地區",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "電子郵件",
+
+  "upmc.ll.global.button.edit":
+    "編輯",
+
+  "upmc.ll.global.language.cs":
+    "捷克語",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "請選擇",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "您所提供的電子郵件地址已經存在。請輸入另一個電子郵件地址。<br>提示：一個電子郵件地址僅能用來申請一個 Mercedes me 用戶帳號。",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "請選擇欄位 ###label###。",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "請至少選擇一種聯絡方式。",
+
+  "upmc.ll.global.language.sv":
+    "瑞典語",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "您尚未提供市內電話號碼。",
+
+  "upmc.ll.global.language.sk":
+    "斯洛伐克語",
+
+  "upmc.ll.global.IT":
+    "義大利",
+
+  "upmc.ll.global.language.sl":
+    "斯洛伐克語",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "請注意：<br>您建立的車輛和個人資料無法傳輸至您新選國家或地區的 smart 網站。請重新提供這些資料。<br>此外請注意，您新選的國家或地區無法使用 smart control。亦即：您無法再使用您的 smart control 服務。",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "南非",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "請提供市內電話號碼或行動電話號碼。",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "附加名",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "樓",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "提示：當您儲存了新遷國家或地區後，即可輸入完整的地址資料。",
+
+  "upmc.ll.global.language.bg":
+    "保加利亞語",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "刪除用戶帳號",
+
+  "upmc.ll.global.language.ru":
+    "俄國語",
+
+  "upmc.ll.yourdata.name.label.title":
+    "頭銜",
+
+  "upmc.ll.yourdata.email.add.again":
+    "重新輸入電子郵件地址",
+
+  "upmc.ll.yourdata.refresh":
+    "更新",
+
+  "upmc.ll.global.language.ro":
+    "羅馬尼亞語",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "請提供護照上的出生日期。",
+
+  "upmc.ll.global.HU":
+    "匈牙利",
+
+  "upmc.ll.global.HR":
+    "克羅地亞",
+
+  "upmc.ll.global.button.submit":
+    "儲存",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "請在 ###label###中輸入最多 ###chars### 個字元。",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "尚未驗證",
+
+  "upmc.ll.global.language.ar":
+    "阿拉伯語",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "您尚未收到啟用代碼？可能是行動電話號碼輸入錯誤。若是這種情況，請重新輸入行動電話號碼。<br><br>您已收到啟用代碼，想要現在輸入？請注意，只能在輸入行動電話號碼後才可輸入啟用代碼。請重新輸入您的行動電話號碼。<br><br>您已經成功輸入啟用代碼了嗎？可能出現尚未完成同步的情況。請稍候片刻，然後點選「更新」。",
+
+  "upmc.ll.global.IE":
+    "愛爾蘭",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "請在 ###label###中輸入至少 ###chars### 個字元。",
+
+  "upmc.ll.global.language.af":
+    "南非荷蘭語",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "您的使用者帳號的延伸性資料隱私權保護已成功關閉。<br><br>若要重新啟用延伸性資料隱私權保護，請洽詢您所選擇的台灣賓士授權經銷商。",
+
+  "upmc.ll.global.AE_DU":
+    "杜拜",
+
+  "upmc.ll.global.GR":
+    "希臘",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "關閉延伸性資料隱私權保護。",
+
+  "upmc.ll.global.form.address.text":
+    "請提供通信地址。",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "邦",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "國家",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "提示",
+
+  "upmc.ll.profile.namechange.confirm":
+    "提示",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "您所提供的行動電話號碼已經存在。請輸入另一個行動電話號碼。<br>提示：一個行動電話號碼僅能用來申請一個 Mercedes me 用戶帳號。",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "稱謂",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "請提供完整的出生日期。",
+
+  "upmc.ll.global.language.pt":
+    "葡萄牙語",
+
+  "upmc.ll.yourdata.status.loading":
+    "請稍待片刻。",
+
+  "upmc.ll.global.button.administration":
+    "行政管理",
+
+  "upmc.ll.global.AE_AZ":
+    "阿布達比",
+
+  "upmc.ll.profile.picture.position.request":
+    "您可透過移動、放大或縮小選擇所需的局部圖像。",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "補上或更換個人資料圖片。",
+
+  "upmc.ll.global.FR":
+    "法國",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "電子郵件地址必須通過驗證，才能在 Mercedes me 網站上使用。若要驗證電子郵件地址，請重新輸入行動電話號碼。",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "行動電話號碼",
+
+  "upmc.ll.global.text.today":
+    "今天",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "請在此處輸入您的姓。",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me 網站",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "市內電話號碼",
+
+  "upmc.ll.yourdata.address.label.street":
+    "路/街",
+
+  "upmc.ll.global.GB":
+    "英國",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "目前並非所有內容均已翻譯為您所選擇的語言。我們會用另一種語言顯示該內容。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "請注意：<br>您新選的國家或地區可以使用 smart control。",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "未提供行動電話號碼。",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "姓",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "個人資料圖片",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "您可以透過以下連結刪除您的用戶帳號。請注意，在您刪除帳號之後所有連結到您車輛的服務也將同時關閉，而且所有共同使用人的權利也將同步解除。您也可以親臨台灣賓士授權經銷商的服務據點刪除您的用戶帳號。如有任何問題，歡迎電洽：",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "您確定要關閉您的使用者帳號的延伸性資料隱私權保護嗎？<br><br>提示：之後若要重新啟用延伸性資料隱私權保護，請洽詢您所選擇的台灣賓士授權經銷商。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "請注意：<br>您建立的車輛、個人資料和設定無法傳輸至您新選國家或地區的網站。<br>請在新選國家或地區重新提供資料，才能再度使用服務。",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "市內電話",
+
+  "upmc.ll.yourdata.address.headline":
+    "地址",
+
+  "upmc.ll.global.ES":
+    "西班牙",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "表格填寫不正確。請檢查您所輸入的內容。",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "您的訊息超過 ###chars###個字元！請縮短文字內容。",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "停用",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "年",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "請在此處輸入您的第二個名。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "車載資訊通訊系統功能需要以下資料：",
+
+  "upmc.ll.global.FI":
+    "芬蘭",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "請在 ###label###中輸入一個有效的數值。",
+
+  "upmc.ll.yourdata.address.label.city":
+    "縣/市",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "由於技術問題，該操作目前無法使用，請稍後再試。",
+
+  "upmc.ll.global.language.fr":
+    "法語",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "行動電話號碼",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "市內電話和行動電話號碼必須以國際格式輸入。範例：+886152123123123。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "請選擇其中一項",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "確認關閉",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "請新增一個電子郵件地址。",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "僅可上傳 JPG 或 PNG 格式，最大 5 MB 且最小尺寸為 300x300 畫素的圖片。",
+
+  "upmc.ll.profile.headline":
+    "我的資料。",
+
+  "upmc.ll.global.button.completelater":
+    "稍後補充",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "您尚未提供電子郵件地址。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "若您繼續進行，但未提供這些資料，則所有車輛的這些服務都將關閉。您和共同使用人即無法再使用這些服務。",
+
+  "upmc.ll.global.language.fi":
+    "芬蘭語",
+
+  "upmc.ll.yourdata.email.add":
+    "新增電子郵件地址",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "新增並驗證行動電話號碼",
+
+  "upmc.ll.global.button.connect":
+    "連線",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "您也可以透過電子郵件與我聯絡。",
+
+  "upmc.ll.global.DK":
+    "丹麥",
+
+  "upmc.ll.global.form.mobile.verified":
+    "已驗證",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "此檔案未能上傳：",
+
+  "upmc.ll.global.EE":
+    "愛沙尼亞",
+
+  "upmc.ll.global.button.next":
+    "繼續",
+
+  "upmc.ll.global.language.es":
+    "西班牙語",
+
+  "upmc.ll.global.language.et":
+    "愛沙尼亞語",
+
+  "upmc.ll.yourdata.notverified":
+    "尚未驗證",
+
+  "upmc.ll.global.US":
+    "美國",
+
+  "upmc.ll.profile.picture.delete.request":
+    "您想要刪除您的個人資料圖片嗎？",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "日",
+
+  "upmc.ll.global.language.en":
+    "英語",
+
+  "upmc.ll.global.language.el":
+    "希臘語",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "這些資料是必要的，用於：",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "標示 * 的欄位為必填欄位。",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "地址變更。",
+
+  "upmc.ll.yourdata.status.verified":
+    "已驗證",
+
+  "upmc.ll.global.CN":
+    "中國",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "請填寫 ###label###欄位。",
+
+  "upmc.ll.yourdata.reachability.email":
+    "電子郵件地址",
+
+  "upmc.ll.global.TW":
+    "台灣",
+
+  "upmc.ll.global.DE":
+    "台灣",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "室",
+
+  "upmc.ll.global.TR":
+    "土耳其",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "郵遞區號",
+
+  "upmc.ll.global.CY":
+    "塞浦路斯共和國",
+
+  "upmc.ll.global.CZ":
+    "捷克共和國",
+
+  "upmc.ll.yourdata.email.missing":
+    "未提供電子郵件地址。",
+
+  "upmc.ll.global.SE":
+    "瑞典",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "請注意：<br>您建立的車輛和個人資料無法傳輸至您新選國家或地區的 Mercedes me 網站。請重新提供這些資料。<br>您新選的國家或地區無法使用 Mercedes me connect。<br>建立車輛時您會知道，該車是否支援 Mercedes me connect。系統會引導您完成所有步驟，之後才能使用服務。",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "請在此補充、更改或刪除個人資料圖片。",
+
+  "upmc.ll.yourdata.email.error":
+    "請新增一個電子郵件地址",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "行動電話號碼",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "您尚未提供行動電話號碼。",
+
+  "upmc.ll.global.CH":
+    "瑞士",
+
+  "upmc.ll.global.button.cancel":
+    "取消",
+
+  "upmc.ll.global.CA":
+    "加拿大",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "將新圖片拖曳到區域內或按下按鈕選取。",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "斯洛伐克",
+
+  "upmc.ll.global.SI":
+    "斯洛文尼亞",
+
+  "upmc.ll.global.language.ko":
+    "韓語",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "段/巷/弄",
+
+  "upmc.ll.global.AT":
+    "奧地利",
+
+  "upmc.ll.global.language":
+    "語言",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "提示",
+
+  "upmc.ll.yourdata.name.headline":
+    "姓名",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "密碼",
+
+  "upmc.ll.global.BG":
+    "保加利亞",
+
+  "upmc.ll.global.BE":
+    "比利時",
+
+  "upmc.ll.global.RU":
+    "俄國",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "提示：請驗證您的電子郵件地址，才能在 Mercedes me 網站上以該電子郵件地址登入。<br>請點選編輯符號，然後重新提供電子郵件地址。",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "郵遞區號",
+
+  "upmc.ll.global.button.back":
+    "返回",
+
+  "upmc.ll.global.errorid.notification.text":
+    "客戶服務追蹤的錯誤代碼：",
+
+  "upmc.ll.global.RO":
+    "羅馬尼亞",
+
+  "upmc.ll.global.hint.headline":
+    "提示",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "行動電話號碼必須通過驗證才能在 Mercedes me 網站上使用。若要驗證行動電話號碼，請重新輸入行動電話號碼。",
+
+  "upmc.ll.global.form.mobile.label":
+    "行動電話號碼",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "您新選的國家或地區無法使用 smart control。亦即：您無法再使用您的 smart control 服務。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "請注意：<br>您建立的車輛和個人資料無法傳輸至您新選國家或地區的 smart 網站。請重新提供這些資料。<br><br>您新選的國家或地區可以使用 smart control。<br>建立車輛時您會知道，該車是否支援 smart control。系統會引導您完成所有步驟，之後才能使用服務。",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "聯絡我的最佳方式",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "行動電話號碼已由使用者經由Mercedes me網站驗證",
+
+  "upmc.ll.global.language.ja":
+    "日語",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "請在此處輸入您的名。",
+
+  "upmc.ll.global.language.zh":
+    "簡體中文",
+
+  "upmc.ll.profile.doc.text.error":
+    "同意聲明目前無法變更。請稍後再試。",
+
+  "upmc.ll.global.language.it":
+    "義大利語",
+
+  "upmc.ll.global.button.print":
+    "列印",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "請新增行動電話號碼",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "請注意：<br>若更換國家或地區，您所使用的服務可能會關閉。因為所提供的服務和適用的使用條款可能會因國家或地區而不同。<br>在新的國家或地區，您可以在「管理服務」下方再次輕鬆啟用此類服務。",
+
+  "upmc.ll.global.button.confirm":
+    "確認",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "擴展資料保護",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "客戶關懷服務專線<br>電話: +886 800 036 524<br>E-Mail: csm_crmdaimler.com<br><br>服務時間: 24小時",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "第二個姓",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "按下按鈕選取新圖片。",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "重新輸入並驗證行動電話號碼",
+
+  "upmc.ll.global.button.send":
+    "寄出",
+
+  "upmc.ll.yourdata.text.error":
+    "目前無法存取個人資料。",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "尚未收到確認的電子郵件？可能是電子郵件地址輸入錯誤。若是這種情況，請重新輸入電子郵件地址。<br><br>您是否已經開啟驗證電子郵件地址的確認連結？可能出現尚未完成同步的情況。請稍候片刻，然後點選「更新」。",
+
+  "upmc.ll.global.PT":
+    "葡萄牙",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "提示",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "曾在 Daimler 集團以及您的品牌之其他網站和應用程式上註冊過的客戶，請注意：若您在這裡變更您的資料，這些變更會被套用在有個人共同資料的網頁和應用程式上（例如：Mercedes me 網站）。",
+
+  "upmc.ll.global.language.hu":
+    "匈牙利語",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "波蘭",
+
+  "upmc.ll.global.language.hr":
+    "克羅地亞語",
+
+  "upmc.ll.yourdata.headline":
+    "我的 Mercedes me ID 資料。\n",
+
+  "upmc.ll.global.form.error.selectoption":
+    "請選擇一個選項。",
+
+  "upmc.ll.yourdata.password.text":
+    "請使用安全的密碼，並定期變更密碼。",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "出生日期",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "請補齊完整的地址資訊。這很重要，如此我們才能確實地將資料隱私權同意聲明發給您本人。",
+
+  "upmc.ll.global.language.pl":
+    "波蘭語",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "月",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "請在此補充、更改或刪除個人資料圖片。",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "對於您的使用者帳戶，已啟動擴展資料保護。僅 Daimler AG 內部的特定人群（如指定的支援團隊）方能查看這些資料。",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "選擇圖片。",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "選擇所需語言",
+
+  "upmc.ll.global.form.text.mandatory":
+    "標示 * 的欄位為必填欄位。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "請注意：<br>您建立的車輛和個人資料無法傳輸至您新選國家或地區的 Mercedes me 網站。請重新提供這些資料。<br>此外請注意您新選的國家或地區無法使用 Mercedes me connect。亦即：您無法再使用您的 connect 服務。",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID 卡號",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "請提供市內電話號碼。",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "請輸入一個有效的日期。",
+
+  "upmc.ll.global.MT":
+    "馬爾他",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "區/鎮",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "附加地址列 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "附加地址列 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "請選擇欄位。",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "第二個名",
+
+  "upmc.ll.global.NO":
+    "挪威",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "提示：請驗證您的行動電話號碼，才能在 Mercedes me 網站上以該行動電話號碼登入。<br>請點選編輯符號，然後重新提供行動電話號碼。",
+
+  "upmc.ll.global.NL":
+    "荷蘭",
+
+  "upmc.ll.global.button.delete":
+    "刪除",
+
+  "upmc.ll.global.button.register":
+    "註冊",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "名",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "行動電話號碼",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "郵政信箱",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "個人資料圖片",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "我已詳讀注意事項，想要繼續進行儲存程序。<br>服務即將關閉。",
+
+  "upmc.ll.yourdata.phone.headline":
+    "電話",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "無法提供這個國家或地區的地址資料，因為該國或地區無法使用 Mercedes me 網站的服務。",
+
+  "upmc.ll.global.language.no":
+    "挪威語",
+
+  "upmc.ll.global.language.nl":
+    "荷蘭語",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "所提供的出生日期無效。<br>請檢查您所選的項目。",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "刪除個人資料圖片。",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "刪除用戶帳號",
+
+  "upmc.ll.global.LV":
+    "拉脫維亞",
+
+  "upmc.ll.global.button.submitandproceed":
+    "儲存和繼續",
+
+  "upmc.ll.global.notification.title":
+    "提示：",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "建築名稱",
+
+  "upmc.ll.global.LT":
+    "立陶宛",
+
+  "upmc.ll.global.LU":
+    "盧森堡",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "請注意：<br>您新選的國家或地區無法使用 Mercedes me connect。<br>打開功能表選項「我的車輛」時，就能看出您的車輛是否支援 Mercedes me connect。若是配備 Mercedes me connect 功能的車輛，該處便會標示一個圖示和說明文字。",
+
+  "upmc.ll.global.button.close":
+    "關閉",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "請注意：<br>您新選的國家或地區無法使用 Mercedes me connect。亦即：您無法再使用您的 connect 服務。",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "請在郵遞區號欄位中輸入一個有效的數值。",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "請提供完整的出生日期。",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "號",
+
+  "upmc.ll.yourdata.address.label.country":
+    "國家",
+
+  "upmc.ll.global.button.login":
+    "登入",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "市內電話號碼",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "延伸性資料隱私權保護已關閉。",
+
+  "upmc.ll.global.KR":
+    "南韓",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "請填寫欄位。",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "拉脫維亞語",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "該程序目前無法進行。<br>請稍後再試。",
+
+  "upmc.ll.global.LI":
+    "列支敦斯登",
+
+  "upmc.ll.global.language.lt":
+    "立陶宛語",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "我想要補齊資料。服務即將關閉。",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "付款方式",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "未儲存資料",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "信用卡號碼",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "到期日",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "已到期",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "信用卡持有人：",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "新增付款方式",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "預設",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "刪除付款方式。",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "是否確定要刪除付款方式 (**** **** **** ###數字###)？",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Privacy Statement of Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "很遺憾，您不符合年齡要求",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "General data",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "User profile fields",
+
+  "todo.upmc.ll.hus.useragreements":
+    "User agreements",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "請完成您的個人檔案更新",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "在此處您可以刪除 PIN 碼以連接您的 Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "在此處您可以設定 PIN 碼以連接您的 Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "刪除您的 Mercedes me PIN",
+
+  "upmc.ll.layer.pin.delete.request":
+    " 是否確定要刪除 PIN 碼？",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "抱歉，此服務目前不可用。請稍後重試。"
+
+}

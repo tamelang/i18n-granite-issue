@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Teie kontaktisik konsultatsiooniks ja ostuks.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Teie teeninduse ja kasutatud sõidukite kontaktisik",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Te ei ole veel valinud Mercedes-Benzi partnerit.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Vali Mercedes-Benzi partner",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "\u201eMercedes me\u201d eeliste täies mahus kasutamiseks valige nüüd Mercedes-Benzi partner.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Asukohaplaan",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Edasimüüja veebisait",
+
+  "dcic.ll.overview.title":
+    "Teie Mercedes-Benzi partner.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Saada päring",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Vahetage Mercedes-Benzi partnerit"
+
+}

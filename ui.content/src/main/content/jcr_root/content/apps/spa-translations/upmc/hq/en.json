@@ -1,0 +1,933 @@
+{
+
+  "upmc.ll.global.language.de":
+    "German",
+
+  "upmc.ll.global.language.tr":
+    "Turkish",
+
+  "upmc.ll.global.language.da":
+    "Danish",
+
+  "upmc.ll.profile.useragreements":
+    "Terms of Use",
+
+  "upmc.ll.global.JP":
+    "Japan (日本)",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "New country or region",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Email address",
+
+  "upmc.ll.global.button.edit":
+    "Edit",
+
+  "upmc.ll.global.language.cs":
+    "Czech",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Please select",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "The specified email address already exists. Please enter another email address.<br>Note: Each email address can be allocated to one Mercedes me user account only.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Please select field ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Please select at least one contact method.",
+
+  "upmc.ll.global.language.sv":
+    "Swedish",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "You have not entered a landline telephone number.",
+
+  "upmc.ll.global.language.sk":
+    "Slovak",
+
+  "upmc.ll.global.IT":
+    "Italy",
+
+  "upmc.ll.global.language.sl":
+    "Slovak",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the smart portal of your newly selected country or region. Please enter the data again.<br>Please also note that smart control is unfortunately not available in your newly selected country or region. This means that you will no longer be able to use your smart control services.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "South Africa",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Please enter your landline number or mobile phone number.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Name suffix",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Hall number",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Note: You can enter your full address after saving the change to a new country or region.",
+
+  "upmc.ll.global.language.bg":
+    "Bulgarian",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Delete user account",
+
+  "upmc.ll.global.language.ru":
+    "Russian",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Title",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Re-enter email address",
+
+  "upmc.ll.yourdata.refresh":
+    "Update",
+
+  "upmc.ll.global.language.ro":
+    "Romanian",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate your date of birth as indicated in your passport.",
+
+  "upmc.ll.global.HU":
+    "Hungary",
+
+  "upmc.ll.global.HR":
+    "Croatia",
+
+  "upmc.ll.global.button.submit":
+    "Save",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "For ###label### please enter a maximum of ###chars### characters.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "not verified",
+
+  "upmc.ll.global.language.ar":
+    "Arabic",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Have you not received an activation code? Is it possible that you could have mistyped your mobile phone number? If so, please re-enter your mobile phone number.<br><br>Do you want to enter the activation code you received now? Please note that you can only enter the activation code when entering your mobile phone number. Please re-enter your mobile phone number.<br><br>Have you already successfully entered the activation code? Synchronisation may not yet be complete. Please wait a moment, then click on \"Update\".",
+
+  "upmc.ll.global.IE":
+    "Ireland",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "For ###label### please enter a minimum of ###chars### characters.",
+
+  "upmc.ll.global.language.af":
+    "Afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Extended data protection has been deactivated for your user account.<br><br>If you wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Greece",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Deactivate extended data protection.",
+
+  "upmc.ll.global.form.address.text":
+    "Please enter your residential address.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Federal state",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "State",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Note",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Note",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "The specified mobile phone number already exists. Please enter a different mobile phone number.<br>Note: Each mobile phone number can be allocated to one Mercedes me user account only.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Salutation",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Please enter your complete date of birth.",
+
+  "upmc.ll.global.language.pt":
+    "Portuguese",
+
+  "upmc.ll.yourdata.status.loading":
+    "Please wait a moment.",
+
+  "upmc.ll.global.button.administration":
+    "Administration",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Select desired image detail by positioning accordingly and zooming in or out.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Supplement or replace profile image.",
+
+  "upmc.ll.global.FR":
+    "France",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Only verified email addresses can be used on the Mercedes me Portal. Please re-enter your email address to verify it.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobile phone number",
+
+  "upmc.ll.global.text.today":
+    "Today",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Please enter your surname.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me Portal",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Landline number",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Street",
+
+  "upmc.ll.global.GB":
+    "United Kingdom",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Not all content is currently available in the language you have selected. The relevant content will be displayed in another language.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Please note:<br>smart control is available in your newly selected country or region.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "You have not specified a mobile phone number.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Surname",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profile image",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "You can delete your user account via the link below. Please note that deletion will deactivate all services in your vehicles and all co-user rights will be withdrawn.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Are you sure you want to deactivate extended data protection for your user account?<br><br>Note: If you subsequently wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles, personal details and settings to the portal of your newly selected country or region.<br>Please enter these data again in the new country or region to enable you to use the services again.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Landline number",
+
+  "upmc.ll.yourdata.address.headline":
+    "Address",
+
+  "upmc.ll.global.ES":
+    "Spain",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "The form was not filled in correctly. Please check your entries.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Your message has more than ###chars### characters. Please shorten the text.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Deactivate",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Year",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Please enter your middle name.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "The following details are required for telematics functions:",
+
+  "upmc.ll.global.FI":
+    "Finland",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Please enter a valid value for ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Town/city",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "This action is not currently possible due to a technical problem. Please try again later.",
+
+  "upmc.ll.global.language.fr":
+    "French",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobile number",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Landline and mobile telephone numbers must be entered in international format. Example: +49152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Please make a selection",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Confirm deactivation",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Please add an email address",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "You can only upload images in JPG or PNG format, with a maximum data volume of 5 MB and a minimum size of 300x300 pixels.",
+
+  "upmc.ll.profile.headline":
+    "My profile.",
+
+  "upmc.ll.global.button.completelater":
+    "Add details later",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "You have not specified an email address.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "If you continue without these details, these services will be deactivated in all vehicles. You and your co-users will no longer be able to use them.",
+
+  "upmc.ll.global.language.fi":
+    "Finnish",
+
+  "upmc.ll.yourdata.email.add":
+    "Add email address",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Add and verify mobile phone number",
+
+  "upmc.ll.global.button.connect":
+    "Link",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "You can also contact me by email",
+
+  "upmc.ll.global.DK":
+    "Denmark",
+
+  "upmc.ll.global.form.mobile.verified":
+    "verified",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "This file could not be uploaded:",
+
+  "upmc.ll.global.EE":
+    "Estonia",
+
+  "upmc.ll.global.button.next":
+    "Next",
+
+  "upmc.ll.global.language.es":
+    "Spanish",
+
+  "upmc.ll.global.language.et":
+    "Estonian",
+
+  "upmc.ll.yourdata.notverified":
+    "not verified",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Are you sure you want to delete your profile image?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Day",
+
+  "upmc.ll.global.language.en":
+    "English",
+
+  "upmc.ll.global.language.el":
+    "Greek",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "These details are required for:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Fields marked with an asterisk (*) are mandatory.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Change of your address.",
+
+  "upmc.ll.yourdata.status.verified":
+    "verified",
+
+  "upmc.ll.global.CN":
+    "China (中国)",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Please complete the field ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Email address",
+
+  "upmc.ll.global.TW":
+    "Taiwan, China (中國台灣)",
+
+  "upmc.ll.global.DE":
+    "Germany",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Door number",
+
+  "upmc.ll.global.TR":
+    "Turkey",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Postcode",
+
+  "upmc.ll.global.CY":
+    "Republic of Cyprus",
+
+  "upmc.ll.global.CZ":
+    "Czech Republic",
+
+  "upmc.ll.yourdata.email.missing":
+    "No email address specified.",
+
+  "upmc.ll.global.SE":
+    "Sweden",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the Mercedes me Portal of your newly selected country or region. Please enter the data again.<br>Mercedes me connect is available in your newly selected country or region.<br>When defining your vehicle you will discover whether it supports Mercedes me connect. And you will be guided through all the necessary steps to enable you to use the services.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Here you can add, alter or delete your profile image.",
+
+  "upmc.ll.yourdata.email.error":
+    "Please add an email address",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobile phone number",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "You have not entered a mobile phone number.",
+
+  "upmc.ll.global.CH":
+    "Switzerland",
+
+  "upmc.ll.global.button.cancel":
+    "Cancel",
+
+  "upmc.ll.global.CA":
+    "Canada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Drag new picture into image area or select by clicking on the button.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovakia",
+
+  "upmc.ll.global.SI":
+    "Slovenia",
+
+  "upmc.ll.global.language.ko":
+    "Korean (한국어)",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Street type",
+
+  "upmc.ll.global.AT":
+    "Austria",
+
+  "upmc.ll.global.language":
+    "Language",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Note",
+
+  "upmc.ll.yourdata.name.headline":
+    "Name",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Password",
+
+  "upmc.ll.global.BG":
+    "Bulgaria",
+
+  "upmc.ll.global.BE":
+    "Belgium",
+
+  "upmc.ll.global.RU":
+    "Russia",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Note: Verify your email address so that you can use it to log in to the Mercedes me Portal.<br>For this purpose, click on the Edit symbol and enter your email address once again.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Postcode",
+
+  "upmc.ll.global.button.back":
+    "Back",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Error code for following up with Customer Service:",
+
+  "upmc.ll.global.RO":
+    "Romania",
+
+  "upmc.ll.global.hint.headline":
+    "Note",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Only verified mobile phone numbers can be used on the Mercedes me Portal. Please re-enter your mobile phone number to verify it.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobile number",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Unfortunately, smart control is not available in your newly selected country or region. This means that you will no longer be able to use your smart control services.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the smart portal of your newly selected country or region. Please enter the data again.<br><br>smart control is available in your newly selected country or region.<br>When defining your vehicle you will discover whether it supports smart control. And you will be guided through all the necessary steps to enable you to use the services.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "You can reach me best by",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Verified mobile phone number",
+
+  "upmc.ll.global.language.ja":
+    "Japanese (日本語)",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Please enter your first name.",
+
+  "upmc.ll.global.language.zh":
+    "Chinese (简体中文)",
+
+  "upmc.ll.profile.doc.text.error":
+    "No amendments to the declaration of consent are possible at present. Please try again later.",
+
+  "upmc.ll.global.language.it":
+    "Italian",
+
+  "upmc.ll.global.button.print":
+    "Print",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Please add a mobile phone number",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Please note:<br>If you change the country or region, the services which you use may be deactivated. This may happen because the offered services and the applicable Terms of Use vary from one country or region to another.<br>Simply re-activate the services in the new country or region under \"Manage services\".",
+
+  "upmc.ll.global.button.confirm":
+    "Confirm",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Extended data protection",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "You can also send us your cancellation request by letter or fax:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>PO Box 1456<br>6201 BL Maastricht<br>Netherlands<br>Fax: -",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Second surname",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Select new image by clicking on the button.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Re-enter and verify mobile phone number",
+
+  "upmc.ll.global.button.send":
+    "Send",
+
+  "upmc.ll.yourdata.text.error":
+    "Access to profile data is currently not possible.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Have you not received a confirmation email? Is it possible that you could have mistyped your email address? Please re-enter your email address if this is the case.<br><br>Have you already called up the confirmation link in order to verify your email address? Synchronisation may not yet be complete. Please wait a moment, then click on \"Update\".",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Note",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Note for customers who have registered with other websites and apps of the Daimler Group and its brands: If you change your details here, these changes will apply to all websites and apps of the Daimler Group and its brands linked to the shared profile (e.g. Mercedes me Portal).",
+
+  "upmc.ll.global.language.hu":
+    "Hungarian",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Poland",
+
+  "upmc.ll.global.language.hr":
+    "Croatian",
+
+  "upmc.ll.yourdata.headline":
+    "My Mercedes me ID data.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Please select an option.",
+
+  "upmc.ll.yourdata.password.text":
+    "Use a secure password and change it regularly.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Date of birth",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Please enter your complete address. This is necessary to enable the declaration of consent under data protection law to be unambiguously allocated to you personally.",
+
+  "upmc.ll.global.language.pl":
+    "Polish",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Month",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Here you can add, alter or delete your profile image.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Extended data protection is active for your user account. Your data are only visible to selected groups of people (e.g. a special support team) within Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Select image",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Select desired language",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Fields marked with an asterisk (*) are mandatory.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the Mercedes me Portal of your newly selected country or region. Please enter the data again.<br>Please also note that Mercedes me connect is unfortunately unavailable in your newly selected country or region. This means that that you will no longer be able to use your connect services.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Please enter your landline number.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Please enter a valid date.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Additional address line 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Additional address line 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Additional address line 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Please select a field.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Middle name",
+
+  "upmc.ll.global.NO":
+    "Norway",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Note: Verify your mobile phone number so that you can use it to log in to the Mercedes me Portal.<br>For this purpose, click on the Edit symbol and enter your mobile phone number once again.",
+
+  "upmc.ll.global.NL":
+    "Netherlands",
+
+  "upmc.ll.global.button.delete":
+    "Delete",
+
+  "upmc.ll.global.button.register":
+    "Register",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "First name",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobile phone number",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "P.O. box",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profile image",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "I have read the note and would like to continue saving the data.<br>Services will be deactivated.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telephone",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "No address data can be specified for this country or region as the Mercedes me Portal services are not available in this country or region.",
+
+  "upmc.ll.global.language.no":
+    "Norwegian",
+
+  "upmc.ll.global.language.nl":
+    "Dutch",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "The entered date of birth is invalid.<br>Please check your selection.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Delete profile image.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Delete user account",
+
+  "upmc.ll.global.LV":
+    "Latvia",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Save and continue",
+
+  "upmc.ll.global.notification.title":
+    "Note:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "House name",
+
+  "upmc.ll.global.LT":
+    "Lithuania",
+
+  "upmc.ll.global.LU":
+    "Luxembourg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Please note:<br>Mercedes me connect is available in your newly selected country or region.<br>You can see whether your vehicle supports Mercedes me connect by opening the \"My vehicles\" menu option. Vehicles with Mercedes me connect functionality are indicated here by an icon and explanatory text.",
+
+  "upmc.ll.global.button.close":
+    "Close",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Please note:<br>Mercedes me connect is not available in your newly selected country or region. This means that that you will no longer be able to use your connect services.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Please enter a valid value in the Postcode field.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Please enter your complete date of birth.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "House number",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Country or region",
+
+  "upmc.ll.global.button.login":
+    "Log in",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Landline number",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Extended data protection deactivated.",
+
+  "upmc.ll.global.KR":
+    "South Korea (대한민국)",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Please complete the field.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "Latvian",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Action currently not possible.<br>Please try again later.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "Lithuanian",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "I would like to add details. Services will be deactivated.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Means of payment",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "No data stored",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Credit card number: ",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Expiry date: ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Expired",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Credit card holder: ",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Add means of payment",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Default",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Delete means of payment.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Are you sure to want to delete means of payment (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Privacy Statement of Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Please add the following details:",
+
+  "todo.upmc.ll.hus.valid":
+    "You have added the required details.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Invalid link",
+
+  "todo.upmc.ll.yourdata.terms.headline":
+    "Terms of Use",
+
+  "todo.upmc.ll.yourdata.terms.text":
+    "For the usage of the desired service please read and accept the following special terms and conditions.",
+
+  "todo.upmc.ll.yourdata.terms.error.agreement":
+    "Error accepting \"###agreement###\"",
+
+  "todo.upmc.ll.generic.error.message":
+    "An unexpected error occured, please try again later or contact the Support.",
+
+  "todo.upmc.ll.generic.error.trackingid":
+    "Tracking-ID: ###tracking### | Error-Type: ###type###",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Go to the Mercedes me Store website",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "We regret that it is not possible to use the services without agreeing to the Terms of Use for the Mercedes me connect and smart control services.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Your acceptance of the Nuance end-user licence agreement and your consent to Nuance using your data are required in order to use certain services and speech recognition services in the vehicle.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Agreement required",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "No rights",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.payment.error.general":
+    "We're very sorry. Due to technical problems, the process cannot be completed. Please try again later.Thank you for your understanding.",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "First name does not fit to fiscal code",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Last name does not fit to fiscal code",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Birthday does not fit to fiscal code",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Your change was successful. You will be redirected shortly.",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Here you can delete the PIN to connect with your Mercedes-Benz.",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Here you can set the PIN to connect with your Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Delete your Mercedes me PIN",
+
+  "upmc.ll.layer.pin.delete.request":
+    "Are you sure you want to delete the PIN?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Sorry, this service is currently unavailable. Please retry later."
+
+}

@@ -1,0 +1,906 @@
+{
+
+  "upmc.ll.global.language.de":
+    "ภาษาเยอรมัน",
+
+  "upmc.ll.global.language.tr":
+    "ภาษาตุรกี",
+
+  "upmc.ll.global.language.da":
+    "เดนมาร์ก",
+
+  "upmc.ll.profile.useragreements":
+    "เงื่อนไขการใช้งาน",
+
+  "upmc.ll.global.JP":
+    "ญี่ปุ่น",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "ประเทศหรือภูมิภาคใหม่",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "อีเมล",
+
+  "upmc.ll.global.button.edit":
+    "แก้ไข",
+
+  "upmc.ll.global.language.cs":
+    "เช็ก",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "โปรดเลือก",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "ที่อยู่อีเมลที่ระบุนี้มีอยู่แล้ว โปรดกรอกที่อยู่อีเมลอื่น<br>คำแนะนำ: ที่อยู่อีเมลแต่ละแห่งสามารถกำหนดให้กับบัญชีผู้ใช้ Mercedes me ได้เพียงหนึ่งบัญชีเท่านั้น",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "โปรดเลือกทำเครื่องหมายในช่อง ###label###",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "โปรดเลือกช่องทางการติดต่ออย่างน้อย 1 ช่องทาง",
+
+  "upmc.ll.global.language.sv":
+    "สวีเดน",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "คุณยังไม่ได้กรอกหมายเลขโทรศัพท์พื้นฐาน",
+
+  "upmc.ll.global.language.sk":
+    "สโลวาเกีย",
+
+  "upmc.ll.global.IT":
+    "อิตาลี",
+
+  "upmc.ll.global.language.sl":
+    "สโลวาเกีย",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "โปรดทราบว่า:<br>เราไม่สามารถถ่ายโอนรถยนต์ที่เชื่อมต่อไว้แล้วและข้อมูลส่วนตัวของคุณไปยังพอร์ทัล smart ของประเทศหรือภูมิภาคใหม่ที่เลือกได้ โปรดกรอกข้อมูลนี้ใหม่อีกครั้ง<br>และโปรดทราบว่า smart control ไม่สามารถใช้งานในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้ กล่าวคือ คุณไม่สามารถใช้บริการ smart control ของคุณได้อีก",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "แอฟริกาใต้",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "โปรดป้อนหมายเลขโทรศัพท์พื้นฐานหรือหมายเลขโทรศัพท์มือถือของคุณ",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "คำขึ้นต้นจดหมาย",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "หมู่ที่ี่",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "คำแนะนำ: คุณสามารถระบุที่อยู่ที่สมบูรณ์ได้หลังจากบันทึกการเปลี่ยนแปลงเป็นประเทศใหม่หรือภูมิภาคใหม่แล้ว",
+
+  "upmc.ll.global.language.bg":
+    "บัลแกเรีย",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "ลบบัญชีผู้ใช้",
+
+  "upmc.ll.global.language.ru":
+    "รัสเซีย",
+
+  "upmc.ll.yourdata.name.label.title":
+    "คำนำหน้าชื่อ",
+
+  "upmc.ll.yourdata.email.add.again":
+    "ลงทะเบียนที่อยู่อีเมลใหม่",
+
+  "upmc.ll.yourdata.refresh":
+    "อัปเดต",
+
+  "upmc.ll.global.language.ro":
+    "โรมาเนีย",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "โปรดระบุวันเดือนปีเกิดตามหนังสือเดินทาง",
+
+  "upmc.ll.global.HU":
+    "ฮังการี",
+
+  "upmc.ll.global.HR":
+    "โครเอเชีย",
+
+  "upmc.ll.global.button.submit":
+    "บันทึก",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "โปรดป้อนตัวอักษรไม่เกิน ###label### หลักสำหรับ ###chars###",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "ยังไม่ได้ยืนยัน",
+
+  "upmc.ll.global.language.ar":
+    "อาหรับ",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "คุณยังไม่ได้รับรหัสเปิดใช้งานใช่หรือไม่ คุณอาจพิมพ์หมายเลขโทรศัพท์มือถือไม่ถูกต้อง ในกรณีนี้โปรดลงทะเบียนหมายเลขโทรศัพท์มือถือของคุณอีกครั้ง<br><br>คุณได้รับรหัสเปิดใช้งานแล้วและต้องการป้อนรหัสทันทีใช่หรือไม่ โปรดทราบว่ารหัสเปิดใช้งานจำเป็นต้องป้อนทันทีหลังจากลงทะเบียนหมายเลขโทรศัพท์มือถือเท่านั้น โปรดลงทะเบียนหมายเลขโทรศัพท์มือถือใหม่อีกครั้ง<br><br>คุณป้อนรหัสเปิดใช้งานเรียบร้อยแล้วหรือยัง สาเหตุอาจเกิดจากการประสานข้อมูลยังไม่เสร็จสมบูรณ์ โปรดรอสักครู่แล้วกดปุ่มอัปเดต",
+
+  "upmc.ll.global.IE":
+    "ไอร์แลนด์",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "โปรดป้อนตัวอักษรอย่างน้อย ###label### หลักสำหรับ ###chars###",
+
+  "upmc.ll.global.language.af":
+    "ภาษาแอฟริคานส์",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "การคุ้มครองข้อมูลส่วนบุคคลขั้นสูงสำหรับบัญชีผู้ใช้ของคุณปิดใช้งานเรียบร้อยแล้ว<br><br>โปรดติดต่อศูนย์บริการ Mercedes-Benz ของคุณเพื่อเปิดใช้การคุ้มครองข้อมูลส่วนบุคคลขั้นสูงอีกครั้ง",
+
+  "upmc.ll.global.AE_DU":
+    "ดูไบ",
+
+  "upmc.ll.global.GR":
+    "กรีซ",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "ปิดใช้งานการคุ้มครองข้อมูลส่วนบุคคลขั้นสูง",
+
+  "upmc.ll.global.form.address.text":
+    "กรุณาป้อนที่อยู่ตามทะเบียนบ้านของคุณ",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "รัฐ/จังหวัด",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "ประเทศ",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "คำแนะนำ",
+
+  "upmc.ll.profile.namechange.confirm":
+    "คำแนะนำ",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "หมายเลขโทรศัพท์มือถือที่ระบุนี้มีอยู่แล้ว โปรดกรอกหมายเลขโทรศัพท์มือถืออื่น<br>คำแนะนำ: หมายเลขโทรศัพท์มือถือแต่ละหมายเลขสามารถกำหนดให้กับบัญชีผู้ใช้ Mercedes me ได้เพียงหนึ่งบัญชีเท่านั้น",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "คำขึ้นต้นจดหมาย",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "โปรดกรอกวันเดือนปีเกิดของคุณให้ครบถ้วน",
+
+  "upmc.ll.global.language.pt":
+    "โปรตุเกส",
+
+  "upmc.ll.yourdata.status.loading":
+    "โปรดรอสักครู่",
+
+  "upmc.ll.global.button.administration":
+    "ผู้ดูแลระบบ",
+
+  "upmc.ll.global.AE_AZ":
+    "อาบูดาบี",
+
+  "upmc.ll.profile.picture.position.request":
+    "คุณสามารถเลื่อน ขยาย หรือย่อรูปภาพที่ต้องการ",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "ใส่รูปประจำตัวหรือเลือกรูปใหม่",
+
+  "upmc.ll.global.FR":
+    "ฝรั่งเศส",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "ที่อยู่อีเมลต้องได้รับการยืนยันเพื่อให้สามารถใช้งานในพอร์ทัล Mercedes me ได้ โปรดลงทะเบียนที่อยู่อีเมลอีกครั้งเพื่อยืนยัน",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "หมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.global.text.today":
+    "วันนี้",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "โปรดป้อนนามสกุลของคุณที่นี่",
+
+  "upmc.ll.global.ios.webapp.title":
+    "พอร์ทัลของ Mercedes me",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "หมายเลขโทรศัพท์บ้าน",
+
+  "upmc.ll.yourdata.address.label.street":
+    "ซอย/ ถนน/ หมู่",
+
+  "upmc.ll.global.GB":
+    "สหราชอาณาจักร",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "ปัจจุบันเนื้อหาบางส่วนยังไม่มีคำแปลในภาษาที่คุณเลือก เราจะแสดงเนื้อหาเหล่านี้ในภาษาอื่น",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "โปรดทราบว่า:<br>สามารถใช้งาน smart control ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "ไม่ได้กรอกหมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "นามสกุล",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "รูปโปรไฟล์",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "ท่านสามารถลบบัญชีผู้ใช้งานผ่านลิงก์ข้างล่าง โปรดทราบว่าการลบบัญชีนั้นจะยกเลิกบริการทั้งหมดสำหรับยานพาหนะของท่าน และเพิกถอนสิทธิผู้ใช้งานร่วมทั้งหมด (Co-user Rights)",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "คุณแน่ใจหรือไม่ว่าต้องการปิดใช้งานการคุ้มครองข้อมูลส่วนบุคคลขั้นสูงสำหรับบัญชีผู้ใช้ของคุณ<br><br>คำแนะนำ: โปรดติดต่อศูนย์บริการ Mercedes-Benz ของคุณเพื่อเปิดใช้การคุ้มครองข้อมูลส่วนบุคคลขั้นสูงอีกครั้งในภายหลัง",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "โปรดทราบว่า:<br>เราไม่สามารถถ่ายโอนรถยนต์ที่เชื่อมต่อไว้แล้ว ข้อมูลส่วนตัว และการตั้งค่าของคุณไปยังพอร์ทัลของประเทศหรือภูมิภาคใหม่ที่เลือกได้<br>โปรดกรอกข้อมูลนี้ในประเทศหรือภูมิภาคใหม่ซ้ำอีกครั้งเพื่อให้สามารถใช้งานบริการต่างๆ ได้",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "โทรศัพท์บ้าน",
+
+  "upmc.ll.yourdata.address.headline":
+    "ที่อยู่",
+
+  "upmc.ll.global.ES":
+    "สเปน",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "คุณกรอกแบบฟอร์มไม่ถูกต้อง โปรดตรวจสอบการกรอกข้อมูลของคุณ",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "ข้อความของคุณมีตัวอักษรมากกว่า ###chars### ตัว โปรดย่อข้อความให้สั้นลง",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "ปิดใช้งาน",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "ปี",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "โปรดป้อนชื่อรองของคุณที่นี่",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "ข้อมูลต่อไปนี้จำเป็นสำหรับฟังก์ชันเทเลเมติกส์",
+
+  "upmc.ll.global.FI":
+    "ฟินแลนด์",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "โปรดป้อนค่าที่ถูกต้องสำหรับ ###label###",
+
+  "upmc.ll.yourdata.address.label.city":
+    "เมือง (จังหวัด)",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "ไม่สามารถดำเนินการได้ในขณะนี้เนื่องจากปัญหาทางเทคนิค โปรดลองใหม่อีกครั้งในภายหลัง",
+
+  "upmc.ll.global.language.fr":
+    "ภาษาฝรั่งเศส",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "โทรศัพท์มือถือ",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "หมายเลขโทรศัพท์พื้นฐานและหมายเลขโทรศัพท์มือถือต้องพิมพ์ตามหลักสากล ตัวอย่าง: +661234567",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "โปรดเลือก",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "ยินยันการปิดใช้งาน",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "โปรดกรอกที่อยู่อีเมล",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "คุณสามารถอัปโหลดเฉพาะรูปภาพในรูปแบบ JPG หรือ PNG ขนาดใหญ่สุด 5 MB และมีความละเอียดอย่างน้อยที่สุด 300x300 พิกเซล",
+
+  "upmc.ll.profile.headline":
+    "ประวัติของฉัน",
+
+  "upmc.ll.global.button.completelater":
+    "เพิ่มข้อมูลในภายหลัง",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "คุณยังไม่ได้กรอกที่อยู่อีเมล",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "หากคุณดำเนินการต่อโดยไม่กรอกข้อมูลนี้ บริการเหล่านี้ในรถยนต์ทุกคันจะถูกปิดการใช้งาน คุณและผู้ใช้ร่วมจะไม่สามารถใช้บริการเหล่านี้ได้อีก",
+
+  "upmc.ll.global.language.fi":
+    "ฟินแลนด์",
+
+  "upmc.ll.yourdata.email.add":
+    "เพิ่มที่อยู่อีเมล",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "เพิ่มและยืนยันหมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.global.button.connect":
+    "เชื่อมต่อ",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "คุณสามารถติดต่อฉันผ่านทางอีเมลได้เช่นกัน",
+
+  "upmc.ll.global.DK":
+    "เดนมาร์ก",
+
+  "upmc.ll.global.form.mobile.verified":
+    "ยืนยันความถูกต้องแล้ว",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "ไม่สามารถอัปโหลดข้อมูลนี้ได้:",
+
+  "upmc.ll.global.EE":
+    "เอสโตเนีย",
+
+  "upmc.ll.global.button.next":
+    "ถัดไป",
+
+  "upmc.ll.global.language.es":
+    "สเปน",
+
+  "upmc.ll.global.language.et":
+    "เอสโตเนีย",
+
+  "upmc.ll.yourdata.notverified":
+    "ยังไม่ได้ยืนยัน",
+
+  "upmc.ll.global.US":
+    "สหรัฐอเมริกา",
+
+  "upmc.ll.profile.picture.delete.request":
+    "คุณแน่ใจหรือไม่ว่าต้องการลบรูปประจำตัวของคุณ",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "วัน",
+
+  "upmc.ll.global.language.en":
+    "ภาษาอังกฤษ",
+
+  "upmc.ll.global.language.el":
+    "กรีก",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "ข้อมูลนี้ใช้สำหรับ:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "โปรดกรอกข้อมูลในช่องที่มีเครื่องหมาย * ให้ครบทุกช่อง",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "การเปลี่ยนแปลงที่อยู่ของคุณ",
+
+  "upmc.ll.yourdata.status.verified":
+    "ยืนยันความถูกต้องแล้ว",
+
+  "upmc.ll.global.CN":
+    "จีน",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "โปรดกรอกข้อมูลในช่อง ###label###",
+
+  "upmc.ll.yourdata.reachability.email":
+    "ที่อยู่อีเมล",
+
+  "upmc.ll.global.TW":
+    "ไต้หวัน",
+
+  "upmc.ll.global.DE":
+    "เยอรมนี",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "เลขที่ห้อง",
+
+  "upmc.ll.global.TR":
+    "ตุรกี",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "รหัสไปรษณีย์",
+
+  "upmc.ll.global.CY":
+    "สาธารณรัฐไซปรัส",
+
+  "upmc.ll.global.CZ":
+    "สาธารณรัฐเช็ก",
+
+  "upmc.ll.yourdata.email.missing":
+    "ไม่ได้กรอกที่อยู่อีเมล",
+
+  "upmc.ll.global.SE":
+    "สวีเดน",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "โปรดทราบว่า:<br>เราไม่สามารถถ่ายโอนรถยนต์ที่เชื่อมต่อไว้แล้วและข้อมูลส่วนตัวของคุณไปยังพอร์ทัล Mercedes me ของประเทศหรือภูมิภาคใหม่ที่เลือกได้ โปรดกรอกข้อมูลนี้ใหม่อีกครั้ง<br>สามารถใช้งาน Mercedes me connect ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้<br>คุณจะทราบว่ารถยนต์ของคุณรองรับ Mercedes me connect หรือไม่ในขณะทำการเชื่อมต่อรถยนต์ และคุณต้องดำเนินการตามขั้นตอนทั้งหมดเพื่อให้สามารถใช้งานบริการต่างๆ ได้",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "เพิ่ม แก้ไข หรือลบรูปประจำตัวของคุณที่นี่",
+
+  "upmc.ll.yourdata.email.error":
+    "โปรดกรอกที่อยู่อีเมล",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "หมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "คุณยังไม่ได้กรอกหมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.global.CH":
+    "สวิตเซอร์แลนด์",
+
+  "upmc.ll.global.button.cancel":
+    "ยกเลิก",
+
+  "upmc.ll.global.CA":
+    "แคนาดา",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "ลากรูปภาพใหม่มาวางไว้ในช่องหรือกดปุ่มเพื่อเลือกรูปภาพ",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "สโลวาเกีย",
+
+  "upmc.ll.global.SI":
+    "สโลวีเนีย",
+
+  "upmc.ll.global.language.ko":
+    "ภาษาเกาหลี",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "หมู่/ชั้น/อาคาร/ชื่อบริษัทฯ",
+
+  "upmc.ll.global.AT":
+    "ออสเตรีย",
+
+  "upmc.ll.global.language":
+    "ภาษา",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "คำแนะนำ",
+
+  "upmc.ll.yourdata.name.headline":
+    "นามสกุล",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "รหัสผ่าน",
+
+  "upmc.ll.global.BG":
+    "บัลแกเรีย",
+
+  "upmc.ll.global.BE":
+    "เบลเยียม",
+
+  "upmc.ll.global.RU":
+    "รัสเซีย",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "คำแนะนำ: ตรวจสอบความถูกต้องของที่อยู่อีเมลของคุณเพื่อใช้ลงทะเบียนในพอร์ทัล Mercedes me<br>กดที่สัญลักษณ์แก้ไข และป้อนที่อยู่อีเมลของคุณ",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "รหัสไปรษณีย์",
+
+  "upmc.ll.global.button.back":
+    "ย้อนกลับ",
+
+  "upmc.ll.global.errorid.notification.text":
+    "รหัสข้อผิดพลาดสำหรับติดตามการบริการลูกค้า:",
+
+  "upmc.ll.global.RO":
+    "โรมาเนีย",
+
+  "upmc.ll.global.hint.headline":
+    "คำแนะนำ",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "หมายเลขโทรศัพท์มือถือจำเป็นต้องได้รับการยืนยันเพื่อให้สามารถใช้งานในพอร์ทัล Mercedes me ได้ โปรดกรอกหมายเลขโทรศัพท์มือถือใหม่อีกครั้งเพื่อยืนยัน",
+
+  "upmc.ll.global.form.mobile.label":
+    "หมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "ไม่สามารถใช้งาน smart control ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้ กล่าวคือ คุณไม่สามารถใช้บริการ smart control ของคุณได้อีก",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "โปรดทราบว่า:<br>เราไม่สามารถถ่ายโอนรถยนต์ที่เชื่อมต่อไว้แล้วและข้อมูลส่วนตัวของคุณไปยังพอร์ทัล smart ของประเทศหรือภูมิภาคใหม่ที่เลือกได้ โปรดกรอกข้อมูลนี้ใหม่อีกครั้ง<br><br>สามารถใช้งาน smart control ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้<br>คุณจะทราบว่ารถยนต์ของคุณรองรับ smart control หรือไม่ในขณะทำการเชื่อมต่อรถยนต์ และคุณต้องดำเนินการตามขั้นตอนทั้งหมดเพื่อให้สามารถใช้งานบริการต่างๆ ได้",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "คุณสามารถติดต่อฉันได้สะดวกที่สุดทาง",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "หมายเลขโทรศัพท์มือถือของท่านได้รับการยืนยันความถูกต้องแล้วจาก Mercedes me Portal",
+
+  "upmc.ll.global.language.ja":
+    "ภาษาญี่ปุ่น",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "โปรดป้อนชื่อตัวของคุณที่นี่",
+
+  "upmc.ll.global.language.zh":
+    "ภาษาจีน (ตัวย่อ)",
+
+  "upmc.ll.profile.doc.text.error":
+    "ไม่สามารถดำเนินการแก้ไขข้อตกลงยินยอมได้ในขณะนี้ โปรดลองใหม่อีกครั้งภายหลัง",
+
+  "upmc.ll.global.language.it":
+    "ภาษาอิตาเลียน",
+
+  "upmc.ll.global.button.print":
+    "พิมพ์",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "โปรดกรอกหมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "โปรดทราบว่า:<br>เมื่อคุณเปลี่ยนประเทศหรือภูมิภาค บริการที่ใช้งานอยู่ของคุณจะถูกปิดการใช้งานในกรณีที่จำเป็น อันเนื่องมาจากบริการที่นำเสนอและเงื่อนไขการใช้งานที่มีผลตามกฎหมายอาจแตกต่างกันในแต่ละประเทศหรือภูมิภาค<br>เปิดการใช้บริการในประเทศหรือภูมิภาคใหม่อีกครั้งได้ที่ \"จัดการบริการต่างๆ \"\"",
+
+  "upmc.ll.global.button.confirm":
+    "ยืนยัน",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "การคุ้มครองข้อมูลส่วนบุคคลขั้นสูง",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "ท่านสามารถส่งคำร้องขอยกเลิกบัญชีผู้ใช้ของท่านผ่านจดหมายหรือเแฟกซ์มาที่<br><br>บริษัท เมอร์เซเดส-เบนซ์ (ประเทศไทย) จำกัด<br>โทร 1250<br>Kuala Lumpur - One City<br>MCT Tower 1, Skypark One City<br>Jalan USJ 25/1B<br>47650 Subang Jaya<br>Malaysia",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "นามสกุลรอง",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "เลือกรูปภาพใหม่โดยการกดที่ปุ่ม",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "กรอกและยืนยันหมายเลขโทรศัพท์มือถือใหม่อีกครั้ง",
+
+  "upmc.ll.global.button.send":
+    "ส่ง",
+
+  "upmc.ll.yourdata.text.error":
+    "ไม่สามารถเข้าถึงข้อมูลประวัติได้ในขณะนี้",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "คุณยังไม่ได้รับอีเมลยืนยันใช่หรือไม่ คุณอาจพิมพ์ที่อยู่อีเมลไม่ถูกต้อง ในกรณีนี้โปรดลงทะเบียนที่อยู่อีเมลของคุณอีกครั้ง<br><br>คุณได้เข้าไปยังลิงก์ยืนยันเพื่อยืนยันที่อยู่อีเมลของคุณแล้วใช่หรือไม่ สาเหตุอาจเกิดจากการประสานข้อมูลยังไม่เสร็จสมบูรณ์ โปรดรอสักครู่แล้วกดปุ่มอัปเดต",
+
+  "upmc.ll.global.PT":
+    "โปรตุเกส",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "คำแนะนำ",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "สำหรับลูกค้าที่ลงทะเบียนผ่านเว็บไซต์และแอปพลิเคชันอื่นของ Daimler Group และตราสินค้าในเครือ Daimler: เมื่อคุณแก้ไขข้อมูลในส่วนนี้ การเปลี่ยนแปลงจะครอบคลุมไปถึงประวัติทั่วไปที่อยู่ในเว็บไซต์และแอปพลิเคชันอื่นๆ (เช่น พอร์ทัลของ Mercedes me และ smart.com)",
+
+  "upmc.ll.global.language.hu":
+    "ฮังการี",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "โปแลนด์",
+
+  "upmc.ll.global.language.hr":
+    "โครเอเชีย",
+
+  "upmc.ll.yourdata.headline":
+    "ข้อมูล Mercedes me ID ของฉัน",
+
+  "upmc.ll.global.form.error.selectoption":
+    "โปรดเลือกตัวเลือกหนึ่งรายการ",
+
+  "upmc.ll.yourdata.password.text":
+    "เลือกใช้รหัสผ่านที่ปลอดภัยและหมั่นเปลี่ยนรหัสผ่านนี้อย่างสม่ำเสมอ",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "วันเกิด",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "กรุณากรอกที่อยู่ของคุณให้ครบถ้วน ที่อยู่นี้เป็นสิ่งจำเป็นเพื่อให้สามารถกำหนดข้อตกลงยินยอมเรื่องการคุ้มครองข้อมูลส่วนบุคคลของคุณตามกฎหมายได้อย่างชัดเจน",
+
+  "upmc.ll.global.language.pl":
+    "โปแลนด์",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "เดือน",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "เพิ่ม แก้ไข หรือลบรูปประจำตัวของคุณที่นี่",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "บัญชีผู้ใช้ของคุณกำลังเปิดใช้งานการคุ้มครองข้อมูลส่วนบุคคลขั้นสูง ข้อมูลของคุณจะปรากฏให้เห็นเฉพาะกลุ่มคนที่เลือก (เช่น ฝ่ายสนับสนุนพิเศษ) ภายในองค์กร Daimler AG เท่านั้น",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "เลือกรูปภาพ",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "เลือกภาษาที่ต้องการ",
+
+  "upmc.ll.global.form.text.mandatory":
+    "โปรดกรอกข้อมูลในช่องที่มีเครื่องหมาย * ให้ครบทุกช่อง",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "โปรดทราบว่า:<br>เราไม่สามารถถ่ายโอนรถยนต์ที่เชื่อมต่อไว้แล้วและข้อมูลส่วนตัวของคุณไปยังพอร์ทัล Mercedes me ของประเทศหรือภูมิภาคใหม่ที่เลือกได้ โปรดกรอกข้อมูลนี้ใหม่อีกครั้ง<br>และโปรดทราบว่า Mercedes me connect ไม่สามารถใช้งานในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้ กล่าวคือ คุณไม่สามารถใช้บริการเชื่อมต่อต่างๆ ของคุณได้อีก",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "หมายเลขบัตรประจำตัวประชาชน",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "กรุณาป้อนหมายเลขโทรศัพท์พื้นฐานของคุณ",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "กรุณาป้อนวันที่ให้ถูกต้อง",
+
+  "upmc.ll.global.MT":
+    "มอลตา",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "รายละเอียดที่อยู่เพิ่มเติม 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "รายละเอียดที่อยู่เพิ่มเติม 2 (ตำบล/แขวง)",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "รายละเอียดที่อยู่เพิ่มเติม 3 (อำเภอ/เขต)",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "โปรดเลือกทำเครื่องหมายในช่อง",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "ชื่อกลาง",
+
+  "upmc.ll.global.NO":
+    "นอร์เวย์",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "คำแนะนำ: ตรวจสอบความถูกต้องของหมายเลขโทรศัพท์มือถือของคุณเพื่อใช้ลงทะเบียนในพอร์ทัล Mercedes me<br>กดที่สัญลักษณ์แก้ไข และป้อนหมายเลขโทรศัพท์มือถือของคุณ",
+
+  "upmc.ll.global.NL":
+    "เนเธอร์แลนด์",
+
+  "upmc.ll.global.button.delete":
+    "ลบออก",
+
+  "upmc.ll.global.button.register":
+    "ลงทะเบียน",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "ชื่อจริง",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "หมายเลขโทรศัพท์มือถือ",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "ตู้ ป.ณ",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "รูปโปรไฟล์",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "ฉันได้อ่านคำแนะนำแล้วและต้องการดำเนินการต่อพร้อมทำการบันทึก<br>บริการต่างๆ ถูกปิดใช้งานแล้ว",
+
+  "upmc.ll.yourdata.phone.headline":
+    "โทรศัพท์",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "ไม่สามารถระบุข้อมูลที่อยู่ของประเทศหรือภูมิภาคนี้ได้เนื่องจากบริการของพอร์ทัล Mercedes me ไม่พร้อมใช้งานในพื้นที่ดังกล่าว",
+
+  "upmc.ll.global.language.no":
+    "นอร์เวย์",
+
+  "upmc.ll.global.language.nl":
+    "ภาษาดัตช์",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "วันเกิดที่ระบุไม่ถูกต้อง<br>โปรดตรวจสอบข้อมูลที่คุณเลือก",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "ลบรูปประจำตัว",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "ลบบัญชีผู้ใช้",
+
+  "upmc.ll.global.LV":
+    "ลัตเวีย",
+
+  "upmc.ll.global.button.submitandproceed":
+    "บันทึกและดำเนินการต่อ",
+
+  "upmc.ll.global.notification.title":
+    "คำแนะนำ:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "ชื่อบ้าน",
+
+  "upmc.ll.global.LT":
+    "ลิทัวเนีย",
+
+  "upmc.ll.global.LU":
+    "ลักเซมเบิร์ก",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "โปรดทราบว่า:<br>สามารถใช้งาน Mercedes me connect ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้<br>คุณสามารถตรวจสอบว่ารถยนต์ของคุณรองรับ Mercedes me connect หรือไม่โดยเปิดเมนู \"รถยนต์ของฉัน\" รถยนต์ที่มีฟังก์ชัน Mercedes me connect จะแสดงไอคอนและข้อความแนะนำ",
+
+  "upmc.ll.global.button.close":
+    "ปิด",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "โปรดทราบว่า:<br>ไม่สามารถใช้งาน Mercedes me connect ในประเทศหรือภูมิภาคใหม่ที่คุณเลือกได้ กล่าวคือ คุณไม่สามารถใช้บริการเชื่อมต่อต่างๆ ของคุณได้อีก",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "โปรดป้อนค่าที่ถูกต้องในช่องรหัสไปรษณีย์",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "โปรดกรอกวันเดือนปีเกิดของคุณให้ครบถ้วน",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "บ้านเลขที่",
+
+  "upmc.ll.yourdata.address.label.country":
+    "ประเทศ",
+
+  "upmc.ll.global.button.login":
+    "เข้าสู่ระบบ",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "หมายเลขโทรศัพท์บ้าน",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "ปิดใช้งานการคุ้มครองข้อมูลส่วนบุคคลขั้นสูง",
+
+  "upmc.ll.global.KR":
+    "เกาหลีใต้",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "โปรดกรอกข้อมูลในช่อง",
+
+  "upmc.ll.global.button.ok":
+    "ตกลง",
+
+  "upmc.ll.global.language.lv":
+    "ลัตเวีย",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "ไม่สามารถดำเนินการได้ในขณะนี้<br>โปรดลองใหม่อีกครั้งในภายหลัง",
+
+  "upmc.ll.global.LI":
+    "ลิกเตนสไตน์",
+
+  "upmc.ll.global.language.lt":
+    "ลิทัวเนีย",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "ฉันต้องการกรอกข้อมูล บริการต่างๆ ถูกปิดใช้งานแล้ว",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Payment Methods",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "No data stored",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Credit card number: ",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Expiry date: ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Expired.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Credit card holder: ",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Add means of payment",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Default",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Delete means of payment.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Are you sure to want to delete means of payment (**** **** **** ###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Privacy Statement of Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "น่าเสียดายที่คุณไม่ผ่านเกณฑ์อายุ",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "ชื่อไม่ตรงกับเลขประจำตัวผู้เสียภาษี",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "นามสกุลไม่ตรงกับเลขประจำตัวผู้เสียภาษี",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "วันเกิดไม่ตรงกับเลขประจำตัวผู้เสียภาษีีี",
+
+  "upmc.ll.yourdata.pin.text":
+    "ที่นี่คุณสามารถลบรหัส PIN เพื่อเชื่อมต่อกับ Mercedes-Benz ของคุณได้",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.empty":
+    "ที่นี่คุณสามารถตั้งรหัส PIN เพื่อเชื่อมต่อกับ Mercedes-Benz ของคุณได้",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "ลบรหัส Mercedes me PIN ของคุณ",
+
+  "upmc.ll.layer.pin.delete.request":
+    " คุณแน่ใจหรือว่าต้องการลบรหัส PIN",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "ขออภัย บริการนี้ยังไม่พร้อมใช้งานในขณะนี้โปรดลองใหม่อีกครั้งภายหลัง"
+
+}

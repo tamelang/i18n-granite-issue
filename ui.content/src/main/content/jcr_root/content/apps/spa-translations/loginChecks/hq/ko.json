@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "귀하의 Mercedes me ID는 다른 나라에 등록되어 있습니다 ({0}). 당신은 당신의 집 시장으로 방향을 바꾸고 싶습니다.",
+
+  "loginChecks.ll.global.button.close":
+    "가까운",
+
+  "loginChecks.ll.global.button.confirm":
+    "확인",
+
+  "loginChecks.ll.global.button.next":
+    "다음 것",
+
+  "loginChecks.ll.global.button.with.car":
+    "차량 보유자",
+
+  "loginChecks.ll.global.button.without.car":
+    "차량 미보유자",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "프로필 데이터 작성 방법을 선택하십시오.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "뒤로",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "로그인 절차를 완료하세요",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

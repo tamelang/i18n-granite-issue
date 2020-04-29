@@ -1,0 +1,888 @@
+{
+
+  "upmc.ll.global.language.de":
+    "الألمانية",
+
+  "upmc.ll.global.language.tr":
+    "التركية",
+
+  "upmc.ll.global.language.da":
+    "دانمركي",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### entspricht nicht dem gewÃ¼nschten Format",
+
+  "upmc.ll.profile.useragreements":
+    "شروط الاستخدام",
+
+  "upmc.ll.global.JP":
+    "اليابان",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "بلد جديد",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "البريد الإلكتروني:",
+
+  "upmc.ll.global.button.edit":
+    "تعديل",
+
+  "upmc.ll.global.language.cs":
+    "تشيكي",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "يرجى الاختيار",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "عنوان البريد الإلكتروني الذي أدخلته موجود بالفعل. يرجى إدخال عنوان بريد إلكتروني آخر.<br>ملحوظة: يمكن تخصيص عنوان بريد إلكتروني لحساب مستخدم Mercedes me واحد.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "يرجى اختيار الخانة ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "يرجى اختيار طريقة اتصال واحدة على الأقل.",
+
+  "upmc.ll.global.language.sv":
+    "سويدي",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "لم تقم بإدخال رقم خط أرضي.",
+
+  "upmc.ll.global.language.sk":
+    "سلوفاكي",
+
+  "upmc.ll.global.IT":
+    "إيطاليا",
+
+  "upmc.ll.global.language.sl":
+    "سلوفاكي",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "يرجى مراعاة:<br>للأسف لا نستطيع نقل سياراتك المُنشأ لها حساب والبيانات الشخصية إلى بوابة smart بالبلد الجديد المُختار. يرجى إدخال هذه البيانات من جديد.<br>علاوة على ذلك، يُراعى أن خدمات smart control لا تتوافر في البلد الجديد الذي اخترته. وهذا يعني أنه لم يعد بإمكانك الاستفادة من خدمات smart control.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "جنوب أفريقيا",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "يرجى إدخال رقم الخط الأرضي أو رقم الهاتف الجوال.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "ملحوظة: يمكنك ذكر عنوانك بالكامل، إذا قمت بتخزين التغيير إلى بلد جديد.",
+
+  "upmc.ll.global.language.bg":
+    "بلغاري",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "حذف حساب المستخدم",
+
+  "upmc.ll.global.language.ru":
+    "روسي",
+
+  "upmc.ll.yourdata.name.label.title":
+    "",
+
+  "upmc.ll.yourdata.email.add.again":
+    "تسجيل عنوان بريد إلكتروني جديد",
+
+  "upmc.ll.yourdata.refresh":
+    "تحديث",
+
+  "upmc.ll.global.language.ro":
+    "روماني",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "يُرجى ذكر تاريخ الميلاد طبقاً لجواز السفر.",
+
+  "upmc.ll.global.HU":
+    "المجر",
+
+  "upmc.ll.global.HR":
+    "كرواتيا",
+
+  "upmc.ll.global.button.submit":
+    "حفظ",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "لأجل ###label### يرجى إدخال ###chars### علامة بحد أقصى.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "لم يتم التحقق",
+
+  "upmc.ll.global.language.ar":
+    "عربي",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "هل لم تحصل على كود تفعيل؟ قد تكون أخطأت أثناء عملية الإدخال في كتابة رقم هاتفك الجوال. يُرجى في هذه الحالة تسجيل رقم هاتفك الجوال مُجدداً.<br><br>هل تلقيت كود التفعيل وترغب الآن في إدخاله؟ يُرجى مراعاة أنه لا يمكن إدخال كود التفعيل إلا عند تسجيل رقم الهاتف الجوال مباشرة. يُرجى تسجيل رقم هاتفك الجوال مُجدداً.<br><br>هل قمت بإدخال كود التفعيل بنجاح؟ قد تكون عملية المزامنة لم تتم بعد. يرجى الانتظار لوهلة قصيرة ثم انقر على تحديث.",
+
+  "upmc.ll.global.IE":
+    "أيرلندا",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "لأجل ###label### يرجى إدخال ###chars### علامة بحد أدنى.",
+
+  "upmc.ll.global.language.af":
+    "الأفريكانية",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "تم بنجاح إيقاف فعالية خاصية حماية البيانات الموسعة بالنسبة لحساب المستخدم الخاص بك.<br><br>لغرض إعادة تفعيل خاصية حماية البيانات الموسعة، يُرجى التوجه إلى وكيل مرسيدس ــ بنز.",
+
+  "upmc.ll.global.AE_DU":
+    "دبي",
+
+  "upmc.ll.global.GR":
+    "اليونان",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "إيقاف فعالية خاصية حماية بيانات موسعة.",
+
+  "upmc.ll.global.form.address.text":
+    "يرجى إدخال عنوان المراسلة.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "ملحوظة",
+
+  "upmc.ll.profile.namechange.confirm":
+    "ملحوظة",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "رقم الهاتف الجوال الذي أدخلته موجود بالفعل. يرجى إدخال رقم هاتف جوال آخر.<br>ملحوظة: يمكن تخصيص أي رقم هاتف جوال لحساب مستخدم Mercedes me واحد.",
+
+  "upmc.ll.layer.doc.error.header":
+    "إقرار الموافقة الخاص بالحماية القانونية للبيانات",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "اللقب:",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "يرجى إدخال تاريخ ميلاد كامل.",
+
+  "upmc.ll.global.language.pt":
+    "برتغالي",
+
+  "upmc.ll.yourdata.status.loading":
+    "يرجى الانتظار لوهلة قصيرة.",
+
+  "upmc.ll.global.button.administration":
+    "الإدارة",
+
+  "upmc.ll.global.AE_AZ":
+    "أبو ظبي",
+
+  "upmc.ll.profile.picture.position.request":
+    "اختر جزء الصورة المرغوب من خلال التحريك والتكبير أو التصغير.",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "قم باستكمال أو استبدال صورة ملف التعريف.",
+
+  "upmc.ll.global.FR":
+    "فرنسا",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "يجب التحقق من عناوين البريد الإلكترونية، لكي يتسنى الاستفادة من خدمات بوابة Mercedes me. لغرض التحقق من عنوان بريدك الإلكتروني، يُرجى القيام بتسجيله مُجدداً.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "رقم الهاتف الجوال",
+
+  "upmc.ll.global.text.today":
+    "اليوم",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "يرجى إدخال اسم عائلتك هنا.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "بوابة Mercedes me\u200f",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "الهاتف",
+
+  "todo.upmc.ll.payment.hdl":
+    "Payments",
+
+  "upmc.ll.yourdata.address.label.street":
+    "الشارع:",
+
+  "upmc.ll.global.GB":
+    "المملكة المتحدة",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "ترجمة بعض المحتويات إلى اللغة التي اخترتها ليست متاحة في الوقت الحالي. تظهر لك هذه المحتويات بلغة أخرى.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "يرجى مراعاة:<br>أن خدمات smart control تتوافر في البلد الجديد الذي اخترته.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "لم يتم إدخال رقم هاتف جوال.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "الاسم الأخير:",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "صورة ملف التعريف",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "يمكنك حذف حساب المستخدم الخاص بك عبر الرابط التالي. يرجى ملاحظة أن حذف حسابك سيؤدي إلى إلغاء تنشيط الخدمات الموجودة في مركبتك إضافةً إلى عدم الاستمتاع بجميع الحقوق المتاحة للمستخدم المشترك مع استمرار توفر الخدمات القياسية. أما إذا كنت ترغب في إنهاء استخدام جميع الخدمات تماماً، فيمكنك رفض جميع شروط الاستخدام (قبل حذف الحساب!) أو إرسال طلب إنهاء الحساب عبر رسالة أو فاكس إلى مركز خدمة العملاء الإقليمي:",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "هل ترغب حقاً في إيقاف فعالية خاصية حماية البيانات الموسعة بالنسبة لحساب المستخدم الخاص بك؟<br><br>ملحوظة: لغرض إعادة تفعيل خاصية حماية البيانات الموسعة في وقت لاحق، يُرجى التوجه إلى وكيل مرسيدس ــ بنز.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "يرجى مراعاة:<br>للأسف لا نستطيع نقل سياراتك المُنشأ لها حساب والبيانات الشخصية والإعدادات إلى البوابة بالبلد الجديد المُختار.<br>يُرجى إدخال هذه البيانات مُجدداً في البلد الجديد، لكي يتسنى لك الاستفادة من الخدمات من جديد.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "",
+
+  "upmc.ll.yourdata.address.headline":
+    "العنوان",
+
+  "upmc.ll.global.ES":
+    "إسبانيا",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "لم يتم ملء النموذج بشكل سليم. يرجى مراجعة بياناتك.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "رسالتك تشتمل على أكثر من علامة ###chars###! يُرجى اختصار النص.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "إيقاف الفعالية",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "سنة",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "يرجى إدخال اسمك الشخصي الثاني هنا.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "البيانات التالية ضرورية من أجل وظائف نظام تليماتيك:",
+
+  "upmc.ll.global.FI":
+    "فنلندا",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "يرجى إدخال قيمة ###label### صحيحة.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "المدينة:",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "يتعذر حالياً إتمام العملية لأسباب تقنية، يُرجى إعادة المحاولة في وقت لاحق.",
+
+  "upmc.ll.global.language.fr":
+    "الفرنسية",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "رقم الهاتف المتحرك:",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "يجب إدخال أرقام الخطوط الأرضية والهواتف الجوالة بالصيغة الدولية. مثال: \u200e+971152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "يرجى تحديد اختيار",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "تأكيد إيقاف الفعالية",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "يُرجى إضافة عنوان بريد إلكتروني.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "يمكنك رفع صور فقط بصيغة JPG أو PNG بسعة تخزين تبلغ 5 ميجابايت كحد أقصى وحجم أدنى يبلغ 300 × 300 بيكسل.",
+
+  "upmc.ll.profile.headline":
+    "ملف التعريف الخاص بي.",
+
+  "upmc.ll.global.button.completelater":
+    "الاستكمال لاحقا",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "لم تقم بإدخال عنوان بريد إلكتروني.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "إذا قمت بالاستمرار بدون استيفاء هذه البيانات، فسيتم إيقاف فعالية هذه الخدمات في جميع السيارات. وعندئذ لا يمكنك أنت والمُشتركون معك الاستفادة من هذه الخدمات.",
+
+  "upmc.ll.global.language.fi":
+    "فنلندي",
+
+  "upmc.ll.yourdata.email.add":
+    "إضافة عنوان البريد الإلكتروني",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "إضافة رقم هاتف جوال والتحقق",
+
+  "upmc.ll.global.button.connect":
+    "الربط",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "تستطيع التواصل معي كذلك عن طريق البريد الإلكتروني",
+
+  "upmc.ll.global.DK":
+    "الدنمارك",
+
+  "upmc.ll.global.form.mobile.verified":
+    "تم التحقق",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "لقد تعذر رفع هذا الملف:",
+
+  "upmc.ll.global.EE":
+    "إستونيا",
+
+  "upmc.ll.global.button.next":
+    "مواصلة",
+
+  "upmc.ll.global.language.es":
+    "إسباني",
+
+  "upmc.ll.global.language.et":
+    "إستوني",
+
+  "upmc.ll.yourdata.notverified":
+    "لم يتم التحقق",
+
+  "upmc.ll.global.US":
+    "الولايات المتحدة الأمريكية",
+
+  "upmc.ll.profile.picture.delete.request":
+    "هل ترغب حقاً في محو صورة ملف التعريف الخاص بك؟",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "يوم",
+
+  "upmc.ll.global.language.en":
+    "الإنجليزية",
+
+  "upmc.ll.global.language.el":
+    "يوناني",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "ونحتاج إلى هذه البيانات من أجل:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "يرجى ملء الخانات المميزة بالعلامة * في كافة الأحوال.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "تغيير عنوانك.",
+
+  "upmc.ll.yourdata.status.verified":
+    "تم التحقق",
+
+  "upmc.ll.global.CN":
+    "الصين",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "يرجى ملء الخانة ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "بريد إلكتروني",
+
+  "upmc.ll.global.TW":
+    "تايوان",
+
+  "upmc.ll.global.DE":
+    "ألمانيا",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "",
+
+  "upmc.ll.global.TR":
+    "تركيا",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "",
+
+  "upmc.ll.global.CY":
+    "جمهورية قبرص",
+
+  "upmc.ll.global.CZ":
+    "جمهورية التشيك",
+
+  "upmc.ll.yourdata.email.missing":
+    "لم يتم إدخال عنوان بريد إلكتروني.",
+
+  "upmc.ll.global.SE":
+    "السويد",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "يرجى مراعاة:<br>للأسف لا نستطيع نقل سياراتك المُنشأ لها حساب والبيانات الشخصية إلى بوابة Mercedes me بالبلد الجديد المُختار. يرجى إدخال هذه البيانات من جديد.<br>تتوافر خدمات Mercedes me connect في البلد الجديد الذي اخترته.<br>عند إنشاء حساب سيارتك، تعرف ما إذا كانت السيارة تدعم خدمات Mercedes me connect. يتم إرشادك من خلال كافة الخطوات ليتسنى لك الاستفادة من الخدمات.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "يُرجى استكمال صورة ملف التعريف الخاصة بك، لكي يتسنى استخدامها في الوحدة الرئيسية بسيارتك كصورة ملف تعريف خاصة بالسائق",
+
+  "upmc.ll.yourdata.email.error":
+    "يرجى إضافة عنوان بريد إلكتروني",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "رقم الهاتف الجوال",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "لم تقم بإدخال رقم هاتف جوال.",
+
+  "upmc.ll.global.CH":
+    "سويسرا",
+
+  "upmc.ll.global.button.cancel":
+    "إلغاء",
+
+  "upmc.ll.global.CA":
+    "كندا",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "اسحب صورة جديدة على المساحة أو اختر واحدة من خلال النقر على الزر.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "سلوفاكيا",
+
+  "upmc.ll.global.SI":
+    "سلوفينيا",
+
+  "upmc.ll.global.language.ko":
+    "الكورية",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Keine Daten hinterlegt",
+
+  "upmc.ll.global.AT":
+    "النمسا",
+
+  "upmc.ll.global.language":
+    "اللغة",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "ملحوظة",
+
+  "upmc.ll.yourdata.name.headline":
+    "الاسم",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "كلمة المرور",
+
+  "upmc.ll.global.BG":
+    "بلغاريا",
+
+  "upmc.ll.global.BE":
+    "بلجيكا",
+
+  "upmc.ll.global.RU":
+    "روسيا",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "ملحوظة: قم بتأكيد عنوان البريد الإلكتروني الخاص بك حتى يمكنك استخدامه في التسجيل لدى بوابة Mercedes me.<br>للقيام بذلك اضغط على رمز التعديل، وأدخل عنوان البريد الإلكتروني الخاص بك مجددا.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "الرقم البريدي",
+
+  "upmc.ll.global.button.back":
+    "رجوع",
+
+  "upmc.ll.global.errorid.notification.text":
+    "كود الخطأ للمتابعة من خدمة العملاء:",
+
+  "upmc.ll.global.RO":
+    "رومانيا",
+
+  "upmc.ll.global.hint.headline":
+    "ملحوظة",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "يجب التحقق من أرقام الهواتف الجوالة، لكي يتسنى الاستفادة من خدمات بوابة Mercedes me. لغرض التحقق من أرقام الهواتف الجوالة، يُرجى القيام بتدوينها مُجدداً.",
+
+  "upmc.ll.global.form.mobile.label":
+    "رقم الجوال",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "للأسف لا تتوافر خدمات smart control في البلد الجديد الذي اخترته. وهذا يعني أنه لم يعد بإمكانك الاستفادة من خدمات smart control.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "يرجى مراعاة:<br>للأسف لا نستطيع نقل سياراتك المُنشأ لها حساب والبيانات الشخصية إلى بوابة smart بالبلد الجديد المُختار. يرجى إدخال هذه البيانات من جديد.<br><br>أن خدمات smart control تتوافر في البلد الجديد الذي اخترته.<br>عند إنشاء حساب سيارتك، تعرف ما إذا كانت السيارة تدعم خدمات smart control. يتم إرشادك من خلال كافة الخطوات ليتسنى لك الاستفادة من الخدمات.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "أفضل طريقة للوصل إلىَّ عبر",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "© حقوق النشر محفوظة لشركة الإمارات للسيارات. جميع الحقوق محفوظة",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kartennummer: ",
+
+  "upmc.ll.global.language.ja":
+    "اليابانية",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "يرجى إدخال اسمك الشخصي هنا.",
+
+  "upmc.ll.global.language.zh":
+    "الصينية المبسّطة",
+
+  "upmc.ll.profile.doc.text.error":
+    "لا يمكن إجراء تغييرات في إقرار الموافقة حاليا. يرجى المحاولة لاحقا فيما بعد.",
+
+  "upmc.ll.global.language.it":
+    "الإيطالية",
+
+  "upmc.ll.global.button.print":
+    "طباعة",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "يرجى إضافة رقم هاتف جوال",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "يرجى مراعاة:<br>في حالة قيامك بتغيير البلد، قد يتم إيقاف فعالية خدماتك المُستخدمة. ويحدث هذا، نظراً لأن الخدمات المُقدمة وشروط الاستخدام السارية قد تختلف حسب البلد المعني.<br>قم بإعادة تفعيل الخدمات في البلد الجديد بسهولة تحت «إدارة الخدمات».",
+
+  "upmc.ll.global.button.confirm":
+    "تأكيد",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "خاصية حماية البيانات الموسعة",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "مرسيدس-بنز<br>مركز خدمة العملاء الإقليمي (تحدد البيانات لاحقاً)<br>فاكس: 7074 975 207 44+",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "اختر صورة جديدة من خلال النقر على الزر.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "تدوين رقم هاتف جوال مُجدداً والتحقق منه",
+
+  "upmc.ll.global.button.send":
+    "إرسال",
+
+  "upmc.ll.yourdata.text.error":
+    "لا يمكن الدخول على بيانات ملف التعريف في الوقت الحالي.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "هل لم تتلق رسالة تأكيد بالبريد الإلكتروني؟ قد تكون أخطأت في كتابة عنوان بريدك الإلكتروني. يُرجى في هذه الحالة تسجيل عنوان بريدك الإلكتروني مُجدداً.<br><br>هل سبق أن استدعيت رابط التأكيد للتحقق من عنوان بريدك الإلكتروني؟ قد تكون عملية المزامنة لم تتم بعد. يرجى الانتظار لوهلة قصيرة ثم انقر على تحديث.",
+
+  "upmc.ll.global.PT":
+    "البرتغال",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "ملحوظة",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Gültig bis: ",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "للعملاء، الذين قاموا بالتسجيل في مواقع إلكترونية أخرى وتطبيقات مجموعة دايملر وماركاتها: البيانات المُدخلة هنا يتم استخدامها من قبل جميع المواقع الإلكترونية والتطبيقات من مجموعة دايملر المشاركة في ملف التعريف المشترك.",
+
+  "upmc.ll.global.language.hu":
+    "مجري",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "بولندا",
+
+  "upmc.ll.global.language.hr":
+    "كرواتي",
+
+  "upmc.ll.yourdata.headline":
+    "بياناتي.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "يرجى تحديد خيار.",
+
+  "upmc.ll.yourdata.password.text":
+    "استخدم كلمة مرور آمنة وقم بتغييرها بانتظام.",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Die Karte ist abgelaufen.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "تاريخ الميلاد:",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "يرجى استكمال العنوان بالكامل. يعتبر هذا ضروريا لربط بيان الموافقة القانونية الخاصة بحماية البيانات بشخصك بوضوح.",
+
+  "upmc.ll.global.language.pl":
+    "بولندي",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "شهر",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "قم هنا باستكمال أو تغيير أو محو صورة ملف التعريف الخاص بك.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "حماية البيانات الموسعة فعالة لحساب المستخدم الخاص بك. يمكن فقط لمجموعات أشخاص مُختارة (على سبيل المثال فريق دعم خاص) رؤية بياناتك داخل شركة Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "اختيار صورة",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "اختيار اللغة المرغوبة",
+
+  "upmc.ll.global.form.text.mandatory":
+    "يرجى ملء الخانات المميزة بالعلامة * في كافة الأحوال.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "يرجى مراعاة:<br>للأسف لا نستطيع نقل سياراتك المُنشأ لها حساب والبيانات الشخصية إلى بوابة Mercedes me بالبلد الجديد المُختار. يرجى إدخال هذه البيانات من جديد.<br>علاوة على ذلك، يُرجى مراعاة أنه للأسف لا تتوافر خدمات Mercedes me connect في البلد الجديد الذي اخترته. وهذا يعني أنه لم يعد بإمكاك الاستفادة من خدمات connect.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "رقم بطاقة الهوية",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "يرجى إدخال رقم الخط الأرضي.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Karteninhaber: ",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "يرجى إدخال تاريخ صحيح.",
+
+  "upmc.ll.global.MT":
+    "مالطا",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "سطر إضافي للعنوان:",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "يرجى اختيار خانة.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "",
+
+  "upmc.ll.global.NO":
+    "النرويج",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "ملحوظة: قم بتأكيد رقم جوالك حتى يمكنك استخدامه في التسجيل لدى بوابة Mercedes me.<br>للقيام بذلك اضغط على رمز التعديل، وأدخل رقم جوالك مجددا.",
+
+  "upmc.ll.global.NL":
+    "هولندا",
+
+  "upmc.ll.global.button.delete":
+    "محو",
+
+  "upmc.ll.global.button.register":
+    "التسجيل",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "الاسم الأول:",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "رقم الهاتف الجوال",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "ص.ب:",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "صورة ملف التعريف",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "قمت بقراءة الإرشاد وأرغب في الاستمرار في التخزين.<br>يتم إيقاف فعالية الخدمات.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "الهاتف",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "لا يمكن إدخال بيانات العنوان لعدم توافر خدمات Mercedes me في هذا البلد.",
+
+  "upmc.ll.global.language.no":
+    "نرويجي",
+
+  "upmc.ll.global.language.nl":
+    "الهولندية",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "تاريخ الميلاد الذي أدخلته غير صالح.<br>يرجى مراجعة اختيارك.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "محو صورة ملف التعريف.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "محو حساب المستخدم",
+
+  "upmc.ll.global.LV":
+    "لاتفيا",
+
+  "upmc.ll.global.button.submitandproceed":
+    "حفظ ومواصلة",
+
+  "upmc.ll.global.notification.title":
+    "ملحوظة:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "",
+
+  "upmc.ll.global.LT":
+    "ليتوانيا",
+
+  "upmc.ll.global.LU":
+    "لوكسمبورغ",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "يرجى مراعاة:<br>تتوافر خدمات Mercedes me connect في البلد الجديد الذي اخترته.<br>يمكنك مشاهدة ما إذا كانت سيارتك تدعم خدمات Mercedes me connect، وذلك عندما تقوم بفتح بند القائمة «سياراتي». السيارات المزودة بوظيفة Mercedes me connect تكون مميزة بأيقونة ونص إرشادي.",
+
+  "upmc.ll.global.button.close":
+    "غلق",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "يرجى مراعاة:<br>أنه للأسف لا تتوافر خدمات Mercedes me connect في البلد الجديد الذي اخترته. وهذا يعني أنه لم يعد بإمكاك الاستفادة من خدمات connect.",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "يرجى إدخال قيمة صحيحة في خانة الرقم البريدي.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "يرجى إدخال تاريخ ميلاد كامل.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "رقم المنزل:",
+
+  "upmc.ll.yourdata.address.label.country":
+    "اسم الدولة:",
+
+  "upmc.ll.global.button.login":
+    "تسجيل الدخول",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "رقم الهاتف الأرضي",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "تم إيقاف فعالية خاصية حماية البيانات الموسعة.",
+
+  "upmc.ll.global.KR":
+    "كوريا الجنوبية",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "يُرجى ملء الخانة.",
+
+  "upmc.ll.global.button.ok":
+    "موافق",
+
+  "upmc.ll.global.language.lv":
+    "لاتفي",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "للأسف العملية ليست متاحة الآن.<br>يرجى المحاولة مجددا فيما بعد.",
+
+  "upmc.ll.global.LI":
+    "ليشتنشتاين",
+
+  "upmc.ll.global.language.lt":
+    "ليتواني",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "أرغب في استكمال البيانات. يتم إيقاف فعالية الخدمات.",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Privacy Statement of Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "تم التغيير بنجاح. سيتم إعادة توجيهك بعد قليل",
+
+  "upmc.ll.yourdata.pin.headline":
+    "رقم PIN لخدمة Mercedes me\u200f",
+
+  "upmc.ll.yourdata.pin.text":
+    "هنا يمكنك حذف رقم PIN الخاص بالتوصيل بسيارتك مرسيدس ــ بنز",
+
+  "upmc.ll.yourdata.pin.empty":
+    "هنا يمكنك تعيين رقم PIN الخاص بالتوصيل بسيارتك مرسيدس ــ بنز",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "حذف رقم PIN الخاص بك لخدمة Mercedes me\u200f",
+
+  "upmc.ll.layer.pin.delete.request":
+    " هل ترغب فعلاً في حذف رقم PIN؟"
+
+}

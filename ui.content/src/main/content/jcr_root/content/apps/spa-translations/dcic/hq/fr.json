@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Votre interlocuteur conseil et achat.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Votre interlocuteur S.A.V. et véhicules d\u2019occasion",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Vous n\u2019avez pas encore choisi de partenaire Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Choisir un partenaire Mercedes-Benz",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Choisissez à présent un partenaire Mercedes-Benz afin de bénéficier de tous les avantages de Mercedes me.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Plan du lieu",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Site marchand",
+
+  "dcic.ll.overview.title":
+    "Votre distributeur Mercedes-Benz.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Envoyer une demande",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Changer de partenaire Mercedes-Benz"
+
+}

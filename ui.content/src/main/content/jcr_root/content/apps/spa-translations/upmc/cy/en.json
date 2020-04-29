@@ -1,0 +1,23 @@
+{
+	"upmc.ll.global.JP": "Japan",
+	"upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text": "Extended data protection has been deactivated for your user account.<br><br>If you wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+	"upmc.ll.manageprofile.form.address.label.state": "State",
+	"upmc.ll.yourdata.extendeddataprotection.layer.hint.text": "Are you sure you want to deactivate extended data protection for your user account?<br><br>Note: If you subsequently wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "Landline and mobile telephone numbers must be entered in international format. Example: +357152123123123.",
+	"upmc.ll.global.CN": "China",
+	"upmc.ll.global.TW": "Taiwan",
+	"upmc.ll.global.language.ko": "Korean",
+	"upmc.ll.global.language.ja": "Japanese",
+	"upmc.ll.global.language.zh": "Simplified Chinese",
+	"upmc.ll.yourdata.deleteregistration.text.two": "You can also send us your cancellation request by letter or fax:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>PO Box 1456<br>6201 BL Maastricht<br>Netherlands<br>Fax: -",
+	"upmc.ll.global.KR": "South Korea",
+	"todo.upmc.ll.payment.noentries.msg": "No information recorded",
+	"todo.upmc.ll.payment.creditnumber.label": "Card number",
+	"todo.upmc.ll.payment.expirationdate.label": "Expiry date:",
+	"todo.upmc.ll.payment.expirationdate.hint": "The card has expired.",
+	"todo.upmc.ll.payment.cardholder.label": "Card holder",
+	"todo.upmc.ll.layer.payment.delete.request": "Are you sure you want to delete the means of payment (###digits###)?",
+	"todo.upmc.ll.payment.privacy.policy.action": "Data privacy statement of Daimler Mobility Services GmbH.",
+	"todo.upmc.ll.payment.error.general": "We're very sorry. Due to technical problems, the process cannot be completed. Please try again later.Thank you for your understanding.",
+    "upmc.ll.yourdata.privacypolicy.text.agreement": "By completing my registration, I confirm that I have read and agree to the <a href='https://www.mercedes-benz.com.cy/passengercars/content-pool/tool-pages/legal/privacy-statement.html'><u>Privacy Policy</u></a>."
+}

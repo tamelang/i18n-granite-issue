@@ -1,0 +1,27 @@
+{
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "upmc.ll.yourdata.pin.headline":
+    "PIN Mercedes me",
+
+  "upmc.ll.yourdata.pin.text":
+    "Aqui pode apagar o PIN para se conectar ao seu Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Aqui pode definir o PIN para se conectar ao seu Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Tem a certeza que quer apagar o PIN?",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Apagar o seu PIN Mercedes me",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Este serviço encontra-se indisponível de momento. Tente novamente mais tarde."
+
+}

@@ -1,0 +1,51 @@
+{
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "您可在此刪除 PIN 以連接您的 Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "您可在此設定 PIN 以連接您的 Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.request":
+    " 您是否確定要刪除 PIN？",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "刪除您的 Mercedes me PIN",
+
+  "todo.upmc.ll.payment.hdl":
+    "付款方式",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "未存储数据",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "信用卡卡号",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "到期日",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "已过期",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "信用卡持卡人：",
+
+  "todo.upmc.ll.payment.action":
+    "添加付款方式",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "默认",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "删除付款方式。",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "确定删除付款方式（**** **** **** ###位数###）？",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "抱歉暫時未能提供此服務。請稍後再試。"
+
+}

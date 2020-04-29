@@ -1,0 +1,18 @@
+{
+
+  "mos.ll.global.button.show":
+    "Anzeigen",
+
+  "mos.ll.global.dropdown.select":
+    "Modell (Baureihe und Aufbauform)",
+
+  "mos.ll.global.dropdown.years":
+    "Baujahr (Serie)",
+
+  "mos.ll.global.model.text":
+    "Um ausgewählte Inhalte oder Angebote für nicht gespeicherte Fahrzeuge anzeigen zu könnnen, haben Sie hier die Möglichkeit Ihren Mercedes - auch wenn er schon älter ist - auszuwählen.",
+
+  "mos.ll.global.set.model.not.available":
+    "An unexpected error occurred, please try again later or contact the Support."
+
+}

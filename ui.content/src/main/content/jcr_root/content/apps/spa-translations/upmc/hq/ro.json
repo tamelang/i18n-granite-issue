@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "germană",
+
+  "upmc.ll.global.language.tr":
+    "turcă",
+
+  "upmc.ll.global.language.da":
+    "daneză",
+
+  "upmc.ll.profile.useragreements":
+    "Condiții de utilizare",
+
+  "upmc.ll.global.JP":
+    "Japonia",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Noua țară sau regiune",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Adresa de e-mail",
+
+  "upmc.ll.global.button.edit":
+    "Editare",
+
+  "upmc.ll.global.language.cs":
+    "cehă",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Vă rugăm să selectați",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Adresa de e-mail specificată există deja. Vă rugăm să introduceți o altă adresă de e-mail.<br>Indicație: Pentru fiecare adresă de e-mail se poate aloca doar un cont de utilizator Mercedes me.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Vă rugăm selectați câmpul ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Vă rugăm să alegeți cel puțin un mod de contactare.",
+
+  "upmc.ll.global.language.sv":
+    "suedeză",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Nu ați introdus un număr de telefon fix.",
+
+  "upmc.ll.global.language.sk":
+    "slovacă",
+
+  "upmc.ll.global.IT":
+    "Italia",
+
+  "upmc.ll.global.language.sl":
+    "slovacă",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, autovehiculele și datele personale înregistrate ale dvs. nu au putut fi transferate în portalul smart al noii țări sau regiuni selectate. Vă rugăm să introduceți din nou aceste date.<br>Țineți cont și că smart control nu este disponibil în noua țară sau regiune selectată. Aceasta înseamnă că . nu mai puteți utiliza serviciile dvs. smart control.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Africa de Sud",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Vă rugăm să introduceți numărul dvs. de telefon fix sau de telefon mobil.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Afixul numelui",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Număr etaj",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Indicație: Puteți introduce adresa dvs. completă atunci când ați salvat modificarea țării sau a regiunii.",
+
+  "upmc.ll.global.language.bg":
+    "bulgară",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Ștergere cont de utilizator",
+
+  "upmc.ll.global.language.ru":
+    "rusă",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Titlu",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Înregistrare adresă nouă de e-mail",
+
+  "upmc.ll.yourdata.refresh":
+    "Actualizare",
+
+  "upmc.ll.global.language.ro":
+    "română",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Ungaria",
+
+  "upmc.ll.global.HR":
+    "Croația",
+
+  "upmc.ll.global.button.submit":
+    "Salvare",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Vă rugăm să introduceți pentru ###label### un număr maxim de ###chars### caractere.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "nu este verificat",
+
+  "upmc.ll.global.language.ar":
+    "arabă",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Nu ați primit niciun cod de activare? Este posibil să fi introdus greșit numărul dvs. de telefon mobil. În acest caz, vă rugăm să introduceți din nou numărul dvs. de telefon mobil.<br><br>Ați primit codul de activare și doriți să îl introduceți acum? Vă rugăm să țineți cont că introducerea codului de activare se poate realiza direct numai odată cu înregistrarea numărului de telefon mobil. Vă rugăm să înregistrați din nou numărul dvs. de telefon mobil.<br><br>Ați introdus deja cu succes codul de activare? Se poate întâmpla ca sincronizarea să nu fi avut loc. Vă rugăm să așteptați o clipă și să faceți clic pe \u201eActualizare\u201d.",
+
+  "upmc.ll.global.IE":
+    "Irlanda",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Vă rugăm să introduceți pentru ###label### un număr minim de ###chars### caractere.",
+
+  "upmc.ll.global.language.af":
+    "afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Protecția extinsă de date pentru contul dvs. de utilizator a fost dezactivată cu succes.<br><br>Dacă doriți să reactivați protecția extinsă a datelor, vă rugăm să vă adresați partenerului dvs. Mercedes-Benz.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Grecia",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Dezactivați protecția extinsă a datelor.",
+
+  "upmc.ll.global.form.address.text":
+    "Vă rugăm să introduceți adresa dvs. de înregistrare.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Judeţ",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Țară",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Indicație",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Indicație",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Numărul de telefon mobil specificat există deja. Vă rugăm să introduceți un alt număr de telefon mobil.<br>Indicație: Pentru fiecare număr de telefon mobil se poate aloca doar un cont de utilizator Mercedes me.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Formă de adresare",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Vă rugăm să introduceți data completă a nașterii.",
+
+  "upmc.ll.global.language.pt":
+    "portugheză",
+
+  "upmc.ll.yourdata.status.loading":
+    "Vă rugăm să aveți răbdare o clipă.",
+
+  "upmc.ll.global.button.administration":
+    "Gestionare",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Selectați secțiunea dorită a imaginii prin deplasare și mărire sau micșorare.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Completare sau înlocuire poză de profil.",
+
+  "upmc.ll.global.FR":
+    "Franța",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Adresele de e-mail trebuie verificate pentru a putea fi utilizate în Portalul Mercedes me. Pentru a verifica adresa dvs. de e-mail, vă rugăm să introduceți adresa din nou.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Număr de telefon mobil",
+
+  "upmc.ll.global.text.today":
+    "Astăzi",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Vă rugăm să introduceți numele dvs. de familie.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Portalul Mercedes me",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Număr de telefon fix",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Stradă",
+
+  "upmc.ll.global.GB":
+    "Marea Britanie",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Momentan, nu toate conținuturile sunt disponibile traduse în limba selectată de dvs. Vă vom afișa aceste conținuturi într-o altă limbă.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Vă rugăm să țineți cont de următorul aspect:<br>smart control este disponibil în noua țară sau regiune selectată.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Nu a fost introdus un număr de telefon mobil.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Nume",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Imagine de profil",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Folosind linkul de mai jos, veți putea să vă ștergeți contul de utilizator. Vă rugăm să țineți cont că, odată cu ștergerea contului toate serviciile pentru autovehiculele dvs. vor fi dezactivate și toate autorizațiile de co-utilizator vor fi anulate.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Sunteți sigur că doriți să dezactivați protecția extinsă de date din contul dvs. de utilizator?<br><br>Indicație: Dacă doriți să reactivați protecția extinsă a datelor, vă rugăm să vă adresați partenerului dvs. Mercedes-Benz.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, autovehiculele, datele personale și setările dvs. înregistrate nu au putut fi transferate în portalul noii țări sau regiuni selectate.<br>Vă rugăm să introduceți din nou aceste date în noua țară sau regiune, pentru a putea utiliza din nou serviciile.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Număr de telefon fix",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adresa",
+
+  "upmc.ll.global.ES":
+    "Spania",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Formularul nu a fost completat corect. Vă rugăm să verificați datele introduse.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Mesajul dvs. are mai mult de ###chars### caractere! Vă rugăm să scurtați textul.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Dezactivare",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Anul",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Vă rugăm să introduceți cel de-al doilea prenume al dvs.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Următoarele informații sunt necesare pentru funcțiile telematice:",
+
+  "upmc.ll.global.FI":
+    "Finlanda",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Vă rugăm să introduceți o valoare valabilă pentru ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Localitate",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "În prezent acțiunea nu este posibilă din cauza unei probleme tehnice, reîncercați mai târziu.",
+
+  "upmc.ll.global.language.fr":
+    "franceză",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Număr telefon mobil",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Numerele de telefon fix și de telefon mobil trebuie specificate în format internațional. Exemplu: +40152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Vă rugăm să faceți o alegere",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Confirmați dezactivarea",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Vă rugăm să adăugați o adresă de e-mail.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Puteți încărca numai imagini în format JPG sau PNG, de maxim 5 MB și o dimensiune minimă de 300x300 pixeli.",
+
+  "upmc.ll.profile.headline":
+    "Profilul meu.",
+
+  "upmc.ll.global.button.completelater":
+    "Completați mai târziu",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Nu ați introdus o adresă de e-mail.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Dacă veți continua fără aceste informații, toate aceste servicii vor fi dezactivate pentru toate autovehiculele. În acest caz, serviciile nu vor mai putea fi utilizate de către dvs. sau de către eventualii co-utilizatori autorizați.",
+
+  "upmc.ll.global.language.fi":
+    "finlandeză",
+
+  "upmc.ll.yourdata.email.add":
+    "Adăugare adresă de e-mail",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Adăugați numărul de telefon mobil și verificați numărul",
+
+  "upmc.ll.global.button.connect":
+    "Conectați",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Mă puteți contacta pe e-mail",
+
+  "upmc.ll.global.DK":
+    "Danemarca",
+
+  "upmc.ll.global.form.mobile.verified":
+    "verificat",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Acest fișier nu a putut fi încărcat:",
+
+  "upmc.ll.global.EE":
+    "Estonia",
+
+  "upmc.ll.global.button.next":
+    "Mai departe",
+
+  "upmc.ll.global.language.es":
+    "spaniolă",
+
+  "upmc.ll.global.language.et":
+    "estoniană",
+
+  "upmc.ll.yourdata.notverified":
+    "nu este verificat",
+
+  "upmc.ll.global.US":
+    "SUA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Sunteți sigur că doriți să vă ștergeți poza de profil?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Ziua",
+
+  "upmc.ll.global.language.en":
+    "engleză",
+
+  "upmc.ll.global.language.el":
+    "greacă",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Aceste informații sunt necesare pentru:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Câmpurile marcate cu * trebuie completate obligatoriu.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Modificarea adresei dvs.",
+
+  "upmc.ll.yourdata.status.verified":
+    "verificat",
+
+  "upmc.ll.global.CN":
+    "China",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Vă rugăm să completați câmpul ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Adresa de e-mail",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.global.DE":
+    "Germania",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Număr locuință",
+
+  "upmc.ll.global.TR":
+    "Turcia",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Cod poștal",
+
+  "upmc.ll.global.CY":
+    "Republica Cipru",
+
+  "upmc.ll.global.CZ":
+    "Republica Cehă",
+
+  "upmc.ll.yourdata.email.missing":
+    "Nu a fost introdusă o adresă de e-mail.",
+
+  "upmc.ll.global.SE":
+    "Suedia",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, autovehiculele dvs. înregistrate și datele personale nu au putut fi transferate în Portalul Mercedes me al noii țări sau regiuni selectate. Vă rugăm să introduceți din nou aceste date.<br>Mercedes me connect este disponibil în noua țară sau regiune aleasă de dvs.<br>În momentul înregistrării autovehiculului dvs. veți afla dacă acesta suportă Mercedes me connect sau nu. Apoi veți parcurge toți pașii pentru a putea utiliza serviciile.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Completați, modificați sau ștergeți de aici imaginea dvs. de profil.",
+
+  "upmc.ll.yourdata.email.error":
+    "Vă rugăm să adăugați o adresă de e-mail",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Număr de telefon mobil",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Nu ați introdus un număr de telefon mobil.",
+
+  "upmc.ll.global.CH":
+    "Elveția",
+
+  "upmc.ll.global.button.cancel":
+    "Renunțare",
+
+  "upmc.ll.global.CA":
+    "Canada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Trageți noua imagine pe suprafață sau selectați-o prin clic pe buton.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovacia",
+
+  "upmc.ll.global.SI":
+    "Slovenia",
+
+  "upmc.ll.global.language.ko":
+    "coreeană",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Tipul de stradă",
+
+  "upmc.ll.global.AT":
+    "Austria",
+
+  "upmc.ll.global.language":
+    "Limbă",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Indicație",
+
+  "upmc.ll.yourdata.name.headline":
+    "Nume",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Parolă",
+
+  "upmc.ll.global.BG":
+    "Bulgaria",
+
+  "upmc.ll.global.BE":
+    "Belgia",
+
+  "upmc.ll.global.RU":
+    "Rusia",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Indicație: Vă rugăm să vă verificați adresa de e-mail, pentru a o putea folosi la înregistrarea pe Portalul Mercedes me.<br>Faceți clic pe simbolul de prelucrare și introduceți din nou adresa dvs. de e-mail.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Cod poștal",
+
+  "upmc.ll.global.button.back":
+    "Înapoi",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Cod de eroare pentru urmărire ulterioară la serviciul pentru clienți:",
+
+  "upmc.ll.global.RO":
+    "România",
+
+  "upmc.ll.global.hint.headline":
+    "Indicație",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Numerele de telefon mobil trebuie verificate pentru a putea fi utilizate în Portalul Mercedes me. Pentru a verifica numerele de telefon mobil, vă rugăm înregistrați-le din nou.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Număr telefon mobil",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Din păcate, smart control nu este disponibil în noua țară sau regiune selectată. Aceasta înseamnă că . nu mai puteți utiliza serviciile dvs. smart control.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, autovehiculele și datele personale înregistrate ale dvs. nu au putut fi transferate în portalul smart al noii țări sau regiuni selectate. Vă rugăm să introduceți din nou aceste date.<br><br>smart control este disponibil în noua țară sau regiune selectată.<br>În momentul înregistrării autovehiculului dvs. veți afla dacă acesta suportă sau nu smart control. Apoi veți parcurge toți pașii pentru a putea utiliza serviciile.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Preferabil mă contactați pe",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Număr de telefon mobil verificat",
+
+  "upmc.ll.global.language.ja":
+    "japoneză",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Vă rugăm să introduceți prenumele dvs.",
+
+  "upmc.ll.global.language.zh":
+    "Chineză simplificată",
+
+  "upmc.ll.profile.doc.text.error":
+    "Momentan, nu puteți aduce modificări declarației de acord. Vă rugăm să reîncercați mai târziu.",
+
+  "upmc.ll.global.language.it":
+    "italiană",
+
+  "upmc.ll.global.button.print":
+    "Tipăriți",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Vă rugăm să adăugați un număr de telefon mobil",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Atunci când modificați țara sau regiunea, se poate întâmpla ca serviciile utilizate de dvs. să fie dezactivate. Acest lucru se întâmplă deoarece serviciile oferite și condițiile de utilizare aplicabile pot fi diferite de la țară la țară, sau de la regiune la regiune.<br>Pur și simplu reactivați serviciile în noua țară sau regiune de la \u201eGestionare servicii\u201c.",
+
+  "upmc.ll.global.button.confirm":
+    "Confirmare",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Protecția extinsă a datelor",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Ne puteți transmite dorința dvs. de reziliere și în scris, prin poștă sau fax:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>C.P. 1456<br>6201 BL Maastricht<br>Olanda<br>Fax: +40216550748",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Al doilea nume de familie",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Selectare imagine nouă prin clic pe buton.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Înregistrați un număr nou de telefon mobil și verificați-l",
+
+  "upmc.ll.global.button.send":
+    "Trimiteți",
+
+  "upmc.ll.yourdata.text.error":
+    "Momentan, accesul la datele de profil nu este disponibil.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Nu ați primit niciun e-mail de confirmare? Este posibil să fi introdus greșit adresa de e-mail. În acest caz, vă rugăm să introduceți din nou adresa dvs. de e-mail.<br><br>Ați solicitat deja un link de confirmare pentru verificarea adresei dvs.? Se poate întâmpla ca sincronizarea să nu fi avut loc. Vă rugăm să așteptați o clipă și să faceți clic pe \u201eActualizare\u201d.",
+
+  "upmc.ll.global.PT":
+    "Portugalia",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Indicație",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Pentru clienții care s-au înregistrat pe alte pagini de Internet și aplicații ale grupului Daimler și mărcile acestuia: Dacă vă modificați datele aici, modificările vor fi preluate de toate paginile de Internet și aplicațiile care au acces la profilul comun (de exemplu, Portalul Mercedes me și smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "maghiară",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Polonia",
+
+  "upmc.ll.global.language.hr":
+    "croată",
+
+  "upmc.ll.yourdata.headline":
+    "Datele mele Mercedes me ID.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Vă rugăm să selectați o opțiune.",
+
+  "upmc.ll.yourdata.password.text":
+    "Folosiți o parolă sigură și schimbați-o periodic.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Data nașterii",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Vă rugăm să introduceți adresa dvs. completă. Acest lucru este necesar pentru a se stabili clar că declarația de acord privind protecția datelor vă aparține.",
+
+  "upmc.ll.global.language.pl":
+    "poloneză",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Luna",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Completați, modificați sau ștergeți de aici imaginea dvs. de profil.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Protecția extinsă a datelor este activă pentru contul dvs. Datele dvs. sunt vizibile numai anumitor grupuri de persoane (de ex. o echipă specială de asistență) din cadrul Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Selectare imagine",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Selectați limba dorită",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Câmpurile marcate cu * trebuie completate obligatoriu.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, autovehiculele dvs. înregistrate și datele personale nu au putut fi transferate în Portalul Mercedes me al noii țări sau regiuni selectate. Vă rugăm să introduceți din nou aceste date.<br>De asemenea, țineți cont de faptul că Mercedes me connect nu este disponibil în noua țară sau regiune aleasă de dvs. Aceasta înseamnă că . nu mai puteți utiliza serviciile dvs. connect.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Vă rugăm să introduceți numărul dvs. de telefon fix.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Vă rugăm să introduceți o dată valabilă.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Rând suplimentar pentru adresă 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Rând suplimentar pentru adresă 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Rând suplimentar pentru adresă 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Vă rugăm selectați câmpul.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Al doilea prenume",
+
+  "upmc.ll.global.NO":
+    "Norvegia",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Indicație: Verificați-vă numărul de telefon mobil, pentru a-l putea folosi la înregistrarea pe Portalul Mercedes me.<br>Faceți clic pe simbolul de editare și introduceți din nou numărul dvs. de telefon mobil.",
+
+  "upmc.ll.global.NL":
+    "Olanda",
+
+  "upmc.ll.global.button.delete":
+    "Ștergere",
+
+  "upmc.ll.global.button.register":
+    "Înregistrare",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Prenume",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Număr de telefon mobil",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Cutie poștală",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Imagine de profil",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Am citit indicațiile și doresc să continui cu stocarea datelor.<br>Serviciile au fost dezactivate.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Pentru această țară sau regiune nu se pot introduce date referitoare la adresă, întrucât serviciile Portalului Mercedes me nu sunt disponibile în această țară sau regiune.",
+
+  "upmc.ll.global.language.no":
+    "norvegiană",
+
+  "upmc.ll.global.language.nl":
+    "olandeză",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Data nașterii indicată este invalidă.<br>Vă rugăm să vă verificați selecția.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Ștergere poza de profil.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Ștergere cont de utilizator",
+
+  "upmc.ll.global.LV":
+    "Letonia",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Salvați și continuați",
+
+  "upmc.ll.global.notification.title":
+    "Indicație:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Nume casă",
+
+  "upmc.ll.global.LT":
+    "Lituania",
+
+  "upmc.ll.global.LU":
+    "Luxemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Mercedes me connect este disponibil în noua țară sau regiune aleasă de dvs.<br>Dacă autovehiculul dvs. suportă Mercedes me connect, veți vedea cum se deschide secțiunea din meniu \u201eAutovehiculele mele\u201d. Autovehiculele cu funcție Mercedes me connect sunt marcate acolo cu o pictogramă și cu un text descriptiv.",
+
+  "upmc.ll.global.button.close":
+    "Închidere",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Vă rugăm să țineți cont de următorul aspect:<br>Din păcate, Mercedes me connect nu este disponibil în noua dvs. țară sau regiune. Aceasta înseamnă că . nu mai puteți utiliza serviciile dvs. connect.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Vă rugăm să introduceți o valoare valabilă în câmpul Cod poștal.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Vă rugăm să introduceți data completă a nașterii.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Nr. imobil",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Țară sau regiune",
+
+  "upmc.ll.global.button.login":
+    "Autentificare",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Număr de telefon fix",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Dezactivarea protecției extinse de date.",
+
+  "upmc.ll.global.KR":
+    "Coreea de Sud",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Vă rugăm să completați câmpul.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "letonă",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Din păcate, operațiunea nu este posibilă în acest moment.<br>Vă rugăm să reîncercați mai târziu.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "lituaniană",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Doresc să completez datele. Serviciile au fost dezactivate.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Mijloc de plată",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Nu sunt înregistrate date",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Numărul cardului",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Valabil până la",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Cardul a expirat.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Deținătorul cardului",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Adăugați mijloc de plată",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Setare inițială",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Ștergeți mijlocul de plată.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Sunteți sigur că vreți să ștergeți mijlocul de plată (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Declarația privind protecția datelor a firmei Daimler Mobility Services GmbH.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Ne pare foarte rău. Datorită unor probleme tehnice, procedura nu poate fi finalizată. Vă rugăm să reîncercați mai târziu. Vă mulțumim pentru înțelegere.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Din păcate, nu îndepliniți cerința de vârstă",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Vă rugăm să completați următoarele date:",
+
+  "todo.upmc.ll.hus.valid":
+    "Ați completat datele necesare.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Link invalid",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Fără acceptarea condițiilor de utilizare pentru Serviciile Mercedes me connect și smart control, utilizarea serviciilor nu este, din păcate, posibilă.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Pentru a putea folosi anumite servicii și funcții vocale în autovehicul este necesară acceptarea acordului de licență pentru utilizatorul final Nuance și acordul pentru utilizarea datelor de către Nuance.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Este necesar acordul",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Finalizat",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Nicio autorizare",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Spre site-ul de internet Mercedes me Store",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Prin finalizarea înregistrării contului meu, confirm  că am citit și sunt de acord cu <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Politica de Confidențialitate<\/a>.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Prenumele nu se potrivește cu codul fiscal",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Numele de familie nu se potrivește cu codul fiscal",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Data nașterii nu se potrivește cu codul fiscal",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Modificarea dumneavoastră a reușit. Veți fi redirecționat în scurt timp",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Cod PIN Mercedes me",
+
+  "upmc.ll.yourdata.pin.text":
+    "Aici puteți șterge codul PIN pentru conectare cu autovehiculul dumneavoastră Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Aici puteți seta codul PIN pentru conectare cu autovehiculul dumneavoastră Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Ștergeți codul dumneavoastră PIN Mercedes me",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Sunteți sigur că vreți să ștergeți codul PIN?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Ne cerem scuze, acest serviciu este momentan indisponibil. Vă rugăm să reîncercați mai târziu."
+
+}

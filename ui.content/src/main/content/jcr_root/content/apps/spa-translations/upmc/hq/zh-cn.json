@@ -1,0 +1,900 @@
+{
+
+  "upmc.ll.global.language.de":
+    "德语",
+
+  "upmc.ll.global.language.tr":
+    "土耳其语",
+
+  "upmc.ll.global.language.da":
+    "丹麦语",
+
+  "upmc.ll.profile.useragreements":
+    "使用条款",
+
+  "upmc.ll.global.JP":
+    "日本",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "新的国家或地区",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "电子邮件地址",
+
+  "upmc.ll.global.button.edit":
+    "编辑",
+
+  "upmc.ll.global.language.cs":
+    "捷克语",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "请选择",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "给出的电子邮件地址已经存在。请输入另一个电子邮件地址。<br>提示：每个电子邮件地址只能分配一个 Mercedes me 用户帐号。",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "请选择字段 ###label###。",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "请至少选择一种联系方式。",
+
+  "upmc.ll.global.language.sv":
+    "瑞典语",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "您未输入固定电话号码。",
+
+  "upmc.ll.global.language.sk":
+    "斯洛伐克语",
+
+  "upmc.ll.global.IT":
+    "意大利",
+
+  "upmc.ll.global.language.sl":
+    "斯洛伐克语",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "请注意：<br>很遗憾，我们无法将您添加的车辆和个人数据传输到新选择国家或地区的 smart 客户端中。请重新提供这些数据。<br>此外请注意，smart control 在您新选择的国家或地区不可用。即 您无法再使用 smart control 服务。",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "南非",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "请输入您的固定电话号码或移动电话号码。",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "称呼",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "地籍号",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "提示：如果您已保存更换至新的国家或地区，您可以输入您的完整地址。",
+
+  "upmc.ll.global.language.bg":
+    "保加利亚语",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "删除用户帐号",
+
+  "upmc.ll.global.language.ru":
+    "俄语",
+
+  "upmc.ll.yourdata.name.label.title":
+    "头衔",
+
+  "upmc.ll.yourdata.email.add.again":
+    "重新输入电子邮件地址",
+
+  "upmc.ll.yourdata.refresh":
+    "更新",
+
+  "upmc.ll.global.language.ro":
+    "罗马尼亚语",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "請提供護照上的出生日期。",
+
+  "upmc.ll.global.HU":
+    "匈牙利",
+
+  "upmc.ll.global.HR":
+    "克罗地亚",
+
+  "upmc.ll.global.button.submit":
+    "保存",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "请为 ###label### 输入最多 ###chars### 个字符。",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "未验证",
+
+  "upmc.ll.global.language.ar":
+    "阿拉伯语",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "您没有获得激活码？您的移动电话号码可能输入错误。在这种情况下请重新输入您的移动电话号码。<br><br>您已获得激活码，想要现在输入？请注意，必须在输入移动电话号码后立即输入激活码。请重新输入您的移动电话号码。<br><br>您是否已成功输入激活码？可能出现同步尚未完成的情况。请等待片刻，然后点击\u201c更新\u201d。",
+
+  "upmc.ll.global.IE":
+    "爱尔兰",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "请为 ###label### 输入最少 ###chars### 个字符。",
+
+  "upmc.ll.global.language.af":
+    "南非荷兰语",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "您的用户帐号的高级数据保护已停用。<br><br>如需再次激活高级数据保护，请联系您的梅赛德斯-奔驰授权服务中心。",
+
+  "upmc.ll.global.AE_DU":
+    "迪拜",
+
+  "upmc.ll.global.GR":
+    "希腊",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "停用高级数据保护",
+
+  "upmc.ll.global.form.address.text":
+    "请输入您的注册地址。",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "省",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "区",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "提示",
+
+  "upmc.ll.profile.namechange.confirm":
+    "提示",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "给出的移动电话号码已经存在。请输入另一个移动电话号码。<br>提示：每个移动电话号码只能分配一个 Mercedes me 用户帐号。",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "称呼",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "请输入您的完整出生日期。",
+
+  "upmc.ll.global.language.pt":
+    "葡萄牙语",
+
+  "upmc.ll.yourdata.status.loading":
+    "请稍等片刻。",
+
+  "upmc.ll.global.button.administration":
+    "管理",
+
+  "upmc.ll.global.AE_AZ":
+    "阿布扎比",
+
+  "upmc.ll.profile.picture.position.request":
+    "通过移动、放大或缩小来选择所需的图片部分。",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "添加或更换档案图片",
+
+  "upmc.ll.global.FR":
+    "法国",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "必须验证电子邮件地址，才能在 Mercedes me 客户端中使用。要验证电子邮件地址，请重新输入。",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "移动电话号码",
+
+  "upmc.ll.global.text.today":
+    "今天",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "请在这里输入您的姓。",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me 客户端",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "固定电话号码",
+
+  "upmc.ll.yourdata.address.label.street":
+    "街道",
+
+  "upmc.ll.global.GB":
+    "英国",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "目前并非所有内容都已翻译成您所选择的语言。我们将用另一种语言为您显示这些内容。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "请注意：<br>smart control 在您新选择的国家或地区可用。",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "未提供移动电话号码。",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "姓",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "档案图片",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "通过下面的链接可以删除您的用户账号。请注意，删除后您车辆中的所有服务会被禁用，同时所有共同用户权限均会取消。",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "是否确实需要为您的用户账号停用高级数据保护？<br><br>提示：此后如需再次激活高级数据保护，请联系您的梅赛德斯-奔驰授权服务中心。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "请注意：<br>很遗憾，我们无法将您添加的车辆、个人数据和设置传输到新选择国家或地区的客户端中。<br>请在新的国家或地区重新提供这些数据，以便能够再次使用服务。",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "固定电话号码",
+
+  "upmc.ll.yourdata.address.headline":
+    "地址",
+
+  "upmc.ll.global.ES":
+    "西班牙",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "表格未正确填写。请检查您的输入",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "您的信息超过 ###chars### 个字符！请缩短文本。",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "禁用",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "年",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "请在这里输入您的中间名。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "车载智能信息系统的功能需要以下数据：",
+
+  "upmc.ll.global.FI":
+    "芬兰",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "请提供 ###label### 的有效数值。",
+
+  "upmc.ll.yourdata.address.label.city":
+    "城市",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "由于技术问题目前无法执行操作，请稍后重试。",
+
+  "upmc.ll.global.language.fr":
+    "法语",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "移动电话号码",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "固定电话和移动电话号码必须以国际格式给出。示例：+49152123123123",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "请进行选择",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "确认停用",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "请添加电子邮件地址。",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "只能上传 JPG 或 PNG 格式的图片，且不得超过 5 MB，最低像素为 300x300。",
+
+  "upmc.ll.profile.headline":
+    "个人档案",
+
+  "upmc.ll.global.button.completelater":
+    "以后补充",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "您还没有提供电子邮件地址。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "如果在没有这些数据的情况下继续，服务会在所有车辆中禁用。您和其他共同用户之后便无法再使用这些服务。",
+
+  "upmc.ll.global.language.fi":
+    "芬兰语",
+
+  "upmc.ll.yourdata.email.add":
+    "添加电子邮件地址",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "添加和验证移动电话号码",
+
+  "upmc.ll.global.button.connect":
+    "连接",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "您也可通过电子邮件和我联系",
+
+  "upmc.ll.global.DK":
+    "丹麦",
+
+  "upmc.ll.global.form.mobile.verified":
+    "已验证",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "未能上传此文件：",
+
+  "upmc.ll.global.EE":
+    "爱沙尼亚",
+
+  "upmc.ll.global.button.next":
+    "继续",
+
+  "upmc.ll.global.language.es":
+    "西班牙语",
+
+  "upmc.ll.global.language.et":
+    "爱沙尼亚语",
+
+  "upmc.ll.yourdata.notverified":
+    "未验证",
+
+  "upmc.ll.global.US":
+    "美国",
+
+  "upmc.ll.profile.picture.delete.request":
+    "您确定要删除您的档案图片吗？",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "日",
+
+  "upmc.ll.global.language.en":
+    "英语",
+
+  "upmc.ll.global.language.el":
+    "希腊语",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "需要这些数据用于以下用途：",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "带 * 的字段必须填写。",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "更改您的地址",
+
+  "upmc.ll.yourdata.status.verified":
+    "已验证",
+
+  "upmc.ll.global.CN":
+    "中国",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "请填写字段 ###label###。",
+
+  "upmc.ll.yourdata.reachability.email":
+    "电子邮件地址",
+
+  "upmc.ll.global.TW":
+    "中国台湾",
+
+  "upmc.ll.global.DE":
+    "德国",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "房间号",
+
+  "upmc.ll.global.TR":
+    "土耳其",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "邮编",
+
+  "upmc.ll.global.CY":
+    "塞浦路斯共和国",
+
+  "upmc.ll.global.CZ":
+    "捷克共和国",
+
+  "upmc.ll.yourdata.email.missing":
+    "未提供电子邮件地址。",
+
+  "upmc.ll.global.SE":
+    "瑞典",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "请注意：<br>很遗憾，我们无法将您添加的车辆和个人数据传输到新选择国家或地区的 Mercedes me 客户端中。请重新提供这些数据。<br>Mercedes me 互联在您新选择的国家或地区可用。<br>添加车辆时，您将了解到车辆是否支持 Mercedes me 互联。然后您需要完成所有步骤，以便能使用服务。",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "请在此处添加、更改或删除您的档案图片。",
+
+  "upmc.ll.yourdata.email.error":
+    "请添加电子邮件地址",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "移动电话号码",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "您未输入移动电话号码。",
+
+  "upmc.ll.global.CH":
+    "瑞士",
+
+  "upmc.ll.global.button.cancel":
+    "取消",
+
+  "upmc.ll.global.CA":
+    "加拿大",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "将新图片拖入区域或通过点击按钮进行选择。",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "斯洛伐克",
+
+  "upmc.ll.global.SI":
+    "斯洛文尼亚",
+
+  "upmc.ll.global.language.ko":
+    "韩语",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "道路类型",
+
+  "upmc.ll.global.AT":
+    "奥地利",
+
+  "upmc.ll.global.language":
+    "语言",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "提示",
+
+  "upmc.ll.yourdata.name.headline":
+    "名称",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "密码",
+
+  "upmc.ll.global.BG":
+    "保加利亚",
+
+  "upmc.ll.global.BE":
+    "比利时",
+
+  "upmc.ll.global.RU":
+    "俄罗斯",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "提示：请验证您的电子邮件地址以便能登录 Mercedes me 客户端。<br>为此请点击编辑符号并重新输入您的电子邮件地址。",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "邮编",
+
+  "upmc.ll.global.button.back":
+    "返回",
+
+  "upmc.ll.global.errorid.notification.text":
+    "用于客户售后服务跟踪的故障代码：",
+
+  "upmc.ll.global.RO":
+    "罗马尼亚",
+
+  "upmc.ll.global.hint.headline":
+    "提示",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "必须验证移动电话号码，才能在 Mercedes me 客户端中使用。要验证移动电话号码，请重新输入。",
+
+  "upmc.ll.global.form.mobile.label":
+    "移动电话号码",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "很遗憾，smart control 在您新选择的国家或地区不可用。即 您无法再使用 smart control 服务。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "请注意：<br>很遗憾，我们无法将您添加的车辆和个人数据传输到新选择国家或地区的 smart 客户端中。请重新提供这些数据。<br><br>smart control 在您新选择的国家或地区可用。<br>添加车辆时，您将了解到车辆是否支持 smart control。然后您需要完成所有步骤，以便能使用服务。",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "联系我的最佳方式",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "经验证的移动电话号码",
+
+  "upmc.ll.global.language.ja":
+    "日语",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "请在这里输入您的名。",
+
+  "upmc.ll.global.language.zh":
+    "简体中文",
+
+  "upmc.ll.profile.doc.text.error":
+    "目前不能对许可声明进行更改。请稍后再试。",
+
+  "upmc.ll.global.language.it":
+    "意大利语",
+
+  "upmc.ll.global.button.print":
+    "打印",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "请添加移动电话号码",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "请注意：<br>如您更换国家或地区，您使用的服务可能被停用。服务停用是因为取决于国家或地区的不同，提供的服务和适用的使用条款可能不同。<br>在\u201c管理服务\u201d下即可再次激活在新国家或新地区的服务。",
+
+  "upmc.ll.global.button.confirm":
+    "确认",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "高级数据保护",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    " ",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "第二姓",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "通过点击按钮选择新图片。",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "重新输入和验证移动电话号码",
+
+  "upmc.ll.global.button.send":
+    "发送",
+
+  "upmc.ll.yourdata.text.error":
+    "当前无法访问档案数据。",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "您未收到电子邮件确认？您的电子邮件地址可能输入错误。在这种情况下请重新输入您的电子邮件地址。<br><br>您是否已调出确认链接来验证您的电子邮件地址？可能出现同步尚未完成的情况。请等待片刻，然后点击\u201c更新\u201d。",
+
+  "upmc.ll.global.PT":
+    "葡萄牙",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "提示",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "针对已在戴姆勒集团和您品牌的其他网页和应用程序中注册的客户：如果您在这里更改数据，则这些更改会采用到同一档案下的所有网页和应用程序中（例如 Mercedes me 客户端和 smart.com）。",
+
+  "upmc.ll.global.language.hu":
+    "匈牙利语",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "波兰",
+
+  "upmc.ll.global.language.hr":
+    "克罗地亚语",
+
+  "upmc.ll.yourdata.headline":
+    "我的 Mercedes me ID 数据",
+
+  "upmc.ll.global.form.error.selectoption":
+    "请选择一个选项。",
+
+  "upmc.ll.yourdata.password.text":
+    "请使用安全的密码并定期更改。",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "出生日期",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "请将您的地址补充完整。为了将数据保护同意书与您本人明确对应，这个步骤是必须的。",
+
+  "upmc.ll.global.language.pl":
+    "波兰语",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "月",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "请在此处添加、更改或删除您的档案图片。",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "已为您的用户帐号激活高级数据保护。仅戴姆勒股份公司内部选择的人员组 (比如特殊支持团队) 可以查看您的数据。",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "选择图片",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "选择所需语言",
+
+  "upmc.ll.global.form.text.mandatory":
+    "带 * 的字段必须填写。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "请注意：<br>很遗憾，我们无法将您添加的车辆和个人数据传输到新选择国家或地区的 Mercedes me 客户端中。请重新提供这些数据。<br>此外请注意，遗憾的是 Mercedes me 互联在您新选择的国家或地区不可用。即 您无法再使用互联服务。",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "证件号码",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "请输入您的固定电话号码。",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "请输入有效的日期。",
+
+  "upmc.ll.global.MT":
+    "马耳他",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "附加地址行 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "附加地址行 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "附加地址行 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "请选择字段。",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "中间名",
+
+  "upmc.ll.global.NO":
+    "挪威",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "提示：请验证您的手机号以便能登录 Mercedes me 客户端。<br>为此请点击编辑符号并重新输入您的手机号。",
+
+  "upmc.ll.global.NL":
+    "荷兰",
+
+  "upmc.ll.global.button.delete":
+    "删除",
+
+  "upmc.ll.global.button.register":
+    "注册",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "名",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "移动电话号码",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "邮政信箱",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "档案图片",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "我已阅读本提示并希望保存后继续。<br>服务被停用。",
+
+  "upmc.ll.yourdata.phone.headline":
+    "电话",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "对于该国家或地区无法给出任何地址数据，因为 Mercedes me 客户端的这些服务不能在该国家或地区使用。",
+
+  "upmc.ll.global.language.no":
+    "挪威语",
+
+  "upmc.ll.global.language.nl":
+    "荷兰语",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "输入的出生日期无效。<br>请检查您的选择。",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "删除档案图片",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "删除用户帐号",
+
+  "upmc.ll.global.LV":
+    "拉脱维亚",
+
+  "upmc.ll.global.button.submitandproceed":
+    "保存并继续",
+
+  "upmc.ll.global.notification.title":
+    "提示：",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "房屋名称",
+
+  "upmc.ll.global.LT":
+    "立陶宛",
+
+  "upmc.ll.global.LU":
+    "卢森堡",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "请注意：<br>Mercedes me 互联在您新选择的国家或地区可用。<br>您的车辆是否支持 Mercedes me 互联，可打开菜单项\u201c我的车辆\u201d查看。具有 Mercedes me 互联功能的车辆带有一个图标和提示文本。",
+
+  "upmc.ll.global.button.close":
+    "关闭",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "请注意：<br>很遗憾，Mercedes me 互联在您新选择的国家或地区不可用。即 您无法再使用互联服务。",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "请在邮编字段中输入一个有效值。",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "请输入您的完整出生日期。",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "门牌号",
+
+  "upmc.ll.yourdata.address.label.country":
+    "国家或地区",
+
+  "upmc.ll.global.button.login":
+    "登录",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "固定电话号码",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "高级数据保护已停用",
+
+  "upmc.ll.global.KR":
+    "韩国",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "请填写字段。",
+
+  "upmc.ll.global.button.ok":
+    "确定",
+
+  "upmc.ll.global.language.lv":
+    "拉脱维亚语",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "很遗憾，当前无法执行该任务。<br>请稍后再试。",
+
+  "upmc.ll.global.LI":
+    "列支敦士登",
+
+  "upmc.ll.global.language.lt":
+    "立陶宛语",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "我希望补充数据。服务被停用。",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "付款方式",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "未存储数据",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "信用卡卡号",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "到期日",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "已过期",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "信用卡持卡人：",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "添加付款方式",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "默认",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "删除付款方式。",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "确定删除付款方式（**** **** **** ###位数###）？",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Privacy Statement of Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "很遗憾，您不符合年龄要求",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "General data",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "User profile fields",
+
+  "todo.upmc.ll.hus.useragreements":
+    "User agreements",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "请填写或查看您的个人资料数据",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "您的修改已成功。您很快將被轉至相關頁面",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me 个人密码",
+
+  "upmc.ll.yourdata.pin.text":
+    "在此处，您可以删除个人密码 (PIN)，以连接您的梅赛德斯-奔驰",
+
+  "upmc.ll.yourdata.pin.empty":
+    "在此处，您可以设置个人密码 (PIN)，以连接您的梅赛德斯-奔驰",
+
+  "upmc.ll.layer.pin.delete.request":
+    " 您确定要删除个人密码 (PIN) 吗？",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "删除您的 Mercedes me 个人密码 (PIN)",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "对不起，该服务目前无法使用。请稍后重试。"
+
+}

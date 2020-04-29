@@ -2,4 +2,6 @@
 <workspaceFilter version="1.0">
     <filter root="/content/aem63"/>
     <filter root="/content/dam/aem63"/>
+    <filter root="/content/apps"/>
+
 </workspaceFilter>

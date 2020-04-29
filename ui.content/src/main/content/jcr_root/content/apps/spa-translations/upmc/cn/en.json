@@ -1,0 +1,16 @@
+{
+	"upmc.ll.global.JP": "Japan",
+	"upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text": "Extended data protection has been deactivated for your user account.<br><br>If you wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+	"upmc.ll.manageprofile.form.address.label.province": "Province",
+	"upmc.ll.manageprofile.form.address.label.state": "District",
+	"upmc.ll.yourdata.extendeddataprotection.layer.hint.text": "Are you sure you want to deactivate extended data protection for your user account?<br><br>Note: If you subsequently wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "Landline and mobile telephone numbers must be entered in international format. Example: +86152123123123.",
+	"upmc.ll.global.CN": "China",
+	"upmc.ll.global.TW": "Taiwan",
+	"upmc.ll.global.language.ko": "Korean",
+	"upmc.ll.global.language.ja": "Japanese",
+	"upmc.ll.global.language.zh": "Simplified Chinese",
+	"upmc.ll.yourdata.deleteregistration.text.two": "",
+	"upmc.ll.yourdata.address.label.country": "Country/Region",
+	"upmc.ll.global.KR": "South Korea"
+}

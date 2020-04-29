@@ -1,0 +1,114 @@
+{
+
+  "upmc.ll.global.JP":
+    "Japan",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-Mail",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Name Prefix",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Delete User Account",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Title (please specify as \"Khun\")",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Extended data protection has been deactivated for your user account.<br><br>If you wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Province",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "State",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Salutation",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Street (Soi/Road/Moo)",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Last Name",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Are you sure you want to deactivate extended data protection for your user account?<br><br>Note: If you subsequently wish to reactivate extended data protection, please contact your authorised Mercedes-Benz dealer.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Landline Phone",
+
+  "upmc.ll.yourdata.address.label.city":
+    "City (Province)",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobile Phone",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Landline and mobile telephone numbers must be entered in international format. Example: +661234567.",
+
+  "upmc.ll.global.CN":
+    "China",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Door No.",
+
+  "upmc.ll.global.language.ko":
+    "Korean",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Moo/Floor & Building/Name of company",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "The mobile phone number was verified by the user via the Mercedes me portal.",
+
+  "upmc.ll.global.language.ja":
+    "Japanese",
+
+  "upmc.ll.global.language.zh":
+    "Simplified Chinese",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "You can also send us your cancellation request by letter or fax:<br><br>Mercedes-Benz (Thailand) Limited<br>Tel: 1250<br>Kuala Lumpur - One City<br>MCT Tower 1, Skypark One City<br>Jalan USJ 25/1B<br>47650 Subang Jaya<br>Malaysia",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Last Name (pronounciation)",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Date of Birth",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Additional Address Remark 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Additional Address Remark 2 (Sub-District)",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Additional Address Remark 3 (District)",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Middle Name",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "First Name",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "P.O. Box",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "House No.",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Address Country",
+
+  "upmc.ll.global.KR":
+    "South Korea",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Please select or start typing"
+
+}

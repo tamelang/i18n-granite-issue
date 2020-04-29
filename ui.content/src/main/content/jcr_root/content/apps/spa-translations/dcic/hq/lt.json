@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Jūsų kontaktinis asmuo, atsakingas už konsultacijas ir pirkimą.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Kontaktinis asmuo klientų aptarnavimo ir su naudotais automobiliais susijusiais klausimais",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Dar nepasirinkote jokio \u201eMercedes-Benz\u201c partnerio.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Pasirinkti \u201eMercedes-Benz\u201c partnerį",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Kad galėtumėte naudotis visais \u201eMercedes me\u201c privalumais, dabar pasirinkite \u201eMercedes-Benz\u201c partnerį.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Vietos planas",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Izplatītāja vietne",
+
+  "dcic.ll.overview.title":
+    "Jūsu Mercedes-Benz partneris.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Siųsti užklausą",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Nomainiet Mercedes-Benz partneri"
+
+}

@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "A Mercedes me ID azonosítója egy másik országban ({0}). Azt akarja, hogy átirányítsák a hazai piacot.",
+
+  "loginChecks.ll.global.button.close":
+    "Közel",
+
+  "loginChecks.ll.global.button.confirm":
+    "Erősítse",
+
+  "loginChecks.ll.global.button.next":
+    "Következő",
+
+  "loginChecks.ll.global.button.with.car":
+    "Egy autóval",
+
+  "loginChecks.ll.global.button.without.car":
+    "Autó nélkül",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Kérjük, válassza ki, hogyan kívánja kitölteni profiladatait.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Ugrás az előző oldalra",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Fejezze be a bejelentkezést.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

@@ -1,0 +1,1110 @@
+{
+
+  "upmc.ll.global.language.de":
+    "немски",
+
+  "upmc.ll.global.language.tr":
+    "турски",
+
+  "upmc.ll.global.language.da":
+    "датски",
+
+  "upmc.ll.profile.useragreements":
+    "Условия за ползване",
+
+  "upmc.ll.global.JP":
+    "Япония",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Нова държава или регион",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Имейл адрес",
+
+  "upmc.ll.global.button.edit":
+    "Обработване",
+
+  "upmc.ll.global.language.cs":
+    "чешки",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Моля, изберете",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Въведеният имейл вече съществува. Моля, въведете друг имейл адрес.<br>Важно: Всеки имейл адрес може да бъде причислен само към един потребителски профил на Mercedes me.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Моля, изберете поле ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Моля, изберете най-малко един начин за контакт.",
+
+  "upmc.ll.global.language.sv":
+    "шведски",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Не сте въвели номер на стационарен телефон.",
+
+  "upmc.ll.global.language.sk":
+    "словашки",
+
+  "upmc.ll.global.IT":
+    "Италия",
+
+  "upmc.ll.global.language.sl":
+    "словашки",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Моля, обърнете внимание:<br>За съжаление не можем да прехвърлим създадените от Вас автомобили и лични данни в портала smart на новоизбраната държава или регион. Моля, въведете тези данни отново.<br>Освен това обърнете внимание, че за съжаление smart control е недостъпна в избраната от Вас държава или регион. Т.е. вече не можете да използвате Вашите услуги smart control.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Южна Африка",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Моля, въведете Вашия стационарен или мобилен телефон.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Добавяне на име",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Етаж",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Важно: Можете да въведете Вашия пълен адрес, ако сте запаметили промяната в нова държава или регион.",
+
+  "upmc.ll.global.language.bg":
+    "български",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Изтриване на потребителски профил",
+
+  "upmc.ll.global.language.ru":
+    "руски",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Титла",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Въведете отново имейл адрес",
+
+  "upmc.ll.yourdata.refresh":
+    "Актуализиране",
+
+  "upmc.ll.global.language.ro":
+    "румънски",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Моля попълнете датата на раждане по паспорт.",
+
+  "upmc.ll.global.HU":
+    "Унгария",
+
+  "upmc.ll.global.HR":
+    "Хърватия",
+
+  "upmc.ll.global.button.submit":
+    "Запаметяване",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Моля, въведете за ###label### максимално###chars### символа.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "неверифициран",
+
+  "upmc.ll.global.language.ar":
+    "Арабски",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Не сте получили код за активиране? Може да сте въвели грешно номера на Вашия мобилен телефон. Моля, въведете номера на Вашия мобилен телефон отново в този случай.<br><br>Получили сте код за активиране и желаете да го въведете? Моля, имайте предвид, че въвеждането на код за активиране е възможно само веднага след регистриране на мобилния номер. Моля, регистрирайте отново Вашия номер на мобилен телефон.<br><br>Вече сте въвели успешно кода за активиране? Възможно е верификацията да не се е извършила все още. Моля, изчакайте един момент и кликнете върху актуализиране.",
+
+  "upmc.ll.global.IE":
+    "Ирландия",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Моля, въведете за ###label### минимално###chars### символа.",
+
+  "upmc.ll.global.language.af":
+    "африкаанс",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Разширената защита на данни за Вашия потребителски профил е успешно деактивирана.<br><br>За да активирате отново разширената защита на данни, моля обърнете се към Вашия Mercedes-Benz партньор.",
+
+  "upmc.ll.global.AE_DU":
+    "Дубай",
+
+  "upmc.ll.global.GR":
+    "Гърция",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Деактивиране на разширената защита на данни",
+
+  "upmc.ll.global.form.address.text":
+    "Моля, въведете Вашия адрес за връзка.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Федерална провинция",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Държава",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Указание",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Указание",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Въведеният мобилен телефон вече съществува. Моля, въведете друг номер на мобилен телефон.<br>Важно: Всеки номер на мобилен телефон може да бъде причислен само към един потребителски профил на Mercedes me.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Обръщение",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Моля, въведете Вашата пълна дата на раждане.",
+
+  "upmc.ll.global.language.pt":
+    "португалски",
+
+  "upmc.ll.yourdata.status.loading":
+    "Моля, изчакайте един момент.",
+
+  "upmc.ll.global.button.administration":
+    "Администрация",
+
+  "upmc.ll.global.AE_AZ":
+    "Абу Даби",
+
+  "upmc.ll.profile.picture.position.request":
+    "Изберете чрез преместване и увеличаване или намаляване желания фрагмент на изображението.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Допълнете или сменете профилното изображение.",
+
+  "upmc.ll.global.FR":
+    "Франция",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Имейл адресите трябва да са верифицирани, за да могат да се използват в Mercedes me Portal. За да верифицирате Вашия имейл адрес, моля въведете го отново.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Мобилен телефон",
+
+  "upmc.ll.global.text.today":
+    "Днес",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Моля, въведете тук Вашата фамилия.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me Portal",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Стационарен телефон",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Улица",
+
+  "upmc.ll.global.GB":
+    "Обединено кралство",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "В момента все още не всички съдържания са на разположение в превод за избрания от Вас език. Тези съдържания Ви показваме на друг език.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Моля, обърнете внимание:<br>smart control е достъпна в избраната от Вас държава или регион.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Не е въведен мобилен телефон.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Фамилия",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Профилно изображение",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Чрез линка по-долу можете да изтриете Вашия потребителски профил. Моля, обърнете внимание, че с изтриването всички услуги във Вашия автомобил се деактивират и всички права на съвместни потребители се премахват.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Сигурни ли сте, че желаете да деактивирате разширената защита на данни за Вашия потребителски профил?<br><br>Важно: За да активирате след това отново разширената защита на данни, моля обърнете се към Вашия Mercedes-Benz партньор.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Моля, обърнете внимание:<br>За съжаление не можем да прехвърлим създадените от Вас автомобили, лични данни и настройки в портала на новоизбраната държава или регион.<br>Моля, въведете тези данни в новата държава или регион, за да можете да използвате услугите отново.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Стационарен телефон",
+
+  "upmc.ll.yourdata.address.headline":
+    "Адрес",
+
+  "upmc.ll.global.ES":
+    "Испания",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Формулярът не е попълнен правилно. Моля, проверете Вашите данни.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Вашето съобщение има повече от ###chars### символа! Моля, съкратете текста.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Деактивиране",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Година",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Моля, въведете тук Вашето второ име.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Следната информация е необходима за телематични функции:",
+
+  "upmc.ll.global.FI":
+    "Финландия",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Моля, въведете валидна стойност за ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Място",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "В момента действието не е възможно поради технически проблем, моля, опитайте отново по-късно.",
+
+  "upmc.ll.global.language.fr":
+    "френски",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Мобилен телефон",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Номерата на стационарния и мобилния телефон трябва да се въведат в международен формат. Пример: +359152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Моля, направете избор",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Потвърждаване деактивиране",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Моля, добавете имейл адрес",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Можете да качвате само изображения във формат JPG или PNG, с максимален обем 5 MB и с минимален размер 300x300 пиксела.",
+
+  "upmc.ll.profile.headline":
+    "Моят профил.",
+
+  "upmc.ll.global.button.completelater":
+    "Попълване по-късно",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Не сте въвели имейл адрес.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Ако продължите без тези данни, тези услуги се деактивират във всички автомобили. Тогава Вие и Вашите допълнителни потребители не можете да ги използвате вече.",
+
+  "upmc.ll.global.language.fi":
+    "финландски",
+
+  "upmc.ll.yourdata.email.add":
+    "Добавяне на имейл адрес",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Добавяне и верифициране на мобилен телефон",
+
+  "upmc.ll.global.button.connect":
+    "Свързване",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Можете да се свържете с мен също и по имейл",
+
+  "upmc.ll.global.DK":
+    "Дания",
+
+  "upmc.ll.global.form.mobile.verified":
+    "верифициран",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Този файл не можа да бъде качен:",
+
+  "upmc.ll.global.EE":
+    "Естония",
+
+  "upmc.ll.global.button.next":
+    "Напред",
+
+  "upmc.ll.global.language.es":
+    "испански",
+
+  "upmc.ll.global.language.et":
+    "естонски",
+
+  "upmc.ll.yourdata.notverified":
+    "неверифициран",
+
+  "upmc.ll.global.US":
+    "САЩ",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Сигурни ли сте, че искате да изтриете Вашето профилно изображение?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Ден",
+
+  "upmc.ll.global.language.en":
+    "английски",
+
+  "upmc.ll.global.language.el":
+    "гръцки",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Тези данни са необходими за:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Моля, непременно попълнете обозначените с * полета.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Промяна на Вашия адрес.",
+
+  "upmc.ll.yourdata.status.verified":
+    "верифициран",
+
+  "upmc.ll.global.CN":
+    "Китай",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Моля, попълнете поле ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Имейл адрес",
+
+  "upmc.ll.global.TW":
+    "Тайван",
+
+  "upmc.ll.global.DE":
+    "Германия",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Апартамент",
+
+  "upmc.ll.global.TR":
+    "Турция",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Пощенски код",
+
+  "upmc.ll.global.CY":
+    "Република Кипър",
+
+  "upmc.ll.global.CZ":
+    "Чехия",
+
+  "upmc.ll.yourdata.email.missing":
+    "Не е въведен имейл адрес.",
+
+  "upmc.ll.global.SE":
+    "Швеция",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Моля, обърнете внимание:<br>За съжаление не можем да прехвърлим създадените от Вас автомобили и лични данни в Mercedes me Portal на новоизбраната държава или регион. Моля, въведете тези данни отново.<br>Mercedes me connect е достъпна в новоизбраната от Вас държава или регион.<br>При създаването на Вашия автомобил научавате дали той поддържа Mercedes me connect. И ще бъдете преведени през всички стъпки, за да можете да използвате услугите отново.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Допълнете, променете или изтрийте Вашето профилно изображение.",
+
+  "upmc.ll.yourdata.email.error":
+    "Моля, добавете имейл адрес",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Мобилен телефон",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Не сте въвели номер на мобилен телефон.",
+
+  "upmc.ll.global.CH":
+    "Швейцария",
+
+  "upmc.ll.global.button.cancel":
+    "Прекратяване",
+
+  "upmc.ll.global.CA":
+    "Канада",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Издърпайте новото изображение до повърхността или изберете чрез кликване върху бутона.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Словакия",
+
+  "upmc.ll.global.SI":
+    "Словения",
+
+  "upmc.ll.global.language.ko":
+    "корейски",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Тип улица",
+
+  "upmc.ll.global.AT":
+    "Австрия",
+
+  "upmc.ll.global.language":
+    "Език",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Указание",
+
+  "upmc.ll.yourdata.name.headline":
+    "Име",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Парола",
+
+  "upmc.ll.global.BG":
+    "България",
+
+  "upmc.ll.global.BE":
+    "Белгия",
+
+  "upmc.ll.global.RU":
+    "Русия",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Важно: Верифицирайте Вашия имейл адрес, за да можете да използвате Mercedes me Portal.<br>За целта кликнете върху символа за обработване и въведете Вашия имейл адрес отново.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Пощенски код",
+
+  "upmc.ll.global.button.back":
+    "Назад",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Код за грешка за проследяване при обслужване на клиенти:",
+
+  "upmc.ll.global.RO":
+    "Румъния",
+
+  "upmc.ll.global.hint.headline":
+    "Указание",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Номерата на мобилните телефони трябва да са верифицирани, за да могат да се използват в Mercedes me Portal. За да верифицирате Вашия номер на мобилния телефон, моля, въведете го отново.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Мобилен телефон",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "За съжаление smart control е недостъпна в избраната от Вас държава или регион. Т.е. вече не можете да използвате Вашите услуги smart control.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Моля, обърнете внимание:<br>За съжаление не можем да прехвърлим създадените от Вас автомобили и лични данни в портала smart на новоизбраната държава или регион. Моля, въведете тези данни отново.<br><br>smart control е достъпна в избраната от Вас държава или регион.<br>При създаването на Вашия автомобил научавате дали той поддържа smart control. И ще бъдете преведени през всички стъпки, за да можете да използвате услугите отново.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Можете да се свържете с мен най-лесно по",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Верифициран мобилен телефон",
+
+  "upmc.ll.global.language.ja":
+    "японски",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Моля, въведете тук Вашето име.",
+
+  "upmc.ll.global.language.zh":
+    "опростен китайски",
+
+  "upmc.ll.profile.doc.text.error":
+    "Промени във формуляра за съгласие не са възможни в момента. Моля, опитайте отново по-късно.",
+
+  "upmc.ll.global.language.it":
+    "италиански",
+
+  "upmc.ll.global.button.print":
+    "Разпечатване",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Моля, добавете мобилен телефон",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Моля, обърнете внимание:<br>Ако смените държавата или региона, може да се деактивират използваните от Вас услуги. Това се случва, когато предлаганите услуги и валидните Условия за ползване се различават в зависимост от държавата или региона.<br>Активирайте отново услугите в новата държава или регион в \u201eУправление на услуги\u201c.",
+
+  "upmc.ll.global.button.confirm":
+    "Потвърждение",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Разширена защита на данни",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Можете да ни изпратите Вашето желание за закриване също и писмено по пощата или като факс:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>ПК 1456<br>6201 BL Maastricht<br>Niederlande<br>Факс: +359 2 935 82 55",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Втора фамилия",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Избиране на ново изображение чрез кликване върху бутона.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Повторно въвеждане и верифициране на номера на мобиления телефон",
+
+  "upmc.ll.global.button.send":
+    "Изпращане",
+
+  "upmc.ll.yourdata.text.error":
+    "Достъпът до данните на профила в момента е невъзможен.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Не сте получили имейл с потвърждение? Може да сте въвели грешно Вашия имейл адрес. Моля, въведете Вашия имейл адрес, отново в този случай.<br><br>Вече сте извикали линка за потвърждение, за да верифицирате Вашия имейл адрес? Възможно е верификацията да не се е извършила все още. Моля, изчакайте един момент и кликнете върху актуализиране.",
+
+  "upmc.ll.global.PT":
+    "Португалия",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Указание",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "За клиенти, които са се регистрирали в други уебсайтове и приложения на групата Daimler и нейните марки важи: Ако промените Вашите данни тук, тези промени ще се запишат във всички участващи в общия профил уебсайтове и приложения (напр. Mercedes me Portal и smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "унгарски",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Полша",
+
+  "upmc.ll.global.language.hr":
+    "хърватски",
+
+  "upmc.ll.yourdata.headline":
+    "Моите Mercedes me ID данни.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Моля, изберете опция.",
+
+  "upmc.ll.yourdata.password.text":
+    "Използвайте надеждна парола и я променяйте редовно.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Дата на раждане",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Моля, добавете пълния си адрес. Това е необходимо, за да се причисли декларацията за споразумение за поверителност на данните еднозначно към Вас.",
+
+  "upmc.ll.global.language.pl":
+    "полски",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Месец",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Допълнете, променете или изтрийте Вашето профилно изображение.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Разширената защита на данните е активирана за Вашия профил. Вашите данни са видими само за избрани групи от лица (напр. специален Support екип) в рамките на Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Избиране на изображение",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Изберете желания език",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Моля, непременно попълнете обозначените с * полета.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Моля, обърнете внимание:<br>За съжаление не можем да прехвърлим създадените от Вас автомобили и лични данни в Mercedes me Portal на новоизбраната държава или регион. Моля, въведете тези данни отново.<br>Освен това обърнете внимание, че Mercedes me connect е недостъпна в избраната от Вас държава или регион. Т.е. вече не можете да използвате Вашите услуги connect.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "Номер на лична карта",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Моля, въведете Вашия стационарен телефон.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Моля, въведете валидна дата.",
+
+  "upmc.ll.global.MT":
+    "Малта",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Допълнителен ред за адрес 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Допълнителен ред за адрес 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Допълнителен ред за адрес 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Моля, изберете поле.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Второ собствено име",
+
+  "upmc.ll.global.NO":
+    "Норвегия",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Важно: Верифицирайте Вашия мобилен телефон, за да можете да се впишете в Mercedes me Portal.<br>За целта кликнете върху символа за обработване и въведете Вашия мобилен телефон отново.",
+
+  "upmc.ll.global.NL":
+    "Нидерландия",
+
+  "upmc.ll.global.button.delete":
+    "Изтриване",
+
+  "upmc.ll.global.button.register":
+    "Регистриране",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Собствено име",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Мобилен телефон",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "P.O. кутия",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Профилно изображение",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Прочетох указанието и желая да продължа със записа.<br>Услугите са деактивирани.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Телефон",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "За тази държава или регион не могат да бъдат въведени адресни данни, тъй като услугите на Mercedes me Portal в тази държава или регион не са на разположение.",
+
+  "upmc.ll.global.language.no":
+    "норвежки",
+
+  "upmc.ll.global.language.nl":
+    "холандски",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Въведената рождена дата е невалидна.<br>Моля, проверете Вашия избор.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Изтрийте профилното изображение.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Изтриване на потребителски профил",
+
+  "upmc.ll.global.LV":
+    "Латвия",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Запис и напред",
+
+  "upmc.ll.global.notification.title":
+    "Важно:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Наименование на имота",
+
+  "upmc.ll.global.LT":
+    "Литва",
+
+  "upmc.ll.global.LU":
+    "Люксембург",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Моля, обърнете внимание:<br>Mercedes me connect е достъпна в новоизбраната от Вас държава или регион.<br>Дали Вашият автомобил поддържа Mercedes me connect можете да видите, ако отворите точката от менюто \u201eМоите автомобили\u201c. Автомобилите с функция Mercedes me connect са означени там с икона и указателен текст.",
+
+  "upmc.ll.global.button.close":
+    "Затваряне",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Моля, обърнете внимание:<br>За съжаление Mercedes me connect е недостъпна във Вашата новоизбрана държава или регион. Т.е. вече не можете да използвате Вашите услуги connect.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Моля, въведете валидна стойност в полето \u201cПощенски код\u201c.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Моля, въведете Вашата пълна дата на раждане.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Улица, номер",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Държава или регион",
+
+  "upmc.ll.global.button.login":
+    "Вписване",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Стационарен телефон",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Разширената защита на данни е деактивирана.",
+
+  "upmc.ll.global.KR":
+    "Южна Корея",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Моля, попълнете полето.",
+
+  "upmc.ll.global.button.ok":
+    "ОК",
+
+  "upmc.ll.global.language.lv":
+    "латвийски",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "За съжаление процесът не е възможен в момента.<br>Моля, опитайте отново по-късно.",
+
+  "upmc.ll.global.LI":
+    "Лихтенщайн",
+
+  "upmc.ll.global.language.lt":
+    "литовски",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Искам да допълня информацията. Услугите са деактивирани.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Платежно средство",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Няма запаметени данни",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Номер на карта",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Валидна до",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Картата е изтекла.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Притежател на картата",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Добавяне на платежно средство",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Предварителна настройка",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Изтриване на платежно средство.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Сигурни ли сте, че искате да изтриете платежното средство (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Декларация за защита на личните данни на Daimler Mobility Services GmbH.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Съжаляваме. Поради технически проблеми процесът не може да бъде завършен. Моля, опитайте отново по-късно. Молим за вашето разбиране.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "За съжаление не отговаряте на изискванията за възраст",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Моля, допълнете следните данни:",
+
+  "todo.upmc.ll.hus.valid":
+    "Вие сте допълнили необходимите данни.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Невалиден линк",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Без съгласието с Условията за ползване за Mercedes me connect и услугите smart control използването на услугите за съжаление е невъзможно.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "За да можете да изпозлвате определени услуги и езикови услуги в автомобила, е необходимо съгласието с лицензионното споразумение с краен клиент за Nuance и съгласието за използване на данните от Nuance.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Изисква се съгласие",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Готово",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Без право за достъп",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Моля, попълнете или прегледайте данните в потребителския си профил",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Към уебсайта Mercedes me Store",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "С извършване на  регистрацията ми, аз потвърждавам, че съм прочел и се съгласявам с <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Политиката за защита на личните данни<\/a>",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Собственото име не съответства на фискалния код",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Фамилията не съответства на фискалния код",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Датата на раждане не съответства на фискалния код",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Промяната беше успешна. Ще бъдете пренасочени скоро",
+
+  "upmc.ll.yourdata.pin.headline":
+    "ПИН код за Mercedes me",
+
+  "upmc.ll.yourdata.pin.text":
+    "Тук можете да изтриете ПИН кода за свързване с Вашия Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Тук можете да зададете ПИН кода за свързване с Вашия Mercedes-Benz.",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Изтриване на Вашия ПИН код за Mercedes me",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Сигурни ли сте, че искате да изтриете ПИН кода?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "За съжаление, тази услуга не е налична в момента. Опитайте отново.",
+
+  "\n upmc.ll.yourdata.pin.sub \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.exists \n":
+    "\n\n\n\n",
+
+  "\n  upmc.ll.yourdata.pin.forgot.headline \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.forgot.hint \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.layer.pin.delete.request \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.hint.current \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.hint.new \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.hint.both \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.hint.same \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.hint.blocked \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.wrongPin \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.loadFailure \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.updateFailure \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.resetFailure \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.deleteFailure \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.addSuccess \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.updateSuccess \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.resetSuccess \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.deleteSuccess \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.label.new \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.label.current \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.button.forgot \n":
+    "\n\n\n\n",
+
+  "\n upmc.ll.yourdata.pin.headline \n":
+    "\n\nПИН код за Mercedes me\n\n",
+
+  "\n upmc.ll.yourdata.pin.forgot.headline \n":
+    "\n\nПодновяване на Вашия ПИН код\n\n",
+
+  "\n upmc.ll.layer.pin.delete.headline \n":
+    "\n\nИзтриване на Вашия ПИН код за Mercedes me\n\n",
+
+  "\n upmc.ll.yourdata.pin.msg.addFailure \n":
+    "\n\nПИН кодът не е записан успешно. Опитайте отново по-късно.\n\n",
+
+  "\n upmc.ll.yourdata.pin.serviceUnavailable \n":
+    "\n\nЗа съжаление, тази услуга не е налична в момента. Опитайте отново.\n\n",
+
+  "\n upmc.ll.loading \n":
+    "\n\nЗареждане на потребителските данни\u2026\n\n",
+
+  "\n upmc.ll.global.form.birthdate.hint \n":
+    "\n\nВъведете датата си на раждане, както е посочена в паспорта Ви.\n\n",
+
+  "\n upmc.ll.yourdata.status.not.verified \n":
+    "\n\nнепроверени данни\n\n",
+
+  "\n upmc.ll.yourdata.status.loading \n":
+    "\n\nИзчакайте малко.\n\n",
+
+  "\n upmc.ll.yourdata.deleteregistration.text.one \n":
+    "\n\nМоже да изтриете потребителския си акаунт чрез връзката по-долу. Имайте предвид, че изтриването ще дезактивира всички услуги във Вашите автомобили и всички права на съвместно ползване ще бъдат оттеглени.\n\n",
+
+  "\n upmc.ll.layer.profile.picture.upload.error.hint.image.specs \n":
+    "\n\nМоже да качвате изображения само в JPG или PNG формат с максимален обем на данните от 5 MB и минимален размер от 300 x 300 пиксела.\n\n",
+
+  "\n upmc.ll.yourdata.status.verified \n":
+    "\n\nпроверени данни\n\n",
+
+  "\n upmc.ll.login \n":
+    "\n\nВлезте в профила си\n\n",
+
+  "\n upmc.ll.yourdata.idcardnumber.headline \n":
+    "\n\nНомер на ID карта\n\n",
+
+  "\n upmc.ll.yourdata.dateofbirth.text.error \n":
+    "\n\nВъведената дата на раждане е невалидна.<br>Проверете избраните данни.\n\n",
+
+  "\n todo.upmc.ll.error.pattern \n":
+    "\n\n###label### не съответства на желания формат\n\n",
+
+  "\n todo.upmc.ll.profile.not.found \n":
+    "\n\nВашият профил не може да бъде зареден\n\n",
+
+  "\n todo.upmc.ll.payment.noentries.msg \n":
+    "\n\nНяма съхранени данни\n\n",
+
+  "\n todo.upmc.ll.payment.creditnumber.label \n":
+    "\n\nНомер на кредитна карта: \n\n",
+
+  "\n todo.upmc.ll.payment.cardholder.label \n":
+    "\n\nПритежател на кредитна карта: \n\n",
+
+  "\n todo.upmc.ll.payment.action \n":
+    "\n\nДобавяне на методи за плащане\n\n",
+
+  "\n todo.upmc.ll.layer.payment.delete.headline \n":
+    "\n\nИзтриване на методи за плащане.\n\n",
+
+  "\n todo.upmc.ll.layer.payment.delete.request \n":
+    "\n\nСигурни ли сте, че искате да изтриете методите за плащане (###digits###)?\n\n",
+
+  "\n todo.upmc.ll.payment.privacy.policy.action \n":
+    "\n\nДекларация за поверителност на Daimler Mobility Services GmbH\n\n",
+
+  "\n todo.upmc.ll.minimum.age.allowed \n":
+    "\n\nЗа съжаление, не отговаряте на възрастовото изискване\n\n",
+
+  "\n todo.upmc.ll.yourdata.tax.number.text.empty \n":
+    "\n\nНе сте въвели данъчен номер.\n\n",
+
+  "\n todo.upmc.ll.tax.number.invalid \n":
+    "\n\nВъведете валиден данъчен номер\n\n",
+
+  "\n todo.upmc.ll.hus.headline \n":
+    "\n\nПопълнете информацията за профила си:\n\n",
+
+  "\n todo.upmc.ll.hus.valid \n":
+    "\n\nПрофилът Ви съдържа цялата необходима информация!\n\n",
+
+  "\n todo.upmc.ll.hus.notoken \n":
+    "\n\nГрешка: Не е открит маркер.\n\n",
+
+  "\n todo.upmc.ll.hus.connect.store.btn.recheck \n":
+    "\n\nГотово\n\n",
+
+  "\n todo.upmc.ll.profile.missingdatahint \n":
+    "\n\nПопълнете данните за Вашия профил\n\n",
+
+  "\n upmc.ll.yourdata.privacypolicy.text.agreement \n":
+    "\n\nсъс завършването на регистрацията ми потвърждавам, че съм прочел/а и приемам <u>Политиката за поверителност<\/u>\n\n",
+
+  "\n todo.upmc.ll.hus.notentitled \n":
+    "\n\nБез права\n\n",
+
+  "\n upmc.ll.hus.error.consent_required.message.general_ua \n":
+    "\n\nСъжаляваме, но не е възможно да използвате услугите, без да се съгласите с условията за използване на Mercedes me connect и интелигентните услуги за управление.\n\n",
+
+  "\n upmc.ll.hus.error.consent_required.message.other_ua \n":
+    "\n\nПриемането на лицензионното споразумение с крайни потребители на Nuance и съгласието Nuance да използва данните Ви са необходими, за да използвате някои услуги, включително услугите за разпознаване на говор в автомобила.\n\n",
+
+  "\n upmc.ll.hus.error.consent_required.headline \n":
+    "\n\nНеобходимо е съгласие\n\n",
+
+  "\n todo.upmc.ll.payment.error.general \n":
+    "\n\nМного съжаляваме. Поради технически проблеми процесът не може да бъде завършен. Опитайте отново по-късно.Благодарим Ви за разбирането.\n\n",
+
+  "\n todo.upmc.ll.tax.number.invalid.firstname \n":
+    "\n\nСобственото име не съответства на фискалния код\n\n",
+
+  "\n todo.upmc.ll.tax.number.invalid.lastname \n":
+    "\n\nФамилията не съответства на фискалния код\n\n",
+
+  "\n todo.upmc.ll.tax.number.invalid.birthday \n":
+    "\n\nДатата на раждане не съответства на фискалния код\n\n",
+
+  "\n upmc.ll.profile.missingdata.redirect \n":
+    "\n\nПромяната е успешна. Ще бъдете пренасочени скоро.\n\n"
+
+}

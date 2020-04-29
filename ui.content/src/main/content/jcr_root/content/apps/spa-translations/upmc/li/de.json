@@ -1,0 +1,13 @@
+{
+	"upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart": "Bitte beachten Sie:<br>Leider können wir Ihre angelegten Fahrzeuge und persönlichen Daten nicht in das smart Portal des neu gewählten Landes oder Region übertragen. Bitte geben Sie diese Daten erneut an.<br>Beachten Sie ausserdem, dass smart control in Ihrem neu gewählten Land oder Region leider nicht verfügbar ist. D.h. Sie können Ihre smart control Dienste nicht mehr nutzen.",
+	"upmc.ll.profile.picture.position.request": "Wählen Sie durch Verschieben und Vergrössern oder Verkleinern den gewünschten Bildausschnitt aus.",
+	"upmc.ll.yourdata.address.label.street": "Strasse",
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "Festnetz- und Mobilfunknummern müssen im internationalen Format angegeben werden. Beispiel: +423152123123123.",
+	"upmc.ll.layer.profile.picture.upload.error.hint.image.specs": "Sie können nur Bilder im Format JPG oder PNG, mit maximal 5 MB und mit einer Mindestgrösse von 300x300 Pixeln hochladen.",
+	"upmc.ll.manageprofile.form.address.label.streettype": "Strassentyp",
+	"upmc.ll.yourdata.deleteregistration.text.two": "Sie können Ihren Kündigungswunsch auch schriftlich per Brief oder Fax an uns richten:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Fax: +41 44 439 1564",
+	"upmc.ll.yourdata.password.text": "Verwenden Sie ein sicheres Passwort und ändern Sie dieses regelmässig.",
+	"upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes": "Bitte beachten Sie:<br>Leider können wir Ihre angelegten Fahrzeuge und persönlichen Daten nicht in das Mercedes me Portal des neu gewählten Landes oder Region übertragen. Bitte geben Sie diese Daten erneut an.<br>Beachten Sie ausserdem, dass Mercedes me connect in Ihrem neu gewählten Land oder Region leider nicht verfügbar ist. D.h. Sie können Ihre connect Dienste nicht mehr nutzen.",
+	"upmc.ll.global.button.close": "Schliessen",
+	"todo.upmc.ll.payment.expirationdate.label": "Gültig bis"
+}

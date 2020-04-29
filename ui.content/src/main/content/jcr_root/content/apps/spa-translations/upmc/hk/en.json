@@ -1,0 +1,24 @@
+{
+
+  "upmc.ll.yourdata.address.label.street":
+    "Street No. & Street",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Please complete the field ###label###.",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Address line 1",
+
+  "upmc.ll.yourdata.address.label.city":
+    "District",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Date of Birth",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "You can delete your user account via the link below.  Please note that deletion will deactivate all services in your vehicles and all co-user rights will be withdrawn.",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "<br>"
+
+}

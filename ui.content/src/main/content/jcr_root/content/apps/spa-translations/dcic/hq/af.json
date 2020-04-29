@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Your contact person for advice and sales. ",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Your contact for service and pre-owned vehicles",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "You have not yet selected a Mercedes-Benz dealer.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Select a Mercedes-Benz dealer now in order to fully use the advantages of \"Mercedes me\".",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Select a Mercedes-Benz dealer now in order to fully use the advantages of \"Mercedes me\".",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Send inquiry",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Location plan",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Dealer website",
+
+  "dcic.ll.overview.title":
+    "Your authorised Mercedes-Benz dealer.",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Change your Mercedes-Benz Dealership"
+
+}

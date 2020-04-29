@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "vācu",
+
+  "upmc.ll.global.language.tr":
+    "turku",
+
+  "upmc.ll.global.language.da":
+    "dāņu",
+
+  "upmc.ll.profile.useragreements":
+    "Lietošanas nosacījumi",
+
+  "upmc.ll.global.JP":
+    "Japāna",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Jauna valsts vai reģions",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-pasta adrese",
+
+  "upmc.ll.global.button.edit":
+    "Apstrādāt",
+
+  "upmc.ll.global.language.cs":
+    "čehu",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Atlasiet",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Iesniegtā e-pasta adrese jau eksistē. Lūdzu, ievadiet citu e-pasta adresi.<br>Norāde: Katra e-pasta adrese var tikt piemērota tikai vienam Mercedes me lietotāja kontam.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Lūdzu, izvēlieties lauku ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Izvēlieties vismaz vienu kontaktceļu.",
+
+  "upmc.ll.global.language.sv":
+    "zviedru",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Jūs nenorādījāt fiksētā tālruņa numuru.",
+
+  "upmc.ll.global.language.sk":
+    "slovāku",
+
+  "upmc.ll.global.IT":
+    "Itālija",
+
+  "upmc.ll.global.language.sl":
+    "slovāku",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Lūdzu, ņemiet vērā:<br>Diemžēl mēs nevaram jūsu automobili un personiskos datus novirzīt uz smart portālu jūsu izvēlētajā valstī vai reģionā. Lūdzu, atkārtoti ievadiet datus.<br>Turklāt ņemiet vērā, ka jūsu izvēlētajā valstī vai reģionā smart control diemžēl nav pieejams. T.i., Jūs vairs nevarat izmantot savus smart control pakalpojumus.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Dienvidāfrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Lūdzu, ievadiet fiksētā tālruņa vai mobilā tālruņa numuru.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Vārda piedēklis",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Stāva numurs",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Norāde: Varat norādīt savu pilno adresi, ja saglabājāt izmaiņas jaunā valstī vai reģionā.",
+
+  "upmc.ll.global.language.bg":
+    "bulgāru",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Dzēst lietotāja kontu",
+
+  "upmc.ll.global.language.ru":
+    "krievu",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Nosaukums",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Atkārtoti ievadiet e-pasta adresi",
+
+  "upmc.ll.yourdata.refresh":
+    "Atjaunināt",
+
+  "upmc.ll.global.language.ro":
+    "rumāņu",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Lūdzu, norādiet dzimšanas gadu atbilstoši pasei.",
+
+  "upmc.ll.global.HU":
+    "Ungārija",
+
+  "upmc.ll.global.HR":
+    "Horvātija",
+
+  "upmc.ll.global.button.submit":
+    "Saglabāt",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Lūdzu, neievadiet ###label### vairāk par ###chars### rakstzīmēm.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "nav verificēts",
+
+  "upmc.ll.global.language.ar":
+    "arābu",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Vai nesaņēmāt aktivizācijas kodu? Iespējams, ka nepareizi norādījāt savu mobilā tālruņa numuru. Tad norādiet savu mobilā tālruņa numuru atkārtoti.<br><br>Vai saņēmāt aktivizācijas kodu un vēlaties to tagad ievadīt? Ievērojiet, ka aktivizācijas kodu var ievadīt tikai tad, ja ir norādīts mobilā tālruņa numurs. Atkārtoti norādiet savu mobilā tālruņa numuru.<br><br>Vai jūs jau veiksmīgi ievadījāt aktivizācijas kodu? Iespējams, ka sinhronizācija vēl nav notikusi. Lūdzu, mirkli uzgaidiet un noklikšķiniet uz \u201cAtjaunināt\u201d.",
+
+  "upmc.ll.global.IE":
+    "Īrija",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Lūdzu, neievadiet ###label### mazāk ###chars### rakstzīmēm.",
+
+  "upmc.ll.global.language.af":
+    "afrikāņu",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Paplašinātā datu aizsardzība jūsu lietotāja kontam tika veiksmīgi deaktivizēta.<br><br>Ja vēlaties atkal aktivizēt paplašināto datu aizsardzību, vērsieties, lūdzu, pie sava Mercedes-Benz partnera.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubaija",
+
+  "upmc.ll.global.GR":
+    "Grieķija",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Deaktivizēt paplašināto datu aizsardzību.",
+
+  "upmc.ll.global.form.address.text":
+    "Lūdzu, norādiet savu deklarēto adresi.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Novads",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Valsts",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Norāde",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Norāde",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Norādītais mobilā tālruņa numurs jau eksistē. Lūdzu, ievadiet citu mobilā tālruņa numuru.<br>Norāde: Katrs mobilā tālruņa numurs var tikt piemērots tikai vienam Mercedes me lietotāja kontam.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Uzruna",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Lūdzu, ievadiet pilnu dzimšanas datumu.",
+
+  "upmc.ll.global.language.pt":
+    "portugāļu",
+
+  "upmc.ll.yourdata.status.loading":
+    "Lūdzu, uzgaidiet īsu mirkli.",
+
+  "upmc.ll.global.button.administration":
+    "Administrācija",
+
+  "upmc.ll.global.AE_AZ":
+    "Abū Dabī",
+
+  "upmc.ll.profile.picture.position.request":
+    "Pārbīdot, pietuvinot vai attālinot attēlu, izvēlieties vēlamo attēlā daļu.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Pievienojiet vai nomainiet profila attēlu.",
+
+  "upmc.ll.global.FR":
+    "Francija",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "E-pasta adresēm jābūt verificētām, lai varētu izmantot Mercedes me portālu. Lai verificētu e-pasta adresi, ievadiet to vēlreiz.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobilā tālruņa numurs",
+
+  "upmc.ll.global.text.today":
+    "Šodien",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Lūdzu, ievadiet savus uzvārdus.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me portāls",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Fiksētais numurs",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Iela",
+
+  "upmc.ll.global.GB":
+    "Apvienotā Karaliste",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Jūsu izvēlētajā valodā pagaidām nav pieejams viss saturs. Šis saturs tiks attēlots citā valodā.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Lūdzu, ņemiet vērā:<br>Jūsu izvēlētajā valstī vai reģionā smart control ir pieejams.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Nav ievadīts mobilā tālruņa numurs.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Uzvārds",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profila attēls",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Jūs varat dzēst lietotāja kontu zemāk esošajā saitē. Ņemiet vērā, ka līdz ar dzēšanu tiks deaktivizēti visi pakalpojumi jūsu automobilim un lietotāja atļaujas tiks noņemtas.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Vai tiešām vēlaties deaktivizēt paplašināto datu aizsardzību savam lietotāja kontam?<br><br>Norāde: Lai atkal aktivētu paplašināto datu aizsardzību, vērsieties, lūdzu, pie sava Mercedes-Benz partnera.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Lūdzu, ņemiet vērā:<br>Diemžēl mēs nevaram jūsu pievienotos transportlīdzekļus, personas datus un iestatījumus novirzīt uz portālu jūsu izvēlētajā valstī vai reģionā.<br>Lūdzu, atkārtoti ievadiet šos datus izvēlētajā valstī vai reģionā, lai atkal varētu tos izmantot.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Fiksētais numurs",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adrese",
+
+  "upmc.ll.global.ES":
+    "Spānija",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Formulārs netika pareizi aizpildīts. Lūdzu, pārbaudiet ievadīto informāciju.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Jūsu ziņa satur vairāk nekā ###chars### zīmes! Lūdzu, saīsiniet tekstu.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Deaktivizēt",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Gads",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Lūdzu, ievadiet savus otros vārdus.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Šāda informācija ir nepieciešama, lai iespējotu telemātikas funkcijas:",
+
+  "upmc.ll.global.FI":
+    "Somija",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Lūdzu, ievietojiet derīgu vērtību šim: ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Apdzīvota vieta",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Šī darbība pašlaik nav iespējama tehnisku problēmu dēļ, lūdzu, mēģiniet vēlreiz pēc kāda laika.",
+
+  "upmc.ll.global.language.fr":
+    "franču",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobilā tālruņa numurs",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Fiksētā un mobilā tālruņa numuri ir jāievada starptautiski pieņemtajā formātā. Piemērs: +371152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Lūdzu, veiciet izvēli",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Apstiprināt deaktivizēšanu",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Lūdzu, pievienojiet e-pasta adresi.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Jūs varat augšupielādēt tikai JPG un PNG formāta failus, kuru izmērs nepārsniedz 5 MB un kuri ir vismaz 300x300 pikseļu lieli.",
+
+  "upmc.ll.profile.headline":
+    "Mans profils.",
+
+  "upmc.ll.global.button.completelater":
+    "Ievietot vēlāk",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Jūs nenorādījāt e-pasta adresi.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Ja jūs turpināt bez šīs informācijas, šie pakalpojumi ir atslēgtas visos transportlīdzekļos. Jūs un papildu lietotāji tos vairs nevar lietot.",
+
+  "upmc.ll.global.language.fi":
+    "somu",
+
+  "upmc.ll.yourdata.email.add":
+    "Pievienot e-pasta adresi",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Ievadīt mobilā tālruņa numuru un verificēt",
+
+  "upmc.ll.global.button.connect":
+    "Savienot",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Jūs varat ar mani sazināties, izmantojot e-pastu",
+
+  "upmc.ll.global.DK":
+    "Dānija",
+
+  "upmc.ll.global.form.mobile.verified":
+    "verificēts",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Šo failu nevarēja augšupielādēt:",
+
+  "upmc.ll.global.EE":
+    "Igaunija",
+
+  "upmc.ll.global.button.next":
+    "Tālāk",
+
+  "upmc.ll.global.language.es":
+    "spāņu",
+
+  "upmc.ll.global.language.et":
+    "igauņu",
+
+  "upmc.ll.yourdata.notverified":
+    "nav verificēts",
+
+  "upmc.ll.global.US":
+    "ASV",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Vai tiešām vēlaties dzēst savu profila attēlu?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Datums",
+
+  "upmc.ll.global.language.en":
+    "angļu",
+
+  "upmc.ll.global.language.el":
+    "grieķu",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Šī informācija ir nepieciešama, lai:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Lūdzu, obligāti aizpildiet ar * apzīmētos laukus.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Jūsu adreses izmaiņas.",
+
+  "upmc.ll.yourdata.status.verified":
+    "verificēts",
+
+  "upmc.ll.global.CN":
+    "Ķīna",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Lūdzu, aizpildiet lauku ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-pasta adrese",
+
+  "upmc.ll.global.TW":
+    "Taivāna",
+
+  "upmc.ll.global.DE":
+    "Vācija",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Durvju numurs",
+
+  "upmc.ll.global.TR":
+    "Turcija",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Pasta indekss",
+
+  "upmc.ll.global.CY":
+    "Kipras Republika",
+
+  "upmc.ll.global.CZ":
+    "Čehija",
+
+  "upmc.ll.yourdata.email.missing":
+    "Nav ievadīta e-pasta adrese.",
+
+  "upmc.ll.global.SE":
+    "Zviedrija",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Lūdzu, ņemiet vērā:<br>Diemžēl mēs nevaram jūsu automobili un personiskos datus novirzīt uz Mercedes me portālu jūsu izvēlētajā valstī vai reģionā. Lūdzu, atkārtoti ievadiet datus.<br>Jūsu no jauna izvēlētajā valstī vai reģionā Mercedes me connect ir pieejams.<br>Izvēloties automobili, uzziniet, vai tas atbalsta Mercedes me connect. Jūs tiksiet virzīts caur visām darbībām, lai varētu izmantot pakalpojumus.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Pievienojiet, nomainiet vai izdzēsiet savu profila attēlu.",
+
+  "upmc.ll.yourdata.email.error":
+    "Lūdzu, pievienojiet e-pasta adresi",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobilā tālruņa numurs",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Jūs nenorādījāt mobilā tālruņa numuru.",
+
+  "upmc.ll.global.CH":
+    "Šveice",
+
+  "upmc.ll.global.button.cancel":
+    "Atcelt",
+
+  "upmc.ll.global.CA":
+    "Kanāda",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Ievelciet jauno attēlu attiecīgajā logā vai atlasiet to, nospiežot pogu.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovākija",
+
+  "upmc.ll.global.SI":
+    "Slovēnija",
+
+  "upmc.ll.global.language.ko":
+    "korejiešu",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Ielas veids",
+
+  "upmc.ll.global.AT":
+    "Austrija",
+
+  "upmc.ll.global.language":
+    "Valoda",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Norāde",
+
+  "upmc.ll.yourdata.name.headline":
+    "Uzvārds",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Parole",
+
+  "upmc.ll.global.BG":
+    "Bulgārija",
+
+  "upmc.ll.global.BE":
+    "Beļģija",
+
+  "upmc.ll.global.RU":
+    "Krievija",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Norāde: Verificējiet savu e-pasta adresi, lai varētu pieteikties Mercedes me portālā.<br>Noklikšķiniet uz atkārtotas ievades simbola un atkārtoti ievadiet savu e-pasta adresi.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Pasta indekss",
+
+  "upmc.ll.global.button.back":
+    "Atpakaļ",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Kļūdas kods klientu servisa saziņai:",
+
+  "upmc.ll.global.RO":
+    "Rumānija",
+
+  "upmc.ll.global.hint.headline":
+    "Norāde",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Lai varētu izmantot Mercedes me portālu, mobilā tālruņa numuriem jābūt apstiprinātiem. Lai apstiprinātu mobilā tālruņa numuru, ievadiet to vēlreiz.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobilā tālruņa numurs",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Jūsu izvēlētajā valstī vai reģionā smart control diemžēl nav pieejams. T.i., Jūs vairs nevarat izmantot savus smart control pakalpojumus.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Lūdzu, ņemiet vērā:<br>Diemžēl mēs nevaram jūsu automobili un personiskos datus novirzīt uz smart portālu jūsu izvēlētajā valstī vai reģionā. Lūdzu, atkārtoti ievadiet datus.<br><br>Jūsu izvēlētajā valstī vai reģionā smart control ir pieejams.<br>Pievienojot automobili, uzziniet, vai tas atbalsta smart control. Jūs tiksiet virzīts caur visām darbībām, lai varētu izmantot pakalpojumus.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Jums vislabāk sazināties ar mani, izmantojot",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Verificēts mobilā tālruņa numurs",
+
+  "upmc.ll.global.language.ja":
+    "japāņu",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Lūdzu, ievadiet savus vārdus.",
+
+  "upmc.ll.global.language.zh":
+    "vienkāršota ķīniešu",
+
+  "upmc.ll.profile.doc.text.error":
+    "Izmaiņas piekrišanas veidlapā šobrīd nav iespējamas. Lūdzu, vēlāk mēģiniet vēlreiz.",
+
+  "upmc.ll.global.language.it":
+    "itāļu",
+
+  "upmc.ll.global.button.print":
+    "Drukāt",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Lūdzu, pievienojiet mobilā tālruņa numuru",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Lūdzu, ņemiet vērā:<br>Mainot valsti vai reģionu, jūsu izmantotie pakalpojumi tiek deaktivizēti pēc nepieciešamības. Tas ir saistīts ar to, ka piedāvātie pakalpojumi un attiecīgie lietošanas nosacījumi var atšķirties atkarībā no valsts vai reģiona.<br>Jaunā valstī vai reģionā aktivizējiet pakalpojumus, vienkārši izmantojot opciju \u201cPakalpojumu pārvaldība\u201d.",
+
+  "upmc.ll.global.button.confirm":
+    "Apstiprināt",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Paplašinātā datu aizsardzība",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Jūs varat veikt jūsu atcelšanas pieprasījumu rakstiski, nosūtot pa pastu vai faksu:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Fakss: +371 66 16 36 31",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Otrais uzvārds",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Atlasiet jauno attēlu, nospiežot pogu.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Atkārtoti ievadīt mobilā tālruņa numuru un apstiprināt to",
+
+  "upmc.ll.global.button.send":
+    "Nosūtīt",
+
+  "upmc.ll.yourdata.text.error":
+    "Piekļuve transportlīdzekļa pārvaldībai pašlaik nav iespējama.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Vai nesaņēmāt apstiprinājuma e-pastu? Iespējams, jūs pieļāvāt drukas kļūdu, ievadot e-pasta adresi. Šajā gadījumā, lūdzu, atkārtoti ievadiet e-pasta adresi.<br><br>Vai jūs jau saņēmāt apstiprinājuma saiti, lai verificētu savu e-pasta adresi? Iespējams, ka sinhronizācija vēl nav notikusi. Lūdzu, mirkli uzgaidiet un noklikšķiniet uz \u201cAtjaunināt\u201d.",
+
+  "upmc.ll.global.PT":
+    "Portugāle",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Norāde",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Klientiem, kas reģistrējušies citās Daimler grupas un tās zīmolu tīmekļa vietnēs un lietotnēs: Ja jūs šeit maināt savus datus, šīs izmaiņas tiks veiktas visās tīmekļa vietnēs un lietotnēs, kurām ir kopīgs profils (piem., Mercedes me portāls un smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "ungāru",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Polija",
+
+  "upmc.ll.global.language.hr":
+    "horvātu",
+
+  "upmc.ll.yourdata.headline":
+    "Mani Mercedes me ID dati.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Lūdzu, izvēlieties vienu opciju.",
+
+  "upmc.ll.yourdata.password.text":
+    "Izmantojiet drošu paroli un regulāri to mainiet.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Dzimšanas datums",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Lūdzu, ievietojiet jūsu pilno adresi. Tā ir nepieciešama, lai varētu pielāgot datu aizsardzības deklarāciju.",
+
+  "upmc.ll.global.language.pl":
+    "poļu",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Mēnesis",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Pievienojiet, nomainiet vai izdzēsiet savu profila attēlu.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Paplašinātā datu aizsardzība jūsu lietotāja kontam ir aktīva. Jūsu dati ir redzami tikai noteiktām personu grupām (piemēram, īpašai atbalsta grupai) Daimler AG iekšienē.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Attēla atlasīšana",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Izvēlēties vēlamo valodu",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Lūdzu, obligāti aizpildiet ar * apzīmētos laukus.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Lūdzu, ņemiet vērā:<br>Diemžēl mēs nevaram jūsu automobili un personiskos datus novirzīt uz Mercedes me portālu jūsu izvēlētajā valstī vai reģionā. Lūdzu, atkārtoti ievadiet datus.<br>Pievērsiet uzmanību, ka Mercedes me connect diemžēl nav pieejams jūsu jaunajā izvēlētajā valstī vai reģionā. T.i., Jūs vairs nevarat izmantot savus connect pakalpojumus.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID kartes numurs",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Lūdzu, norādiet savu fiksētā tālruņa numuru.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Lūdzu, ievadiet derīgu datumu.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Papildu adreses rinda 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Papildu adreses rinda 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Papildu adreses rinda 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Lūdzu, izvēlieties lauku.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Otrais vārds",
+
+  "upmc.ll.global.NO":
+    "Norvēģija",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Norāde: Verificējiet savu mobilā tālruņa numuru, lai varētu reģistrēties Mercedes me portālā.<br>Noklikšķiniet uz atkārtotas ievades simbola un atkārtoti ievadiet savu mobilā tālruņa numuru.",
+
+  "upmc.ll.global.NL":
+    "Nīderlande",
+
+  "upmc.ll.global.button.delete":
+    "Dzēst",
+
+  "upmc.ll.global.button.register":
+    "Reģistrēties",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Vārds",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobilā tālruņa numurs",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Abonenta kastīte",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profila attēls",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Es esmu izlasījis norādi un gribu saglabāšanu turpināt.<br>Pakalpojumi tiek deaktivizēti.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Tālrunis",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Šai valstij vai reģionam nevarēja tikt piemēroti adreses dati, jo Mercedes me portāla pakalpojumi šajā valstī vai reģionā nav pieejami.",
+
+  "upmc.ll.global.language.no":
+    "norvēģu",
+
+  "upmc.ll.global.language.nl":
+    "nīderlandiešu",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Norādītā dzimšanas diena nav derīga.<br>Lūdzu, pārbaudiet atlasītos datus.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Dzēsiet profila attēlu.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Dzēst lietotāja kontu",
+
+  "upmc.ll.global.LV":
+    "Latvija",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Saglabāt un tālāk",
+
+  "upmc.ll.global.notification.title":
+    "Norāde:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Mājas vārds",
+
+  "upmc.ll.global.LT":
+    "Lietuva",
+
+  "upmc.ll.global.LU":
+    "Luksemburga",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Lūdzu, ņemiet vērā:<br>Jūsu no jauna izvēlētajā valstī vai reģionā Mercedes me connect ir pieejams.<br>Jūs varat redzēt, vai jūsu transporta līdzeklis atbalsta Mercedes me connect, kad jūs atverat izvēlni \u201cMani transporta līdzekļi\u201d. Transportlīdzekļi ar Mercedes me connect funkciju tur ir atzīmēti ar ikonu un norādījumu ievērībai.",
+
+  "upmc.ll.global.button.close":
+    "Aizvērt",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Lūdzu, ņemiet vērā:<br>Jūsu no jauna izvēlētajā valstī vai reģionā Mercedes me connect diemžēl nav pieejams. T.i., Jūs vairs nevarat izmantot savus connect pakalpojumus.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Lūdzu, pasta indeksa laukā ievadiet derīgu pasta indeksu.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Lūdzu, ievadiet pilnu dzimšanas datumu.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Mājas numurs",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Valsts vai reģions",
+
+  "upmc.ll.global.button.login":
+    "Pieteikties",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Fiksētais numurs",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Paplašinātā datu aizsardzība deaktivēta.",
+
+  "upmc.ll.global.KR":
+    "Dienvidkoreja",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Lūdzu, aizpildiet lauku.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "latviešu",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Diemžēl process īslaicīgi nav pieejams.<br>Lūdzu, vēlāk mēģiniet vēlreiz.",
+
+  "upmc.ll.global.LI":
+    "Lihtenšteina",
+
+  "upmc.ll.global.language.lt":
+    "lietuviešu",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Es vēlos papildināt šo informāciju. Pakalpojumi tiek deaktivizēti.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Maksājuma līdzeklis",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Dati nav saglabāti",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kartes numurs",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Derīgs līdz",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Kartei beidzies derīguma termiņš.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Kartes īpašnieks",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Pievienojiet maksājuma veidu",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Sākotnējais iestatījums",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Dzēst maksājuma līdzekli.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Vei esat pārliecināts, ka vēlaties dzēst maksājuma līdzekli (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "\u201eDaimler Mobility Services GmbH\u201d datu aizsardzības paziņojums.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Mums ir patiesi žēl. Tehnisku sarežģījumu dēļ procesu nav iespējams pabeigt. Mēģiniet atkārtoti vēlāk. Ceram uz jūsu sapratni.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Lūdzu, papildiniet šādus datus:",
+
+  "todo.upmc.ll.hus.valid":
+    "Jūs papildinājāt nepieciešamo informāciju.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Nederīga saite",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Ja nepiekritāt Mercedes me connect un smart control pakalpojumu lietošanas nosacījumiem, tad šos pakalpojumus diemžēl nevar izmantot.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Lai varētu automobilī izmantot noteiktus pakalpojumus un runas pakalpojumus, ir nepieciešams akceptēt Nuance gala lietotāja licences līgumu un piekrist, ka Nuance izmanto datus.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Nepieciešama piekrišana",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Gatavs",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Nav tiesību",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Uz Mercedes me Store tīmekļa vietni",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Ar reģistrācijas pabeigšanu es apliecinu, ka esmu izlasījis un piekrītu <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Privātuma politikai<\/a>.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Vārds neatbilst nodokļu maksātāja reģistrācijas numuram",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Uzvārds neatbilst nodokļu maksātāja reģistrācijas numuram",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Dzimšanas datums neatbilst nodokļu maksātāja reģistrācijas numuram",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Izmaiņas veiksmīgi saglabātas. Jūs tiksiet novirzīts drīzumā",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN kodas",
+
+  "upmc.ll.yourdata.pin.text":
+    "Šeit varat dzēst savu PIN kodu savienojumam ar savu Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Šeit varat iestatīt savu PIN kodu savienojumam ar savu Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Dzēst savu Mercedes me PIN kodu",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Vai esat pārliecināts, ka vēlaties dzēst PIN kodu?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Atvainojiet, šis pakalpojums šobrīd nav pieejams. Lūdzu, vēlāk mēģiniet vēlreiz."
+
+}

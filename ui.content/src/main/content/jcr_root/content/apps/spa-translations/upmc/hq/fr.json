@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "Allemand",
+
+  "upmc.ll.global.language.tr":
+    "Turc",
+
+  "upmc.ll.global.language.da":
+    "danois",
+
+  "upmc.ll.profile.useragreements":
+    "Conditions d\u2019utilisation",
+
+  "upmc.ll.global.JP":
+    "Japon",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Nouveau pays ou nouvelle région",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Adresse courriel",
+
+  "upmc.ll.global.button.edit":
+    "Éditer",
+
+  "upmc.ll.global.language.cs":
+    "tchèque",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Veuillez faire un choix",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "L\u2019adresse courriel indiquée existe déjà. Veuillez en indiquer une autre.<br>Remarque : Une adresse courriel ne peut être associée qu\u2019à un seul compte utilisateur Mercedes me.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Veuillez sélectionner le champ ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Veuillez sélectionner au moins un moyen de contact.",
+
+  "upmc.ll.global.language.sv":
+    "suédois",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Vous n\u2019avez indiqué aucun numéro de téléphone fixe.",
+
+  "upmc.ll.global.language.sk":
+    "slovaque",
+
+  "upmc.ll.global.IT":
+    "Italie",
+
+  "upmc.ll.global.language.sl":
+    "slovaque",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Attention !<br>Nous ne pouvons pas transférer les véhicules et les informations personnelles que vous avez enregistrés vers le portail smart du nouveau pays ou de la nouvelle région sélectionné(e). Veuillez renseigner à nouveau ces informations.<br>smart control n\u2019est malheureusement pas proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e). En d\u2019autres termes, vous ne pouvez plus utiliser vos services smart control.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Afrique du Sud",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Veuillez indiquer votre numéro de téléphone fixe ou votre numéro de téléphone portable.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Complément nom",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "N° d\u2019étage",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Remarque : vous pouvez indiquer votre adresse complète si vous avez enregistré votre changement de pays ou de région.",
+
+  "upmc.ll.global.language.bg":
+    "bulgare",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Supprimer le compte utilisateur",
+
+  "upmc.ll.global.language.ru":
+    "russe",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Titre",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Renseigner à nouveau l\u2019adresse courriel",
+
+  "upmc.ll.yourdata.refresh":
+    "Mettre à jour",
+
+  "upmc.ll.global.language.ro":
+    "roumain",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Veuillez indiquer la date de naissance telle qu\u2019elle apparaît sur le passeport.",
+
+  "upmc.ll.global.HU":
+    "Hongrie",
+
+  "upmc.ll.global.HR":
+    "Croatie",
+
+  "upmc.ll.global.button.submit":
+    "Enregistrer",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Pour remplir le champ ###label###, veuillez ne pas dépasser ###chars### caractères.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "non vérifié",
+
+  "upmc.ll.global.language.ar":
+    "Arabe",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Vous n\u2019avez pas reçu de code d\u2019activation ? Vous avez peut-être fait une faute de frappe lors de la saisie de votre numéro de téléphone portable. Veuillez renseigner à nouveau votre numéro de téléphone portable.<br><br>Vous avez reçu le code d\u2019activation et souhaitez l\u2019indiquer ? Veuillez noter que la saisie du code d\u2019activation ne peut s\u2019effectuer que parallèlement à celle du numéro de téléphone portable. Veuillez renseigner à nouveau votre numéro de téléphone portable.<br><br>Le code d\u2019activation a déjà été enregistré avec succès ? Il se peut que la synchronisation n\u2019ait pas encore été effectuée. Veuillez patienter un instant et cliquer sur « Mettre à jour ».",
+
+  "upmc.ll.global.IE":
+    "Irlande",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Pour remplir le champ ###label###, veuillez utiliser au moins ###chars### caractères.",
+
+  "upmc.ll.global.language.af":
+    "Afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "La protection élargie des données de votre compte utilisateur a bien été désactivée.<br><br>Pour réactiver la protection élargie des données, veuillez vous adresser à votre distributeur Mercedes-Benz.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubaï",
+
+  "upmc.ll.global.GR":
+    "Grèce",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Désactiver la protection élargie des données.",
+
+  "upmc.ll.global.form.address.text":
+    "Veuillez indiquer l\u2019adresse de votre domicile.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Région",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Etat/pays",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Remarque",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Remarque",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Le numéro de téléphone portable indiqué existe déjà. Veuillez en indiquer un autre.<br>Remarque : Chaque numéro de téléphone portable ne peut être associé qu\u2019à un seul compte utilisateur Mercedes me.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Civilité",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Veuillez indiquer votre date de naissance complète.",
+
+  "upmc.ll.global.language.pt":
+    "portugais",
+
+  "upmc.ll.yourdata.status.loading":
+    "Veuillez patienter un instant.",
+
+  "upmc.ll.global.button.administration":
+    "Administration",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Sélectionnez une zone de la photo en faisant glisser pour agrandir ou réduire.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Ajouter ou remplacer la photo de profil.",
+
+  "upmc.ll.global.FR":
+    "France",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Les adresses courriel doivent être vérifiées pour pouvoir être utilisées sur le Portail Mercedes me. Veuillez renseigner à nouveau votre adresse courriel afin que celle-ci puisse être vérifiée.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "N° de téléphone portable",
+
+  "upmc.ll.global.text.today":
+    "Aujourd\u2019hui",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Veuillez indiquer votre nom de famille.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Portail Mercedes me",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "N° de téléphone fixe",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Rue",
+
+  "upmc.ll.global.GB":
+    "Royaume-Uni",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "A l\u2019heure actuelle, le contenu n\u2019est pas intégralement disponible dans la langue choisie. Le contenu manquant vous est proposé dans une autre langue.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Attention !<br>smart control est proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e).",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "N° de téléphone portable non renseigné.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Nom",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Photo de profil",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Veuillez cliquer sur le lien ci-dessous pour supprimer votre compte utilisateur. Attention ! La suppression du compte a pour effet de désactiver tous les services de vos véhicules et de retirer toutes les autorisations liées aux co-utilisateurs.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Etes-vous certain de vouloir désactiver la protection élargie des données de votre compte utilisateur ?<br><br>Remarque : pour réactiver par la suite la protection élargie des données, veuillez vous adresser à votre distributeur Mercedes-Benz.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Attention !<br>Nous ne pouvons pas transférer les véhicules, les informations personnelles et les paramètres que vous avez enregistrés vers le portail du nouveau pays ou de la nouvelle région sélectionné(e).<br>Veuillez renseigner à nouveau ces informations sur le portail du nouveau pays ou de la nouvelle région pour pouvoir continuer d\u2019utiliser les services.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "N° de téléphone fixe",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adresse",
+
+  "upmc.ll.global.ES":
+    "Espagne",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Le formulaire n\u2019a pas été renseigné correctement. Veuillez vérifier les informations que vous avez indiquées.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Votre message comporte plus de ###chars### caractères ! Veuillez raccourcir votre texte.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Désactiver",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Année",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Veuillez indiquer votre deuxième prénom.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Les informations suivantes sont nécessaires aux fonctions télématiques :",
+
+  "upmc.ll.global.FI":
+    "Finlande",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Veuillez indiquer une valeur correcte pour le champ ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Localité",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Action actuellement impossible en raison d\u2019un problème technique. Veuillez réessayer ultérieurement.",
+
+  "upmc.ll.global.language.fr":
+    "Français",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "N° de téléphone portable",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Les numéros de téléphone fixe et portable doivent être indiqués selon le standard international. Exemple : +33152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Veuillez faire un choix",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Confirmer la désactivation",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Veuillez ajouter une adresse courriell.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Vous ne pouvez charger que des photos au format JPG ou PNG d\u2019une taille maximale de 5 Mo et d\u2019une définition minimale de 300 x 300 pixels.",
+
+  "upmc.ll.profile.headline":
+    "Mon profil.",
+
+  "upmc.ll.global.button.completelater":
+    "Compléter plus tard",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Vous n\u2019avez indiqué aucune adresse courriel.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Si vous continuez sans préciser ces informations, les services correspondants seront désactivés sur tous les véhicules. Vous et vos co-utilisateurs ne pourrez donc plus les utiliser.",
+
+  "upmc.ll.global.language.fi":
+    "finnois",
+
+  "upmc.ll.yourdata.email.add":
+    "Ajouter une adresse courriel",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Ajouter un numéro de téléphone portable et le vérifier",
+
+  "upmc.ll.global.button.connect":
+    "Connecter",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Joignable également par courriel",
+
+  "upmc.ll.global.DK":
+    "Danemark",
+
+  "upmc.ll.global.form.mobile.verified":
+    "vérifié",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Ce fichier n\u2019a pas été téléchargé :",
+
+  "upmc.ll.global.EE":
+    "Estonie",
+
+  "upmc.ll.global.button.next":
+    "Continuer",
+
+  "upmc.ll.global.language.es":
+    "espagnol",
+
+  "upmc.ll.global.language.et":
+    "estonien",
+
+  "upmc.ll.yourdata.notverified":
+    "non vérifié",
+
+  "upmc.ll.global.US":
+    "Etats-Unis",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Souhaitez-vous vraiment supprimer la photo de profil ?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Jour",
+
+  "upmc.ll.global.language.en":
+    "Anglais",
+
+  "upmc.ll.global.language.el":
+    "grec",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Ces informations sont nécessaires pour :",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Veuillez compléter tous les champs marqués d\u2019un *.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Modification de votre adresse.",
+
+  "upmc.ll.yourdata.status.verified":
+    "vérifié",
+
+  "upmc.ll.global.CN":
+    "Chine",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Veuillez compléter le champ ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Adresse courriel",
+
+  "upmc.ll.global.TW":
+    "Taïwan",
+
+  "upmc.ll.global.DE":
+    "Allemagne",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "N° de porte",
+
+  "upmc.ll.global.TR":
+    "Turquie",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Code postal",
+
+  "upmc.ll.global.CY":
+    "République de Chypre",
+
+  "upmc.ll.global.CZ":
+    "République tchèque",
+
+  "upmc.ll.yourdata.email.missing":
+    "Vous n\u2019avez indiqué aucune adresse courriel.",
+
+  "upmc.ll.global.SE":
+    "Suède",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Attention !<br>Nous ne pouvons pas transférer les véhicules et les informations personnelles que vous avez enregistrés vers le Portail Mercedes me du nouveau pays ou de la nouvelle région sélectionné(e). Veuillez renseigner à nouveau ces informations.<br>Mercedes me connect est proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e).<br>Lors de l\u2019enregistrement de votre véhicule, vous pouvez vérifier si celui-ci est compatible avec Mercedes me connect. Si oui, vous êtes ensuite guidé pas à pas jusqu\u2019à ce que vous puissiez utiliser les services.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Ajoutez, modifiez ou supprimez ici la photo de votre profil.",
+
+  "upmc.ll.yourdata.email.error":
+    "Veuillez ajouter une adresse courriel",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "N° de téléphone portable",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Vous n\u2019avez indiqué aucun numéro de téléphone portable.",
+
+  "upmc.ll.global.CH":
+    "Suisse",
+
+  "upmc.ll.global.button.cancel":
+    "Annuler",
+
+  "upmc.ll.global.CA":
+    "Canada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Faites glisser la nouvelle photo dans la zone ou sélectionnez-la en cliquant sur le bouton.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovaquie",
+
+  "upmc.ll.global.SI":
+    "Slovénie",
+
+  "upmc.ll.global.language.ko":
+    "Coréen",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Type de rue",
+
+  "upmc.ll.global.AT":
+    "Autriche",
+
+  "upmc.ll.global.language":
+    "Langue",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Remarque",
+
+  "upmc.ll.yourdata.name.headline":
+    "Nom",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Mot de passe",
+
+  "upmc.ll.global.BG":
+    "Bulgarie",
+
+  "upmc.ll.global.BE":
+    "Belgique",
+
+  "upmc.ll.global.RU":
+    "Russie",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Remarque : Veuillez vérifier votre adresse courriel pour pouvoir accéder au Portail Mercedes me.<br>Pour cela, veuillez cliquer sur le symbole « Modifier » et indiquer à nouveau votre adresse courriel.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Code postal",
+
+  "upmc.ll.global.button.back":
+    "Retour",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Code erreur de suivi auprès du service client :",
+
+  "upmc.ll.global.RO":
+    "Roumanie",
+
+  "upmc.ll.global.hint.headline":
+    "Remarque",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Les numéros de téléphone portable doivent être vérifiés pour pouvoir être utilisés sur le Portail Mercedes me. Veuillez renseigner à nouveau votre numéro de téléphone portable afin que celui-ci puisse être vérifié.",
+
+  "upmc.ll.global.form.mobile.label":
+    "N° de téléphone portable",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "smart control n\u2019est malheureusement pas proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e). En d\u2019autres termes, vous ne pouvez plus utiliser vos services smart control.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Attention !<br>Nous ne pouvons pas transférer les véhicules et les informations personnelles que vous avez enregistrés vers le portail smart du nouveau pays ou de la nouvelle région sélectionné(e). Veuillez renseigner à nouveau ces informations.<br><br>smart control est proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e).<br>Lors de l\u2019enregistrement de votre véhicule, vous pouvez vérifier si celui-ci est compatible avec smart control. Si oui, vous êtes ensuite guidé pas à pas jusqu\u2019à ce que vous puissiez utiliser les services.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Le meilleur moyen de me joindre est par",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "N° de téléphone portable vérifié",
+
+  "upmc.ll.global.language.ja":
+    "Japonais",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Veuillez indiquer votre prénom.",
+
+  "upmc.ll.global.language.zh":
+    "chinois simplifié",
+
+  "upmc.ll.profile.doc.text.error":
+    "Il n\u2019est pas possible pour le moment de modifier la déclaration de consentement à l\u2019utilisation des données personnelles. Veuillez réessayer ultérieurement.",
+
+  "upmc.ll.global.language.it":
+    "Italie",
+
+  "upmc.ll.global.button.print":
+    "Imprimer",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Veuillez ajouter un numéro de téléphone portable",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Attention !<br>Si vous changez de pays ou de région, les services que vous utilisez seront peut-être désactivés. En effet, les services proposés et les conditions d\u2019utilisation en vigueur peuvent varier d\u2019un pays ou d\u2019une région à l\u2019autre.<br>Veuillez réactiver simplement les services dans le nouveau pays ou la nouvelle région sous « Gérer les services ».",
+
+  "upmc.ll.global.button.confirm":
+    "Confirmer",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Protection élargie des données",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Vous pouvez également faire part de votre désir de résiliation par lettre ou par fax à :<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Pays-Bas<br>Fax : +33 1 49 93 21 04",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Deuxième nom",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Sélectionnez la nouvelle photo en cliquant sur le bouton.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Renseigner à nouveau le numéro de téléphone portable et le vérifier",
+
+  "upmc.ll.global.button.send":
+    "Envoyer",
+
+  "upmc.ll.yourdata.text.error":
+    "Les informations du profil ne sont pas accessibles actuellement.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Vous n\u2019avez reçu aucun courriel de confirmation ? Vous avez peut-être fait une faute de frappe lors de la saisie de votre adresse courriel. Veuillez renseigner à nouveau votre adresse courriel.<br><br>Avez-vous déjà vérifié votre adresse courriel à l\u2019aide du lien de confirmation ? Il se peut que la synchronisation n\u2019ait pas encore été effectuée. Veuillez patienter un instant et cliquer sur « Mettre à jour ».",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Remarque",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Remarque à l\u2019attention des clients inscrits sur d\u2019autres sites et applications du groupe Daimler et de ses marques : si vous faites des changements, les modifications seront reflétées à vos autres comptes et applications affiliées au groupe Daimler (application et Portail Mercedes me).",
+
+  "upmc.ll.global.language.hu":
+    "hongrois",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Pologne",
+
+  "upmc.ll.global.language.hr":
+    "croate",
+
+  "upmc.ll.yourdata.headline":
+    "Mes données Mercedes me ID.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Veuillez sélectionner une option.",
+
+  "upmc.ll.yourdata.password.text":
+    "Choisissez un mot de passe sécurisé et modifiez celui-ci régulièrement.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Date de naissance",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Veuillez compléter votre adresse. Ceci est nécessaire pour pouvoir rattacher clairement la déclaration de consentement à l\u2019utilisation des données personnelles à votre personne.",
+
+  "upmc.ll.global.language.pl":
+    "polonais",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Mois",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Ajoutez, modifiez ou supprimez ici la photo de votre profil.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "La protection élargie des données est activée pour votre compte utilisateur. Vos informations ne sont visibles que pour certains cercles de personnes définis (service d\u2019assistance spécifique, par exemple) au sein de Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Sélectionner la photo",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Sélectionner la langue souhaitée",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Veuillez compléter tous les champs marqués d\u2019un *.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Attention !<br>Nous ne pouvons pas transférer les véhicules et les informations personnelles que vous avez enregistrés vers le Portail Mercedes me du nouveau pays ou de la nouvelle région sélectionné(e). Veuillez renseigner à nouveau ces informations.<br>Nous attirons également votre attention sur le fait que Mercedes me connect n\u2019est malheureusement pas proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e). En d\u2019autres termes, vous ne pouvez plus utiliser vos services Mercedes me connect.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Veuillez indiquer votre numéro de téléphone fixe.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Veuillez indiquer une date valide.",
+
+  "upmc.ll.global.MT":
+    "Malte",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Complément d\u2019adresse 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Complément d\u2019adresse 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Complément d\u2019adresse 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Veuillez sélectionner un champ.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Deuxième prénom",
+
+  "upmc.ll.global.NO":
+    "Norvège",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Remarque : Veuillez vérifier votre numéro de téléphone portable pour pouvoir accéder au Portail Mercedes me.<br>Pour cela, veuillez cliquer sur le symbole « Modifier » et indiquer à nouveau votre numéro de téléphone portable.",
+
+  "upmc.ll.global.NL":
+    "Pays-Bas",
+
+  "upmc.ll.global.button.delete":
+    "Supprimer",
+
+  "upmc.ll.global.button.register":
+    "S\u2019enregistrer",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Prénom",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "N° de téléphone portable",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Boîte postale",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Photo de profil",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "J\u2019ai lu l\u2019avertissement et souhaite continuer l\u2019enregistrement.<br>Les services vont être désactivés.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Téléphone",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Impossible d\u2019indiquer des coordonnées d\u2019adresse pour ce pays ou cette région étant donné que les services du Portail Mercedes me n\u2019y sont pas proposés.",
+
+  "upmc.ll.global.language.no":
+    "norvégien",
+
+  "upmc.ll.global.language.nl":
+    "Néerlandais",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "La date de naissance indiquée n\u2019est pas valide.<br>Veuillez vérifier votre sélection.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Supprimer la photo de profil.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Supprimer le compte utilisateur",
+
+  "upmc.ll.global.LV":
+    "Lettonie",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Enregistrer et continuer",
+
+  "upmc.ll.global.notification.title":
+    "Remarque :",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Nom de l\u2019immeuble",
+
+  "upmc.ll.global.LT":
+    "Lituanie",
+
+  "upmc.ll.global.LU":
+    "Luxembourg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Attention !<br>Mercedes me connect est proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e).<br>Pour vérifier si votre véhicule est compatible avec Mercedes me connect, veuillez ouvrir la rubrique « Mes véhicules ». Les véhicules dotés de la fonctionnalité Mercedes me connect y sont identifiés avec une icône et une mention correspondante.",
+
+  "upmc.ll.global.button.close":
+    "Fermer",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Attention !<br>Mercedes me connect n\u2019est malheureusement pas proposé dans le nouveau pays ou la nouvelle région que vous avez sélectionné(e). En d\u2019autres termes, vous ne pouvez plus utiliser vos services Mercedes me connect.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Veuillez indiquer un code postal correct.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Veuillez indiquer votre date de naissance complète.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "N° de rue",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Pays ou région",
+
+  "upmc.ll.global.button.login":
+    "Connexion",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "N° de téléphone fixe",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Protection élargie des données désactivée.",
+
+  "upmc.ll.global.KR":
+    "Corée du Sud",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Veuillez compléter le champ.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "letton",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Ce processus est malheureusement impossible pour le moment.<br>Veuillez réessayer ultérieurement.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "lituanien",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Je souhaite compléter les informations. Les services vont être désactivés.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### ne correspond pas au format désiré",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Moyen de paiement",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Aucune donnée enregistrée",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Numéro de carte",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Date d'expiration : ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "La carte est arrivée à expiration.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Propriétaire de la carte",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Ajouter un moyen de paiement",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Préréglage",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Supprimer le moyen de paiement.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Voulez-vous vraiment supprimer le moyen de paiement (###digits###) ?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Déclaration de confidentialité de Daimler Mobility Services GmbH.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Nous sommes désolés. En raison de problèmes techniques, le processus ne peut pas être finalisé. Veuillez réessayer ultérieurement. Merci de votre compréhension.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Malheureusement, vous ne remplissez pas l'âge requis",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Veuillez compléter les informations suivantes :",
+
+  "todo.upmc.ll.hus.valid":
+    "Vous avez complété les informations nécessaires.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Lien incorrect",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Sans acceptation des conditions d'utilisation des services Mercedes me connect et smart control, l'utilisation des services est malheureusement impossible.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Pour pouvoir utiliser certains services et certaines fonctionnalités vocales à bord du véhicule, il est indispensable d'accepter le contrat de licence d'utilisateur final de Nuance et l'utilisation des données par Nuance.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Acceptation indispensable",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Terminé",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Action non autorisée",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Veuillez compléter ou revoir vos données de profil",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Consulter le site Internet de la boutique Mercedes me Store",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "En finalisant mon inscription, je confirme avoir lu approuvé la <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Politique de confidentialité<\/a>.  ",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Le prénom ne correspond pas au code fiscal.",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Le nom ne correspond pas au code fiscal.",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "La date de naissance ne correspond pas au code fiscal.",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Votre modification a bien été effectuée. Vous allez bientôt être redirigé(e)",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Code PIN Mercedes me",
+
+  "upmc.ll.yourdata.pin.text":
+    "Supprimez ici le code PIN avec lequel vous vous connectez à votre Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Définissez ici le code PIN avec lequel vous vous connectez à votre Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Supprimez votre code PIN Mercedes me",
+
+  "upmc.ll.layer.pin.delete.request":
+    "Êtes-vous sûr de vouloir supprimer le code PIN ?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Désolé, ce service est momentanément indisponible. Veuillez réessayer ultérieurement."
+
+}

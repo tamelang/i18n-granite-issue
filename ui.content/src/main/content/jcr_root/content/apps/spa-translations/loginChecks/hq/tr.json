@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Mercedes me ID farklı bir ülkede kayıtlı ({0}). İç pazarınıza yönlendirilmek istiyorsunuz.",
+
+  "loginChecks.ll.global.button.close":
+    "yakın",
+
+  "loginChecks.ll.global.button.confirm":
+    "Onaylamak",
+
+  "loginChecks.ll.global.button.next":
+    "Sonraki",
+
+  "loginChecks.ll.global.button.with.car":
+    "Bir araba ile",
+
+  "loginChecks.ll.global.button.without.car":
+    "Araba olmadan",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Lütfen profil verilerinizi nasıl tamamlamak istediğinizi seçin.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Önceki sayfaya git",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Kayıt işleminizi tamamlayın.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

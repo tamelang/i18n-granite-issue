@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Codul dvs. Mercedes me ID este înregistrat într-o altă țară ({0}). Vrei să fii redirecționat pe piața ta de origine.",
+
+  "loginChecks.ll.global.button.close":
+    "închide",
+
+  "loginChecks.ll.global.button.confirm":
+    "Confirma",
+
+  "loginChecks.ll.global.button.next":
+    "Următor",
+
+  "loginChecks.ll.global.button.with.car":
+    "Cu o mașină",
+
+  "loginChecks.ll.global.button.without.car":
+    "Fără o mașină",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Alegeți modul în care doriți să completați datele de profil.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Accesați pagina anterioară",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Vă rugăm să închideți înregistrarea.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

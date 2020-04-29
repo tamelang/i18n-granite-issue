@@ -1,0 +1,54 @@
+{
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Observación",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Observación",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Teléfono",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "La acción requerida no es posible en este momento debido a un problema técnico, le rogamos que vuelva a intentarlo más tarde.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-mail",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Observación",
+
+  "upmc.ll.global.hint.headline":
+    "Observación",
+
+  "upmc.ll.profile.doc.text.error":
+    "En este momento no es posible modificar la Declaración de consentimiento. Le rogamos que lo intente de nuevo más tarde.",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Observación",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Usted puede borrar su cuenta de usuario utilizando el link de abajo. Por favor tome en cuenta que después de esta acción, todos los servicios en sus vehículos serán desactivados y todas las autorizaciones de otros usuarios serán terminadas.",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Usted puede enviar su solicitud de cancelación por escrito a:<br> \nme-connect.mxccac.mercedes-benz.com",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "No ha indicado ningún de teléfono celular.",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Número de celular",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Número de celular",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Número de celular",
+
+  "upmc.ll.global.form.mobile.label":
+    "Número de celular",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Los números de teléfono fijo o móvil deben indicarse en formato internacional. Ejemplo: +525512345678."
+
+}

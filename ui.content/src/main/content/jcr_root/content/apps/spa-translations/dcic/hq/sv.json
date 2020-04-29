@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Din kontaktperson för rådgivning och köp",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Din kontaktperson för service och begagnade fordon.",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Du har inte valt någon Mercedes-Benz-återförsäljare ännu.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Välj Mercedes-Benz återförsäljare",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Välj en Mercedes-Benz-återförsäljare för att kunna utnyttja fördelarna hos \"Mercedes me\" i full utsträckning.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Platsplan",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Återförsäljarens webbplats",
+
+  "dcic.ll.overview.title":
+    "Din Mercedes-Benz-partner.",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Byt ditt Mercedes-Benz återförsäljare",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Skicka förfrågan"
+
+}

@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "あなたの Mercedes me IDは別の国で登録されています。あなたはあなたの家の市場にリダイレクトされたいのです。",
+
+  "loginChecks.ll.global.button.close":
+    "近いです",
+
+  "loginChecks.ll.global.button.confirm":
+    "確かめます",
+
+  "loginChecks.ll.global.button.next":
+    "次",
+
+  "loginChecks.ll.global.button.with.car":
+    "車で",
+
+  "loginChecks.ll.global.button.without.car":
+    "車なし",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "プロフィールデータの入力方法を選択してください。",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "前のページに移動する",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "ユーザー登録",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

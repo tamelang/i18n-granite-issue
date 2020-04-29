@@ -1,0 +1,66 @@
+{
+
+  "upmc.ll.global.JP":
+    "Japan",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Extended data protection has been deactivated for your user account.<br><br>If you wish to reactivate extended data protection, please contact your authorised Mercedes-Benz Dealer.",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "State",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "You can delete your user account with the link below. Please note that with the deletion all services in your vehicles will be deactivated and all co-user authorizations will be rescinded.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Are you sure you want to deactivate extended data protection for your user account?<br><br>Note: If you subsequently wish to reactivate extended data protection, please contact your authorised Mercedes-Benz Dealer.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Suburb",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Landline and mobile telephone numbers must be entered in international format. Example: +61152123123123.",
+
+  "upmc.ll.global.CN":
+    "China",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Post Code",
+
+  "upmc.ll.global.language.ko":
+    "Korean",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Post Code",
+
+  "upmc.ll.global.language.ja":
+    "Japanese",
+
+  "upmc.ll.global.language.zh":
+    "Simplified Chinese",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "You can also send us your cancellation request in writing by post to:<br>Mercedes-Benz Australia/Pacific Pty Ltd<br>44 Lexia Place, Mulgrave<br>Victoria, Australia, 3170",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Company Name",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Please enter a valid value in the Post Code field.",
+
+  "upmc.ll.global.KR":
+    "South Korea",
+
+  "upmc.ll.privacy.text":
+    "",
+
+  "upmc.ll.privacy.headline":
+    "Privacy Information Collection Statement",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Your personal information is being collected by Mercedes-Benz Australia/Pacific Pty Ltd (\\\"MBAuP\\\") (ABN 23 004 411 410) 44 Lexia Place, Mulgrave, Victoria 3170 phone 1300 762 718 (a member of the Daimler Group).<br><br>We value your privacy and we collect your personal information by lawful means in accordance with the Australian Privacy Principles (\\\"APPs\\\") and our <a href=\\\"https://www.mercedes-benz.com.au/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy/full-privacy-statement.html\\\" target=\\\"_blank\\\">Privacy Policy<\/a>."
+
+}

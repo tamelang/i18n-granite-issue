@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "ตัวแทนที่สามารถติดต่อได้สำหรับขอคำแนะนำและการสั่งซื้อ",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "ตัวแทนที่สามารถติดต่อได้สำหรับการบริการและรถยนต์มือสอง",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "คุณยังไม่ได้เลือกศูนย์บริการเมอร์เซเดส-เบนซ์",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "เลือกศูนย์บริการเมอร์เซเดส-เบนซ์",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "คุณควรจะต้องเลือกตัวแทนจำหน่ายเมอร์เซเดส-เบนซ์สักหนึ่งแห่ง เพื่อให้สามารถใช้ประโยชน์จาก \"Mercedes me\" ได้ครบถ้วน",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "แผนสถานที่",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "เว็บไซต์ตัวแทนจำหน่าย",
+
+  "dcic.ll.overview.title":
+    "ตัวแทน Mercedes-Benz ของคุณ ",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "ส่งคำถาม",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "เปลี่ยนพันธมิตร Mercedes-Benz"
+
+}

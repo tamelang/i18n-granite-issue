@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Το άτομο επικοινωνίας σας για συμβουλές και αγορά.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Το άτομο επικοινωνίας σας για το service και τα μεταχειρισμένα οχήματα",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Δεν έχετε επιλέξει ακόμα συνεργάτη Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Επιλογή συνεργάτη Mercedes-Benz",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Επιλέξτε τώρα έναν Εξουσιοδοτημένο Επισκευαστή Mercedes-Benz, για να αξιοποιήσετε πλήρως τα πλεονεκτήματα του \"Mercedes me\".",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Σχέδιο θέσης",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Ιστοσελίδα αντιπροσώπου",
+
+  "dcic.ll.overview.title":
+    "Ο Εξ. Επισκευαστής σας Mercedes-Benz.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Αποστολή ερώτησης",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Αλλαγή εταίρου της Mercedes-Benz"
+
+}

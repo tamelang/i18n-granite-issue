@@ -1,0 +1,54 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "相談および販売担当者。\n",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "お客様のサービスおよび中古車担当者",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "お問い合わせを送信",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "ロケーションプラン",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "販売店のウェブサイト",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Mercedes-Benzパートナーを変更",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "メルセデス・ベンツ・パートナーがまだ選択されていません。",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "メルセデス・ベンツ・パートナーの選択",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "「Mercedes me」のメリットを十分に活用するには、メルセデス・ベンツ・パートナーを選択してください。",
+
+  "dcic.ll.overview.title":
+    "メルセデス・ベンツ正規販売店",
+
+  "dcic.ll.service.error.config.missingjwt":
+    "Session information isn't availabe. Please log in again",
+
+  "dcic.ll.service.error.config.missinglocale":
+    "Language configuration not found. Please log in again",
+
+  "dcic.ll.service.error.loadingvehicledata":
+    "Unfortunately, vehicle data couldn't be loaded.",
+
+  "dcic.ll.service.error.missingdealer":
+    "Unfortunately, there is currently no information available about your Mercedes-Benz dealer.",
+
+  "dcic.ll.service.error.missingfinservice":
+    "No VIN was specified for the service partner!",
+
+  "dcic.ll.service.error.missingfinvehicle":
+    "There was no VIN specified for the vehicle",
+
+  "dcic.ll.service.error.savingdealer":
+    "The dealer can not be saved at the moment."
+
+}

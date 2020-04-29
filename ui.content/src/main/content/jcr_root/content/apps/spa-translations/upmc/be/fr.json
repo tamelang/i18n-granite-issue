@@ -1,0 +1,17 @@
+{
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "Les numéros de téléphone fixe et portable doivent être indiqués selon le standard international. Exemple : +32152123123123.",
+	"upmc.ll.yourdata.deleteregistration.text.two": "Vous pouvez également faire part de votre désir de résiliation par lettre ou par fax à :<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Pays-Bas<br>Fax : +32 25541724",
+	"todo.upmc.ll.payment.hdl": "Moyens de paiement",
+	"todo.upmc.ll.payment.noentries.msg": "Aucun moyen de paiement déposé",
+	"todo.upmc.ll.payment.creditnumber.label": "Numéro de carte de crédit: ",
+	"todo.upmc.ll.payment.expirationdate.label": "Date d'expiration: ",
+	"todo.upmc.ll.payment.expirationdate.hint": "expiré",
+	"todo.upmc.ll.payment.cardholder.label": "Détenteur de la carte de crédit: ",
+	"todo.upmc.ll.layer.payment.setdefault": "par défaut",
+	"todo.upmc.ll.layer.payment.delete.headline": "Supprimer les types de paiement",
+	"todo.upmc.ll.layer.payment.delete.request": "Êtes-vous sûr de vouloir supprimer les types de paiement?",
+	"todo.upmc.ll.payment.privacy.policy.action": "Déclaration de protection des données de Daimler Mobility Services GmbH",
+	"todo.upmc.ll.payment.error.general": "Nous sommes vraiment désolés. En raison de problèmes techniques, le processus ne peut pas être terminé. Veuillez réessayer plus tard. Nous vous demandons votre compréhension.",
+	"upmc.ll.yourdata.privacypolicy.text.agreement":"En finalisant mon inscription, je confirme avoir lu approuvé la <u>Politique de confidentialité</u>."
+
+}

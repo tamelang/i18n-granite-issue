@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "Γερμανικά",
+
+  "upmc.ll.global.language.tr":
+    "Τουρκικά",
+
+  "upmc.ll.global.language.da":
+    "Δανικά",
+
+  "upmc.ll.profile.useragreements":
+    "Όροι χρήσης",
+
+  "upmc.ll.global.JP":
+    "Ιαπωνία",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Νέα χώρα ή περιφέρεια",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Διεύθυνση e-mail",
+
+  "upmc.ll.global.button.edit":
+    "Επεξεργασία",
+
+  "upmc.ll.global.language.cs":
+    "Τσεχικά",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Επιλέξτε",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Η διεύθυνση e-mail που έχετε εισαγάγει υπάρχει ήδη. Εισάγετε μια άλλη διεύθυνση e-mail.<br>Σημαντική σημείωση: Κάθε διεύθυνση e-mail μπορεί να αντιστοιχεί μόνο σε ένα λογαριασμό χρήστη Mercedes me.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Επιλέξτε το πεδίο ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Επιλέξτε τουλάχιστον έναν τρόπο επικοινωνίας.",
+
+  "upmc.ll.global.language.sv":
+    "Σουηδικά",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Δεν έχετε εισαγάγει σταθερό τηλέφωνο.",
+
+  "upmc.ll.global.language.sk":
+    "Σλοβακικά",
+
+  "upmc.ll.global.IT":
+    "Ιταλία",
+
+  "upmc.ll.global.language.sl":
+    "Σλοβακικά",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, δεν μπορούμε να μεταφέρουμε τα οχήματα που έχετε δημιουργήσει και τα προσωπικά δεδομένα σας στο portal smart της νέας χώρας ή περιφέρειας που επιλέξατε. Εισάγετε ξανά αυτά τα στοιχεία.<br>Λάβετε επίσης υπόψη, ότι το smart control δεν είναι δυστυχώς διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε. Αυτό σημαίνει, ότι δεν μπορείτε να χρησιμοποιείτε πλέον τις υπηρεσίες smart control.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Νότια Αφρική",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Εισάγετε το σταθερό ή κινητό σας τηλέφωνο.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Μεσαίο όνομα",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Όροφος",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Σημαντική σημείωση: Μπορείτε να εισάγετε την πλήρη διεύθυνσή σας, εφόσον έχετε αποθηκεύσει την αλλαγή σε μια νέα χώρα ή περιφέρεια.",
+
+  "upmc.ll.global.language.bg":
+    "Βουλγαρικά",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Διαγραφή λογαριασμού χρήστη",
+
+  "upmc.ll.global.language.ru":
+    "Ρωσικά",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Τίτλος",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Εκ νέου εισαγωγή διεύθυνσης e-mail",
+
+  "upmc.ll.yourdata.refresh":
+    "Ενημέρωση",
+
+  "upmc.ll.global.language.ro":
+    "Ρουμανικά",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Ουγγαρία",
+
+  "upmc.ll.global.HR":
+    "Κροατία",
+
+  "upmc.ll.global.button.submit":
+    "Αποθήκευση",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Για ###label### εισάγετε το μέγιστο ###chars### χαρακτήρες.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "δεν επαληθεύτηκε",
+
+  "upmc.ll.global.language.ar":
+    "αραβικά",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Δεν έχετε λάβει κωδικό ενεργοποίησης; Μπορεί να πληκτρολογήσατε λάθος το κινητό σας. Σε αυτή την περίπτωση, εισάγετε ξανά το κινητό σας.<br><br>Έχετε λάβει τον κωδικό ενεργοποίησης και θέλετε να τον εισάγετε τώρα; Λάβετε υπόψη, ότι η εισαγωγή του κωδικού ενεργοποίησης είναι εφικτή μόνο αμέσως μετά την εισαγωγή του κινητού τηλεφώνου. Εισάγετε ξανά το κινητό τηλέφωνό σας.<br><br>Έχετε ήδη εισαγάγει επιτυχώς τον κωδικό ενεργοποίησης; Ενδέχεται να μην έχει γίνει ακόμα ο συγχρονισμός. Περιμένετε ένα λεπτό και πατήστε \"Ενημέρωση\".",
+
+  "upmc.ll.global.IE":
+    "Ιρλανδία",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Για ###label### εισάγετε τουλάχιστον ###chars### χαρακτήρες.",
+
+  "upmc.ll.global.language.af":
+    "Αφρικανικά",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Η διευρυμένη προστασία δεδομένων για το λογαριασμό χρήστη σας επενεργοποιήθηκε επιτυχώς.<br><br>Για να ενεργοποιήσετε ξανά τη διευρυμένη προστασία δεδομένων, απευθυνθείτε στον Εξουσιοδοτημένο Επισκευαστή σας Mercedes-Benz.",
+
+  "upmc.ll.global.AE_DU":
+    "Ντουμπάι",
+
+  "upmc.ll.global.GR":
+    "Ελλάδα",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Απενεργοποιήστε τη διευρυμένη προστασία δεδομένων.",
+
+  "upmc.ll.global.form.address.text":
+    "Εισάγετε τη διεύθυνση εγγραφής σας.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Νομός",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Χώρα",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Σημείωση",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Σημείωση",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Το κινητό τηλέφωνο που έχετε εισαγάγει υπάρχει ήδη. Εισάγετε ένα άλλο κινητό τηλέφωνο.<br>Σημαντική σημείωση: Κάθε κινητό τηλέφωνο μπορεί να αντιστοιχεί μόνο σε ένα λογαριασμό χρήστη Mercedes me.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Προσφώνηση",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Εισάγετε την πλήρη ημερομηνία γέννησης.",
+
+  "upmc.ll.global.language.pt":
+    "Πορτογαλικά",
+
+  "upmc.ll.yourdata.status.loading":
+    "Περιμένετε ένα λεπτό.",
+
+  "upmc.ll.global.button.administration":
+    "Διαχείριση",
+
+  "upmc.ll.global.AE_AZ":
+    "Άμπου Ντάμπι",
+
+  "upmc.ll.profile.picture.position.request":
+    "Επιλέξτε τη λεπτομέρεια της εικόνας που θέλετε μετακινώντας και μεγαλώνοντας ή μικραίνοντάς την.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Προσθέστε ή αντικαταστήστε την εικόνα προφίλ.",
+
+  "upmc.ll.global.FR":
+    "Γαλλία",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Οι διευθύνσεις e-mail πρέπει να επαληθεύονται, για να μπορούν να χρησιμοποιηθούν στο Mercedes me portal. Για να επαληθεύσετε τη διεύθυνση σας e-mail, εισάγετέ την ξανά.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Κινητό τηλέφωνο",
+
+  "upmc.ll.global.text.today":
+    "Το σήμερα",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Εισάγετε εδώ το επίθετό σας.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me Portal",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Σταθερό τηλέφωνο",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Οδός",
+
+  "upmc.ll.global.GB":
+    "Ηνωμένο Βασίλειο",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Προς το παρόν, δεν είναι διαθέσιμα όλα τα περιεχόμενα μεταφρασμένα στη γλώσσα που έχετε επιλέξει. Τα συγκεκριμένα περιεχόμενα θα εμφανιστούν σε μια άλλη γλώσσα.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Λάβετε υπόψη ότι:<br>Το smart control δεν είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Δεν έχει εισαχθεί κινητό τηλέφωνο.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Επώνυμο",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Εικόνα προφίλ",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Μπορείτε να διαγράψετε το λογαριασμό χρήστη σας μέσω του παρακάτω συνδέσμου. Λάβετε υπόψη, ότι με τη διαγραφή θα απενεργοποιηθούν όλες οι υπηρεσίες στα οχήματά σας και θα ακυρωθούν όλες οι εξουσιοδοτήσεις δευτερευόντων χρηστών.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Είστε σίγουροι ότι θέλετε να απενεργοποιήσετε τη διευρυμένη προστασία δεδομένων για το λογαριασμό χρήστη σας;<br><br>Σημαντική σημείωση: Για να επανεργοποιήσετε έπειτα τη διευρυμένη προστασία δεδομένων, απευθυνθείτε στον Εξουσιοδοτημένο Επισκευαστή σας Mercedes-Benz.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, δεν μπορούμε να μεταφέρουμε τα οχήματα που έχετε δημιουργήσει, τα προσωπικά δεδομένα και τις ρυθμίσεις σας στο portal της νέας χώρας ή περιφέρειας που επιλέξατε.<br>Εισάγετε ξανά αυτά τα στοιχεία στη νέα χώρα ή περιφέρεια, για να μπορέσετε να χρησιμοποιήσετε ξανά τις υπηρεσίες.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Σταθερό τηλέφωνο",
+
+  "upmc.ll.yourdata.address.headline":
+    "Διεύθυνση",
+
+  "upmc.ll.global.ES":
+    "Ισπανία",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Η φόρμα δεν συμπληρώθηκε σωστά. Ελέγξτε τις εισαγωγές σας.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Το μήνυμά σας έχει πάνω από ###chars### χαρακτήρες! Μειώστε το κείμενο.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Απενεργοποίηση",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Έτος",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Εισάγετε εδώ το δεύτερο όνομά σας.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Για τις λειτουργίες τηλεματικής απαιτούνται τα παρακάτω στοιχεία:",
+
+  "upmc.ll.global.FI":
+    "Φινλανδία",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Εισάγετε μια έγκυρη τιμή για ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Περιοχή",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Η ενέργεια δεν είναι δυνατή αυτή την στιγμή λόγω τεχνικού προβλήματος, προσπαθήστε ξανά αργότερα.",
+
+  "upmc.ll.global.language.fr":
+    "Γαλλικά",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Κινητό τηλέφωνο",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Πρέπει να εισάγετε το σταθερό και το κινητό τηλέφωνο στη διεθνή μορφή. Παράδειγμα: +30152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Κάντε μια επιλογή",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Επιβεβαίωση απενεργοποίησης",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Προσθέστε μια διεύθυνση e-mail.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Μπορείτε να ανεβάζετε μόνο εικόνες σε μορφή JPG ή PNG, με έως και 5 MB και ελάχιστο μέγεθος 300x300 pixel.",
+
+  "upmc.ll.profile.headline":
+    "Το προφίλ μου.",
+
+  "upmc.ll.global.button.completelater":
+    "Συμπλήρωση αργότερα",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Δεν έχετε εισαγάγει διεύθυνση e-mail.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Εάν συνεχίσετε χωρίς αυτά τα στοιχεία, θα απενεργοποιηθούν οι υπηρεσίες για όλα τα οχήματα. Δεν θα μπορείτε πλέον να τις χρησιμοποιείτε εσείς και οι δευτερεύοντες χρήστες που έχετε ορίσει.",
+
+  "upmc.ll.global.language.fi":
+    "Φινλανδικά",
+
+  "upmc.ll.yourdata.email.add":
+    "Προσθήκη διεύθυνσης e-mail",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Προσθήκη κινητού τηλεφώνου και ταυτοποίηση",
+
+  "upmc.ll.global.button.connect":
+    "Σύνδεση",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Μπορείτε να επικοινωνείτε μαζί μου και μέσω e-mail",
+
+  "upmc.ll.global.DK":
+    "Δανία",
+
+  "upmc.ll.global.form.mobile.verified":
+    "Επαληθεύτηκε",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Δεν ήταν δυνατή η φόρτωση αυτού του αρχείου:",
+
+  "upmc.ll.global.EE":
+    "Εσθονία",
+
+  "upmc.ll.global.button.next":
+    "Συνέχεια",
+
+  "upmc.ll.global.language.es":
+    "Ισπανικά",
+
+  "upmc.ll.global.language.et":
+    "Εσθονικά",
+
+  "upmc.ll.yourdata.notverified":
+    "δεν επαληθεύτηκε",
+
+  "upmc.ll.global.US":
+    "ΗΠΑ",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Είστε σίγουροι ότι θέλετε να διαγράψετε την εικόνα προφίλ σας;",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Ημέρα",
+
+  "upmc.ll.global.language.en":
+    "Αγγλικά",
+
+  "upmc.ll.global.language.el":
+    "Ελληνικά",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Αυτά τα στοιχεία χρειάζονται για:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Συμπληρώστε οπωσδήποτε τα επισημασμένα με * πεδία.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Αλλαγή της διεύθυνσής σας.",
+
+  "upmc.ll.yourdata.status.verified":
+    "Επαληθεύτηκε",
+
+  "upmc.ll.global.CN":
+    "Κίνα",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Συμπληρώστε το πεδίο ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Διεύθυνση e-mail",
+
+  "upmc.ll.global.TW":
+    "Ταϊβάν",
+
+  "upmc.ll.global.DE":
+    "Γερμανία",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Αριθμός διαμερίσματος",
+
+  "upmc.ll.global.TR":
+    "Τουρκία",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Τ.Κ.",
+
+  "upmc.ll.global.CY":
+    "Κυπριακή Δημοκρατία",
+
+  "upmc.ll.global.CZ":
+    "Δημοκρατία της Τσεχίας",
+
+  "upmc.ll.yourdata.email.missing":
+    "Δεν έχει εισαχθεί διεύθυνση e-mail.",
+
+  "upmc.ll.global.SE":
+    "Σουηδία",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, δεν μπορούμε να μεταφέρουμε τα οχήματα που έχετε δημιουργήσει και τα προσωπικά σας στοιχεία στο Mercedes me portal της νέας χώρας ή περιφέρειας που επιλέξατε. Εισάγετε ξανά αυτά τα στοιχεία.<br>Το Mercedes me connect είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε.<br>Κατά τη δημιουργία του οχήματός σας θα μάθετε εάν αυτό υποστηρίζει το Mercedes me connect. Επιπλέον, θα οδηγηθείτε μέσα από όλα τα βήματα, για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Προσθέστε, αλλάξτε ή διαγράψτε την εικόνα προφίλ σας εδώ.",
+
+  "upmc.ll.yourdata.email.error":
+    "Προσθέστε μια διεύθυνση e-mail",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Κινητό τηλέφωνο",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Δεν έχετε εισαγάγει κινητό τηλέφωνο.",
+
+  "upmc.ll.global.CH":
+    "Ελβετία",
+
+  "upmc.ll.global.button.cancel":
+    "Ακύρωση",
+
+  "upmc.ll.global.CA":
+    "Καναδάς",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Σύρετε τη νέα εικόνα στην επιφάνεια ή επιλέξτε την πατώντας το κουμπί.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Σλοβακία",
+
+  "upmc.ll.global.SI":
+    "Σλοβενία",
+
+  "upmc.ll.global.language.ko":
+    "Κορεατικά",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Τύπος οδού",
+
+  "upmc.ll.global.AT":
+    "Αυστρία",
+
+  "upmc.ll.global.language":
+    "Γλώσσα",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Σημείωση",
+
+  "upmc.ll.yourdata.name.headline":
+    "Όνομα",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Κωδικός πρόσβασης",
+
+  "upmc.ll.global.BG":
+    "Βουλγαρία",
+
+  "upmc.ll.global.BE":
+    "Βέλγιο",
+
+  "upmc.ll.global.RU":
+    "Ρωσία",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Σημαντική σημείωση: Επαληθεύστε τη διεύθυνση e-mail σας, για να μπορείτε να τη χρησιμοποιείτε για τη σύνδεση στο Mercedes me portal.<br>Πατήστε στο εικονίδιο επεξεργασίας, και εισάγετε ξανά τη διεύθυνση e-mail σας.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Τ.Κ.",
+
+  "upmc.ll.global.button.back":
+    "Πίσω",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Κωδικός σφάλματος για παρακολούθηση στην Εξυπηρέτηση Πελατών:",
+
+  "upmc.ll.global.RO":
+    "Ρουμανία",
+
+  "upmc.ll.global.hint.headline":
+    "Σημείωση",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Οι αριθμοί κινητού τηλεφώνου πρέπει να επαληθεύονται, για να μπορούν να χρησιμοποιηθούν στο Mercedes me portal. Για να επαληθεύσετε τους αριθμούς κινητού τηλεφώνου, εισάγετέ τους ξανά.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Κινητό τηλέφωνο",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Δυστυχώς, το smart control δεν είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε. Αυτό σημαίνει, ότι δεν μπορείτε να χρησιμοποιείτε πλέον τις υπηρεσίες smart control.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, δεν μπορούμε να μεταφέρουμε τα οχήματα που έχετε δημιουργήσει και τα προσωπικά δεδομένα σας στο portal smart της νέας χώρας ή περιφέρειας που επιλέξατε. Εισάγετε ξανά αυτά τα στοιχεία.<br><br>Το smart control δεν είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε.<br>Κατά τη δημιουργία του οχήματός σας θα μάθετε εάν αυτό υποστηρίζει το smart control. Επιπλέον, θα οδηγηθείτε μέσα από όλα τα βήματα, για να μπορέσετε να χρησιμοποιήσετε τις υπηρεσίες.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Προτιμώ να επικοινωνείτε μαζί μου μέσω",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Επαληθευμένο κινητό τηλέφωνο",
+
+  "upmc.ll.global.language.ja":
+    "Ιαπωνικά",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Εισάγετε εδώ το όνομά σας.",
+
+  "upmc.ll.global.language.zh":
+    "Απλουστευμένα κινεζικά",
+
+  "upmc.ll.profile.doc.text.error":
+    "Δεν είναι δυνατές αλλαγές της δήλωσης συναίνεσης αυτήν τη στιγμή. Προσπαθήστε ξανά αργότερα.",
+
+  "upmc.ll.global.language.it":
+    "Ιταλικά",
+
+  "upmc.ll.global.button.print":
+    "Εκτύπωση",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Προσθέστε ένα κινητό τηλέφωνο",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Λάβετε υπόψη ότι:<br>Εάν αλλάξετε τη χώρα ή την περιφέρεια, ενδέχεται να απενεργοποιηθούν οι υπηρεσίες που χρησιμοποιείτε. Αυτό συμβαίνει, επειδή οι προσφερόμενες υπηρεσίες και οι όροι χρήσης μπορεί να διαφέρουν ανάλογα με τη χώρα ή την περιφέρεια.<br>Ενεργοποιήστε τις υπηρεσίες στη νέα χώρα ή περιφέρεια εύκολα και πάλι από την επιλογή \"Διαχείριση υπηρεσιών\".",
+
+  "upmc.ll.global.button.confirm":
+    "Επιβεβαίωση",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Διευρυμένη προστασία δεδομένων",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Μπορείτε να μας στέλνετε την επιθυμία σας για διαγραφή και εγγράφως, με επιστολή ή φαξ, στη διεύθυνση:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Φαξ: +302119902329",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Δεύτερο επίθετο",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Επιλέξτε τη νέα εικόνα πατώντας το κουμπί.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Εκ νέου εισαγωγή και επαλήθευση αριθμού κινητού τηλεφώνου",
+
+  "upmc.ll.global.button.send":
+    "Αποστολή",
+
+  "upmc.ll.yourdata.text.error":
+    "Η πρόσβαση στα στοιχεία προφίλ δεν είναι δυνατή αυτήν τη στιγμή.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Δεν έχετε λάβει e-mail επιβεβαίωσης; Πιθανώς να πληκτρολογήσατε λανθασμένα τη διεύθυνση e-mail σας. Σε αυτή την περίπτωση, εισάγετε ξανά τη διεύθυνση e-mail σας.<br><br>Έχετε ανοίξει ήδη το σύνδεσμο επιβεβαίωσης, για να επαληθεύσετε τη διεύθυνση e-mail σας; Ενδέχεται να μην έχει γίνει ακόμα ο συγχρονισμός. Περιμένετε λίγο και πατήστε \"Ενημέρωση\".",
+
+  "upmc.ll.global.PT":
+    "Πορτογαλία",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Σημείωση",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Για πελάτες που έχουν εγγραφεί σε άλλες ιστοσελίδες και εφαρμογές του Ομίλου Daimler και των εταιρειών του: Εάν τροποποιήσετε εδώ τα στοιχεία σας, όλες οι αλλαγές θα εφαρμοστούν σε όλες τις ιστοσελίδες και τις εφαρμογές που συμμετέχουν στο ίδιο προφίλ (π.χ. Mercedes me portal και smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "Ουγγρικά",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Πολωνία",
+
+  "upmc.ll.global.language.hr":
+    "Κροατικά",
+
+  "upmc.ll.yourdata.headline":
+    "Τα στοιχεία μου Mercedes me ID.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Κάντε μια επιλογή.",
+
+  "upmc.ll.yourdata.password.text":
+    "Χρησιμοποιήστε έναν ασφαλή κωδικό πρόσβασης και αλλάζετέ τον τακτικά.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Ημ/νία γέννησης",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Συμπληρώστε την πλήρη σας διεύθυνση. Αυτό είναι απαραίτητο, ώστε η δήλωση συναίνεσης περί προστασίας δεδομένων να αντιστοιχιστεί αποκλειστικά σε εσάς.",
+
+  "upmc.ll.global.language.pl":
+    "Πολωνικά",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Μήνας",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Προσθέστε, αλλάξτε ή διαγράψτε την εικόνα προφίλ σας εδώ.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Για το λογαριασμό χρήστη σας είναι ενεργοποιημένη η διευρυμένη προστασία δεδομένων. Τα δεδομένα σας είναι ορατά μόνο για επιλεγμένες ομάδες ατόμων (π.χ. μία ειδική ομάδα υποστήριξης) εντός της Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Επιλογή εικόνας",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Επιλογή επιθυμητής γλώσσας",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Συμπληρώστε οπωσδήποτε τα επισημασμένα με * πεδία.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, δεν μπορούμε να μεταφέρουμε τα οχήματα που έχετε δημιουργήσει και τα προσωπικά σας στοιχεία στο Mercedes me portal της νέας χώρας ή περιφέρειας που επιλέξατε. Εισάγετε ξανά αυτά τα στοιχεία.<br>Επιπλέον, λάβετε υπόψη, ότι δυστυχώς, το Mercedes me connect δεν είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε. Αυτό σημαίνει, ότι δεν μπορείτε να χρησιμοποιείτε πλέον τις υπηρεσίες connect.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Εισάγετε το σταθερό σας τηλέφωνο.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Εισάγετε μια έγκυρη ημερομηνία.",
+
+  "upmc.ll.global.MT":
+    "Μάλτα",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Πρόσθετη γραμμή διεύθυνσης 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Πρόσθετη γραμμή διεύθυνσης 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Πρόσθετη γραμμή διεύθυνσης 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Επιλέξτε πεδίο.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Δεύτερο όνομα",
+
+  "upmc.ll.global.NO":
+    "Νορβηγία",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Σημαντική σημείωση: Επαληθεύστε το κινητό σας τηλέφωνο, για να μπορείτε να το χρησιμοποιείτε για τη σύνδεση στο Mercedes me portal.<br>Πατήστε στο εικονίδιο επεξεργασίας, και εισάγετε ξανά το κινητό σας τηλέφωνο.",
+
+  "upmc.ll.global.NL":
+    "Ολλανδία",
+
+  "upmc.ll.global.button.delete":
+    "Διαγραφή",
+
+  "upmc.ll.global.button.register":
+    "Εγγραφή",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Όνομα",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Κινητό τηλέφωνο",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "P.O. box",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Εικόνα προφίλ",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Έχω διαβάσει την οδηγία και θέλω να συνεχίσω με την αποθήκευση.<br>Οι υπηρεσίες έχουν απενεργοποιηθεί.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Τηλέφωνο",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Δεν μπορούν να εισαχθούν στοιχεία διεύθυνσης για αυτή τη χώρα ή περιφέρεια, επειδή σε αυτή τη χώρα ή περιφέρεια δεν διατίθενται οι υπηρεσίες του Mercedes me Portal.",
+
+  "upmc.ll.global.language.no":
+    "Νορβηγικά",
+
+  "upmc.ll.global.language.nl":
+    "Ολλανδικά",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Η εισηγμένη ημερομηνία γέννησης δεν είναι έγκυρη.<br>Ελέγξτε την επιλογή σας.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Διαγραφή εικόνας προφίλ.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Διαγραφή λογαριασμού χρήστη",
+
+  "upmc.ll.global.LV":
+    "Λετονία",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Αποθήκευση και συνέχεια",
+
+  "upmc.ll.global.notification.title":
+    "Σημαντική σημείωση:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Όνομα κτιρίου",
+
+  "upmc.ll.global.LT":
+    "Λιθουανία",
+
+  "upmc.ll.global.LU":
+    "Λουξεμβούργο",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Λάβετε υπόψη ότι:<br>Το Mercedes me connect είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε.<br>Μπορείτε να δείτε εάν το όχημά σας υποστηρίζει το Mercedes me connect ανοίγοντας την εντολή μενού \"Τα οχήματά μου\". Εκεί, τα οχήματα με λειτουργία Mercedes me connect επισημαίνονται με ένα εικονίδιο και κείμενο οδηγιών.",
+
+  "upmc.ll.global.button.close":
+    "Κλείσιμο",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Λάβετε υπόψη ότι:<br>Δυστυχώς, το Mercedes me connect δεν είναι διαθέσιμο στη νέα χώρα ή περιφέρεια που επιλέξατε. Αυτό σημαίνει, ότι δεν μπορείτε να χρησιμοποιείτε πλέον τις υπηρεσίες connect.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Εισάγετε μια έγκυρη τιμή στο πεδίο ταχυδρομικού κώδικα.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Εισάγετε την πλήρη ημερομηνία γέννησης.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Αρ. κτιρίου",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Χώρα ή περιφέρεια",
+
+  "upmc.ll.global.button.login":
+    "Σύνδεση",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Σταθερό τηλέφωνο",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Απενεργοποίηση διευρυμένης προστασίας δεδομένων.",
+
+  "upmc.ll.global.KR":
+    "Νότια Κορέα",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Συμπληρώστε το πεδίο.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "Λετονικά",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Δυστυχώς, η διαδικασία δεν είναι προς το παρόν διαθέσιμη.<br>Προσπαθήστε ξανά αργότερα.",
+
+  "upmc.ll.global.LI":
+    "Λιχτενστάιν",
+
+  "upmc.ll.global.language.lt":
+    "Λιθουανικά",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Θέλω να συμπληρώσω τα στοιχεία. Οι υπηρεσίες έχουν απενεργοποιηθεί.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Μέσο πληρωμής",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Δεν υπάρχουν αποθηκευμένα στοιχεία",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Αριθμός κάρτας",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Ισχύει έως",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Η κάρτα έχει λήξει.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Κάτοχος κάρτας",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Προσθήκη μέσου πληρωμής",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Προεπιλεγμένη ρύθμιση",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Διαγραφή μέσου πληρωμής.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Είστε βέβαιοι ότι θέλετε να διαγράψετε το μέσο πληρωμής (###digits###);",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Δήλωση προστασίας δεδομένων της Daimler Mobility Services GmbH.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Λυπούμαστε. Η διαδικασία δεν μπόρεσε να ολοκληρωθεί λόγω τεχνικών προβλημάτων. Παρακαλούμε προσπαθήστε ξανά αργότερα. Σας ευχαριστούμε για την κατανόησή σας.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Δυστυχώς δεν πληροίτε την απαίτηση ηλικίας",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Συμπληρώστε τα ακόλουθα στοιχεία:",
+
+  "todo.upmc.ll.hus.valid":
+    "Έχετε συμπληρώσει τα απαραίτητα στοιχεία.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Μη έγκυρος σύνδεσμος",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Εάν δεν συμφωνήσετε με τους όρους χρήσης για τις υπηρεσίες Mercedes me connect και smart control, δυστυχώς δεν θα είναι δυνατή η χρήση των υπηρεσιών.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Για να χρησιμοποιήσετε συγκεκριμένες υπηρεσίες και φωνητικές υπηρεσίες στο όχημα, πρέπει να συμφωνήσετε με την άδεια χρήσης τελικού χρήστη της Nuance και να δώσετε τη συγκατάθεσή σας για τη χρήση των δεδομένων από τη Nuance.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Απαιτείται συμφωνία",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Ολοκληρώθηκε",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Χωρίς εξουσιοδότηση",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Συμπληρώστε ή ελέγξτε τα δεδομένα του προφίλ σας",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Η ιστοσελίδα Mercedes me Store",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Oλοκληρώνοντας την εγγραφή μου, επιβεβαιώνω ότι έχω διαβάσει και συμφωνώ με την <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Πολιτική Απορρήτου<\/a>.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Το όνομα δεν αντιστοιχεί στον αριθμό φορολογικού μητρώου",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Το επώνυμο δεν αντιστοιχεί στον αριθμό φορολογικού μητρώου",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Η ημερομηνία γέννησης δεν αντιστοιχεί στον αριθμό φορολογικού μητρώου",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Η αλλαγή ολοκληρώθηκε με επιτυχία. Θα ανακατευθυνθείτε σύντομα",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Εδώ μπορείτε να διαγράψετε το PIN για τη σύνδεση με τη Mercedes-Benz σας",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Εδώ μπορείτε να ορίσετε το PIN για τη σύνδεση με τη Mercedes-Benz σας",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Διαγραφή του Mercedes me PIN σας",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Είστε βέβαιοι ότι θέλετε να διαγράψετε το PIN;",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Λυπούμαστε, η υπηρεσία δεν είναι διαθέσιμη αυτήν τη στιγμή. Προσπαθήστε ξανά αργότερα."
+
+}

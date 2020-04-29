@@ -1,0 +1,54 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Su persona de contacto para el asesoramiento y la compra.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Su persona de contacto para servicio posventa y vehículos de ocasión",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Enviar solicitud",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Plano de ubicación",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Página principal del Punto de Red",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Seleccionar Conces./Taller Mercedes-Benz. ",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Todavía no ha seleccionado ningún Punto de Red Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Seleccionar Punto de Red Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Seleccione ahora un Punto de Red Mercedes-Benz para poder disfrutar de todas las ventajas de \"Mercedes me\".",
+
+  "dcic.ll.overview.title":
+    "Su Distribuidor o Taller Autorizado MB.",
+
+  "dcic.ll.service.error.config.missingjwt":
+    "La información de la sesión no está disponible. Por favor inicie sesión de nuevo",
+
+  "dcic.ll.service.error.config.missinglocale":
+    "Configuración de idioma no encontrada. Por favor inicie sesión de nuevo.",
+
+  "dcic.ll.service.error.loadingvehicledata":
+    "Desafortunadamente, los datos del vehículo no se pudieron cargar.",
+
+  "dcic.ll.service.error.missingdealer":
+    "Desafortunadamente, actualmente no hay información disponible sobre su distribuidor Mercedes-Benz.",
+
+  "dcic.ll.service.error.missingfinservice":
+    "¡No se especificó ningún número de identificación del vehículo!",
+
+  "dcic.ll.service.error.missingfinvehicle":
+    "¡No se especificó ningún número de identificación del vehículo!",
+
+  "dcic.ll.service.error.savingdealer":
+    "El distribuidor no se puede guardar en este momento."
+
+}

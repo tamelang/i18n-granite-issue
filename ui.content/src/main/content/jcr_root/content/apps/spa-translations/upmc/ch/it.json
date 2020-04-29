@@ -1,0 +1,20 @@
+{
+	"upmc.ll.profile.formdata.phonenumber_needs_update": "I numeri di rete fissa e di cellulare devono essere indicati nel formato internazionale. Esempio: +39152123123123.",
+	"upmc.ll.yourdata.deleteregistration.text.two": "Puoi comunicarci la disdetta anche per iscritto, per posta o fax:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Olanda<br>Fax: +39 02 75 41 97 74",
+	"upmc.ll.global.button.login": "Accedi",
+	"todo.upmc.ll.payment.hdl": "Mezzi di pagamento",
+	"todo.upmc.ll.payment.noentries.msg": "Nessun dato depositato",
+	"todo.upmc.ll.payment.creditnumber.label": "Numero di carta di credito: ",
+	"todo.upmc.ll.payment.expirationdate.label": "Data di scadenza: ",
+	"todo.upmc.ll.payment.expirationdate.hint": "scaduto",
+	"todo.upmc.ll.payment.cardholder.label": "Titolare della carta di credito: ",
+	"todo.upmc.ll.payment.action": "Aggiungi mezzo di pagamento",
+	"todo.upmc.ll.layer.payment.setdefault": "difetto",
+	"todo.upmc.ll.layer.payment.delete.headline": "Cancella i tipi di pagamento",
+	"todo.upmc.ll.layer.payment.delete.request": "Sei sicuro di voler eliminare la forma di pagamento?",
+	"todo.upmc.ll.payment.privacy.policy.action": "Informativa sulla protezione dati di Daimler Mobility Services GmbH",
+	"todo.upmc.ll.payment.error.general": "Siamo molto dispiaciuti. A causa di problemi tecnici, il processo non può essere completato. Per favore riprova più tardi. Chiediamo la vostra comprensione.",
+	"todo.upmc.ll.yourdata.tax.number.headline": "Codice fiscale",
+	"todo.upmc.ll.yourdata.tax.number.text.empty": "Non hai inserito un codice fiscale.",
+	"todo.upmc.ll.tax.number.invalid": "Codice fiscale non valido, per favore riprova."
+}

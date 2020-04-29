@@ -1,0 +1,54 @@
+{
+
+  "dcic.ll.overview.title":
+    "Ihr Mercedes-Benz Partner.",
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Ihr Ansprechpartner für Beratung und Kauf.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Ihr Ansprechpartner für Service und Gebrauchtfahrzeuge.",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Mercedes-Benz Partner ändern",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Händler-Homepage",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Lageplan",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Anfrage senden",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Sie haben noch keinen Mercedes-Benz Partner gewählt",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Wählen Sie jetzt einen Mercedes-Benz Partner, um die Vorteile von \"Mercedes me\" in vollem Umfang nutzen zu können.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Mercedes-Benz Partner wählen",
+
+  "dcic.ll.service.error.loadingvehicledata":
+    "Es konnten leider keine Fahrzeugdaten geladen werden.",
+
+  "dcic.ll.service.error.missingdealer":
+    "Leider sind derzeit keine Informationen zu Ihrem Mercedes-Benz Händler verfügbar.",
+
+  "dcic.ll.service.error.missingfinservice":
+    "Es wurde keine FIN für den Service Partner angegeben.",
+
+  "dcic.ll.service.error.missingfinvehicle":
+    "Es wurde für das Fahrzeug keine FIN angegeben!",
+
+  "dcic.ll.service.error.savingdealer":
+    "Der Händler kann leider aktuell nicht gespeichert werden.",
+
+  "dcic.ll.service.error.config.missinglocale":
+    "Sprachkonfiguration nicht gefunden. Bitte loggen Sie sich erneut ein.",
+
+  "dcic.ll.service.error.config.missingjwt":
+    "Sitzungsinformationen unvollständig. Bitte loggen Sie sich erneut ein."
+
+}

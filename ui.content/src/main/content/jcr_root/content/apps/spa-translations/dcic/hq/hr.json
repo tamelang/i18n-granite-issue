@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Vaša osoba za kontakt za savjetovanje i kupnju.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Vaša osoba za kontakt za servis i rabljena vozila",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Još niste odabrali Mercedes-Benzovog partnera.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Odaberi Mercedes-Benzovog partnera",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Odaberite Mercedes-Benzovog partnera kako biste mogli koristiti sve prednosti usluge \u201eMercedes me\u201c.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Plan lokacije",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Web stranica trgovca",
+
+  "dcic.ll.overview.title":
+    "Vaš partner Mercedes-Benza.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Pošaljite upit",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Promijenite Mercedes-Benzov partner"
+
+}

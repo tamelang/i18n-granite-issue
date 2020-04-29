@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "lietuvių kalba",
+
+  "upmc.ll.global.language.tr":
+    "turkų kalba",
+
+  "upmc.ll.global.language.da":
+    "Danų",
+
+  "upmc.ll.profile.useragreements":
+    "Naudojimo sąlygos",
+
+  "upmc.ll.global.JP":
+    "Japonija",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Nauja šalis arba regionas",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "El. pašto adresas",
+
+  "upmc.ll.global.button.edit":
+    "Taisyti",
+
+  "upmc.ll.global.language.cs":
+    "Čekų",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Pasirinkite",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Toks el. pašto adresas jau yra. Įveskite kitą el. pašto adresą.<br>Pastaba: El. pašto adresas gali būti susietas tik su viena Mercedes me naudotojo paskyra.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Pasirinkite lauką ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Pasirinkite bent vieną komunikacijos būdą.",
+
+  "upmc.ll.global.language.sv":
+    "Švedų",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Nenurodėte fiksuotojo telefono numerio.",
+
+  "upmc.ll.global.language.sk":
+    "Slovakų",
+
+  "upmc.ll.global.IT":
+    "Italija",
+
+  "upmc.ll.global.language.sl":
+    "Slovakų",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Pastaba.<br>Apgailestaujame, tačiau į naujai pasirinktos šalies arba regiono smart portalą negalima perkelti jūsų užregistruotų transporto priemonių ir asmeninių duomenų. Iš naujo suveskite šiuos duomenis.<br>Be to atkreipkite dėmesį, kad smart control, deja, negalimas jūsų naujai pasirinktoje šalyje arba regione. T. y. nebegalite naudotis savo smart connect paslaugomis.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Pietų Afrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Nurodykite fiksuotojo ar mobiliojo ryšio telefono numerį.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Kreipinys",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Žemės sklypo numeris",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Pastaba: Visą adresą galite nurodyti išsaugoję naujai pakeistą šalį arba regioną.",
+
+  "upmc.ll.global.language.bg":
+    "Bulgarų",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Pašalinti naudotojo paskyrą",
+
+  "upmc.ll.global.language.ru":
+    "Rusų",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Titulas",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Dar kartą įvesti el. pašto adresą",
+
+  "upmc.ll.yourdata.refresh":
+    "Atnaujinti",
+
+  "upmc.ll.global.language.ro":
+    "Rumunų k.",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Vengrija",
+
+  "upmc.ll.global.HR":
+    "Kroatija",
+
+  "upmc.ll.global.button.submit":
+    "Įrašyti",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "###label### įveskite ne daugiau kaip ###chars### simb.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "nepatvirtinta",
+
+  "upmc.ll.global.language.ar":
+    "Arabų",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Negavote aktyvinimo kodo? Galbūt suklydote vesdami mobiliojo telefono numerį. Tokiu atveju dar kartą įveskite mobiliojo telefono numerį.<br><br>Gavote aktyvinimo kodą ir dabar norėtumėte jį įvesti? Įsidėmėkite, kad aktyvinimo kodą galima įvesti tik iš karto po to, kai buvo nurodytas mobiliojo telefono numeris. Dar kartą įveskite mobiliojo telefono numerį.<br><br>Jau sėkmingai įvedėte aktyvinimo kodą? Gali būti, kad duomenys dar nesinchronizuoti. Šiek tiek palaukite ir spustelėkite Atnaujinti.",
+
+  "upmc.ll.global.IE":
+    "Airija",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "###label### ne mažiau kaip ###chars### simb.",
+
+  "upmc.ll.global.language.af":
+    "afrikanų kalba",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Papildoma duomenų apsauga Jūsų paskyrai sėkmingai pasyvinta.<br><br>Jei norite vėl aktyvinti papildomos duomenų apsaugos paslaugą, kreipkitės į savo Mercedes-Benz atstovą.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubajus",
+
+  "upmc.ll.global.GR":
+    "Graikija",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Išjungti išplėstinę duomenų apsaugą.",
+
+  "upmc.ll.global.form.address.text":
+    "Nurodykite savo pašto adresą.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Apskritis",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Valstybė",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Pastaba",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Pastaba",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Toks mobiliojo telefono numeris jau yra. Įveskite kitą mobiliojo telefono numerį.<br>Pastaba: Mobiliojo telefono numeris gali būti susietas tik su viena Mercedes me naudotojo paskyra.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Kreipinys",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Nurodykite visą gimimo datą.",
+
+  "upmc.ll.global.language.pt":
+    "Portugalų",
+
+  "upmc.ll.yourdata.status.loading":
+    "Šiek tiek palaukite.",
+
+  "upmc.ll.global.button.administration":
+    "Administravimas",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dabis",
+
+  "upmc.ll.profile.picture.position.request":
+    "Paslinkdami ir padidindami arba sumažindami pasirinkite norimą nuotraukos dalį.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Profilio nuotraukos padidinimas arba pakeitimas.",
+
+  "upmc.ll.global.FR":
+    "Prancūzija",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "El. pašto adresus reikia patvirtinti, jei norite juos naudoti jungdamiesi prie portalo Mercedes me. Dar kartą įveskite el. pašto adresą, kad jį būtų galima patvirtinti.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobiliojo telefono numeris",
+
+  "upmc.ll.global.text.today":
+    "Šiandien",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Čia nurodykite savo pavardę.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me portalas",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Fiksuotojo telefono numeris",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Gatvė",
+
+  "upmc.ll.global.GB":
+    "Jungtinė Karalystė",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Šiuo metu kol kas parengtas ne visas turinio vertimas į jūsų pasirinktą kalbą. Šį turinį mes pateiksime jums kita kalba.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Pastaba.<br>smart control paslaugos jūsų naujai pasirinktoje šalyje arba regione galimos.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Nenurodytas mobiliojo telefono numeris.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Pavardė",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profilio nuotrauka",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Naudotojo paskyrą galite pašalinti paspausdami apačioje esančią nuorodą. Įsidėmėkite, kad pašalinus paskyrą bus pasyvintos visos su jūsų transporto priemonėmis susietos paslaugos ir panaikintos visos nepagrindinių naudotojų teisės.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Ar tikrai norite pasyvinti papildomą duomenų apsaugą savo paskyrai?<br><br>Pastaba: Jei vėliau pageidausite vėl aktyvinti papildomos duomenų apsaugos paslaugą, kreipkitės į savo Mercedes-Benz atstovą.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Pastaba.<br>Apgailestaujame, tačiau į naujai pasirinktos šalies arba regiono portalą negalima perkelti jūsų užregistruotų transporto priemonių, asmeninių duomenų ir nustatymų.<br>Kad galėtumėte ir toliau naudotis paslaugomis, iš naujo suveskite šiuos duomenis naujai pasirinktos šalies arba regiono portale.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Fiksuotojo telefono numeris",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adresas",
+
+  "upmc.ll.global.ES":
+    "Ispanija",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Netinkamai užpildytas formuliaras. Patikrinkite įvestus duomenis.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Rinkdami žinutę panaudojote daugiau nei ###chars### simbol.! Sutrumpinkite tekstą.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Pasyvinti",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Metai",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Čia nurodykite savo antrą vardą.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Norint naudotis telematikos funkcijomis būtina nurodyti šiuos duomenis:",
+
+  "upmc.ll.global.FI":
+    "Suomija",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Nurodykite tikslius ###label### duomenis.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Vietovė",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Šiuo metu veiksmas neįmanomas dėl techninės problemos. Bandykite dar kartą vėliau.",
+
+  "upmc.ll.global.language.fr":
+    "prancūzų kalba",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobiliojo telefono numeris",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Fiksuotojo ir mobiliojo telefono numerius nurodykite tarptautiniu formatu. Pavyzdys: +370 1 1234567.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Pasirinkite vieną variantą",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Patvirtinkite, kad išjungiate",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Pridėkite el. pašto adresą.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Galite įkelti tik JPG arba PNG formato, daugiausiai 5 MB ir 300x300 pikselių dydžio paveikslą.",
+
+  "upmc.ll.profile.headline":
+    "Mano profilis.",
+
+  "upmc.ll.global.button.completelater":
+    "Papildyti vėliau",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Nenurodėte el. pašto adreso.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Jeigu tęsite nenurodę šių duomenų, su visomis transporto priemonėmis susietos paslaugos bus pasyvintos. Jūs ir nepagrindiniai naudotojai nebegalėsite jomis naudotis.",
+
+  "upmc.ll.global.language.fi":
+    "Suomių",
+
+  "upmc.ll.yourdata.email.add":
+    "Pridėti el. pašto adresą",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Pridėti ir patvirtinti mobiliojo telefono numerį",
+
+  "upmc.ll.global.button.connect":
+    "Užmegzti ryšį",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Su manim galite susisiekti ir el. paštu",
+
+  "upmc.ll.global.DK":
+    "Danija",
+
+  "upmc.ll.global.form.mobile.verified":
+    "patvirtinta",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Šio failo įkelti nepavyko:",
+
+  "upmc.ll.global.EE":
+    "Estija",
+
+  "upmc.ll.global.button.next":
+    "Toliau",
+
+  "upmc.ll.global.language.es":
+    "Ispanų",
+
+  "upmc.ll.global.language.et":
+    "Estų",
+
+  "upmc.ll.yourdata.notverified":
+    "nepatvirtinta",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Ar tikrai norite ištrinti savo profilio nuotrauką?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Diena",
+
+  "upmc.ll.global.language.en":
+    "anglų kalba",
+
+  "upmc.ll.global.language.el":
+    "Graikų",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Šie duomenys būtini, jei norite:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Būtina užpildyti * pažymėtus laukelius.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Pakeiskite savo adresą.",
+
+  "upmc.ll.yourdata.status.verified":
+    "patvirtinta",
+
+  "upmc.ll.global.CN":
+    "Kinija",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Užpildykite lauką ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "El. pašto adresas",
+
+  "upmc.ll.global.TW":
+    "Taivanas",
+
+  "upmc.ll.global.DE":
+    "Deutschland (Vokietija)",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Buto numeris",
+
+  "upmc.ll.global.TR":
+    "Turkija",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Pašto kodas",
+
+  "upmc.ll.global.CY":
+    "Kipro Respublika",
+
+  "upmc.ll.global.CZ":
+    "Čekija",
+
+  "upmc.ll.yourdata.email.missing":
+    "Nenurodytas e. pašto adresas.",
+
+  "upmc.ll.global.SE":
+    "Švedija",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Pastaba.<br>Apgailestaujame, tačiau į naujai pasirinktos šalies arba regiono Mercedes me portalą negalima perkelti jūsų užregistruotos transporto priemonės ir asmeninių duomenų. Iš naujo suveskite šiuos duomenis.<br>Mercedes me connect paslaugos neteikiamos jūsų naujai pasirinktoje šalyje arba regione.<br>Registruodami transporto priemonę sužinosite, ar ji suderinama su Mercedes me connect. Būsite nukreipti atlikti visus veiksmus, kad galėtumėte naudotis paslaugomis.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Čia įveskite, pakeiskite arba ištrinkite savo profilio nuotrauką.",
+
+  "upmc.ll.yourdata.email.error":
+    "Pridėkite el. pašto adresą",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobiliojo telefono numeris",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Nenurodėte mobiliojo telefono numerio.",
+
+  "upmc.ll.global.CH":
+    "Šveicarija",
+
+  "upmc.ll.global.button.cancel":
+    "Nutraukti",
+
+  "upmc.ll.global.CA":
+    "Kanada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Nuvilkite naują nuotrauką arba pasirinkite mygtuko spustelėjimu.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovakijos Respublika",
+
+  "upmc.ll.global.SI":
+    "Slovėnija",
+
+  "upmc.ll.global.language.ko":
+    "korėjiečių kalba",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Kelio tipas",
+
+  "upmc.ll.global.AT":
+    "Austrija",
+
+  "upmc.ll.global.language":
+    "Kalba",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Pastaba",
+
+  "upmc.ll.yourdata.name.headline":
+    "Pavardė",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Slaptažodis",
+
+  "upmc.ll.global.BG":
+    "Bulgarija",
+
+  "upmc.ll.global.BE":
+    "Belgija",
+
+  "upmc.ll.global.RU":
+    "Rusija",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Pastaba: Patvirtinkite el. pašto adresą, kad galėtumėte jį naudoti jungdamiesi prie portalo Mercedes me.<br>Tai galėsite padaryti paspaudę simbolį \u201eKeisti\u201c ir iš naujo suvedę el. pašto adresą.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Pašto kodas",
+
+  "upmc.ll.global.button.back":
+    "Atgal",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Klaidos kodas tolesniems veiksmams, susijusiems su klientų aptarnavimu:",
+
+  "upmc.ll.global.RO":
+    "Rumunija",
+
+  "upmc.ll.global.hint.headline":
+    "Pastaba",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobiliojo telefono numerius reikia patvirtinti, jei norite juos naudoti portale Mercedes me. Dar kartą įveskite mobiliojo telefono numerį, kad jį būtų galima patvirtinti.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobiliojo telefono numeris",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Apgailestaujame, tačiau smart control paslaugos negalimos jūsų naujai pasirinktoje šalyje arba regione. T. y. nebegalite naudotis savo smart connect paslaugomis.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Pastaba.<br>Apgailestaujame, tačiau į naujai pasirinktos šalies arba regiono smart portalą negalima perkelti jūsų užregistruotų transporto priemonių ir asmeninių duomenų. Iš naujo suveskite šiuos duomenis.<br><br>smart control paslaugos jūsų naujai pasirinktoje šalyje arba regione galimos.<br>Registruodami transporto priemonę sužinosite, ar ji suderinama su smart control. Būsite nukreipti atlikti visus veiksmus, kad galėtumėte naudotis paslaugomis.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Su manim lengviausia susisiekti",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Patvirtintas mob. telefono numeris",
+
+  "upmc.ll.global.language.ja":
+    "japonų kalba",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Čia nurodykite savo vardą.",
+
+  "upmc.ll.global.language.zh":
+    "supaprastinta kinų kalba",
+
+  "upmc.ll.profile.doc.text.error":
+    "Sutikimo deklaracijos pakeitimai šiuo metu negalimi. Prašome vėliau mėginti dar kartą.",
+
+  "upmc.ll.global.language.it":
+    "italų kalba",
+
+  "upmc.ll.global.button.print":
+    "Spausdinti",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Pridėkite mobiliojo telefono numerį",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Pastaba.<br>Jeigu pakeisite šalį arba regioną, gali būti deaktyvintos naudotos paslaugos. Taip gali nutikti, nes skirtingoje šalyje arba regione gali būti siūlomos nevienodos paslaugos ir galioti kitokios naudojimo sąlygos.<br>Aktyvinkite paslaugas naujoje šalyje arba regione vėl pasirinkdami \u201eAdministruoti paslaugas\u201c.",
+
+  "upmc.ll.global.button.confirm":
+    "Patvirtinti",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Išplėstinė duomenų apsauga",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Galite parašyti mums laišką ar atsiųsti faksą, nurodę jame pageidavimą nebesinaudoti paslaugomis:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Fax: +37052140129",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Antra pavardė",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Pasirinkite naują nuotrauką mygtuko spustelėjimu.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Iš naujo įvesti ir patvirtinti mobiliojo telefono numerį",
+
+  "upmc.ll.global.button.send":
+    "Siųsti",
+
+  "upmc.ll.yourdata.text.error":
+    "Šiuo metu prieiga prie profilio duomenų negalima.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Negavote el. laiško su patvirtinimo nuoroda? Galbūt suklydote vesdami el. pašto adresą. Tokiu atveju dar kartą įveskite el. pašto adresą.<br><br>Jau paspaudėte nuorodą, kad būtų patvirtintas jūsų el. pašto adresas? Gali būti, kad duomenys dar nesinchronizuoti. Šiek tiek palaukite ir spustelėkite Atnaujinti.",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Pastaba",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Klientams, užsiregistravusiems kituose Daimler grupės ar jos prekinių ženklų internetiniuose puslapiuose ir taikomosiose programėlėse: Jei pakeisite savo duomenis čia, keitimai bus perimti visiems bendru profiliu besidalijantiems internetiniams puslapiams ir taikomosioms programėlėms (pvz., Mercedes me portalui ir smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "Vengrų",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Lenkija",
+
+  "upmc.ll.global.language.hr":
+    "Kroatų",
+
+  "upmc.ll.yourdata.headline":
+    "Mano Mercedes me ID duomenys.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Pasirinkite vieną iš variantų.",
+
+  "upmc.ll.yourdata.password.text":
+    "Naudokite saugų slaptažodį ir reguliariai jį keiskite.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Gimimo data",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Papildykite adresą. Visas adresas būtinas, kad būtų galima būtent jums priskirti sutikimo su duomenų apsaugos taisyklėmis deklaraciją.",
+
+  "upmc.ll.global.language.pl":
+    "Lenkų",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Mėnuo",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Čia įveskite, pakeiskite arba ištrinkite savo profilio nuotrauką.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Jūsų paskyrai yra įjungta išplėstinė duomenų apsauga. Jūsų duomenys matomi tik tam tikroms Daimler AG asmenų grupėms (pvz. specialiai palaikymo komandai).",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Pasirinkite nuotrauką",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Pasirinkti norimą kalbą",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Būtina užpildyti * pažymėtus laukelius.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Pastaba.<br>Apgailestaujame, tačiau į naujai pasirinktos šalies arba regiono Mercedes me portalą negalima perkelti jūsų užregistruotos transporto priemonės ir asmeninių duomenų. Iš naujo suveskite šiuos duomenis.<br>Taip pat nepamirškite, kad Mercedes me connect paslaugos, deja, neteikiamos jūsų naujai pasirinktoje šalyje arba regione. T. y. nebegalite naudotis savo connect paslaugomis.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Nurodykite fiksuotojo telefono numerį.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Įveskite galiojančią datą.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "1 papildomo adreso eilutė",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "2 papildomo adreso eilutė",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "3 papildomo adreso eilutė",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Pasirinkite lauką.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Antras vardas",
+
+  "upmc.ll.global.NO":
+    "Norvegija",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Pastaba: Patvirtinkite mob. telefono numerį, kad galėtumėte jį naudoti jungdamiesi prie portalo Mercedes me.<br>Tai galėsite padaryti paspaudę simbolį \u201eKeisti\u201c ir iš naujo suvedę mob. telefono numerį.",
+
+  "upmc.ll.global.NL":
+    "Nyderlandai",
+
+  "upmc.ll.global.button.delete":
+    "Pašalinti",
+
+  "upmc.ll.global.button.register":
+    "Užregistruoti",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Vardas",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobiliojo telefono numeris",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Pašto dėžutė",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profilio nuotrauka",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Pastabą perskaičiau, noriu tęsti ir išsaugoti.<br>Paslaugos išaktyvinamos.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefonas",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Pasirinkus šią šalį ar regioną adreso nurodyti negalima, nes portalo Mercedes me paslaugos šioje šalyje arba regione neteikiamos.",
+
+  "upmc.ll.global.language.no":
+    "Norvegų",
+
+  "upmc.ll.global.language.nl":
+    "olandų kalba",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Įvesta gimimo data neteisinga.<br>Patikrinkite savo pasirinkimą.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Ištrinti profilio nuotrauką.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Pašalinti naudotojo paskyrą",
+
+  "upmc.ll.global.LV":
+    "Latvija",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Išsaugoti ir tęsti",
+
+  "upmc.ll.global.notification.title":
+    "Pastaba:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Namo pavadinimas",
+
+  "upmc.ll.global.LT":
+    "Lietuva",
+
+  "upmc.ll.global.LU":
+    "Liuksemburgas",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Pastaba.<br>Mercedes me connect paslaugos neteikiamos jūsų naujai pasirinktoje šalyje arba regione.<br>Atvėrę meniu punktą \u201eMano transporto priemonės\u201c galite pasižiūrėti, ar jūsų transporto priemonė suderinama su Mercedes me connect. Transporto priemonės, turinčios funkciją Mercedes me connect, ten pateiktos su piktogramomis ir paaiškinimais.",
+
+  "upmc.ll.global.button.close":
+    "Uždaryti",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Pastaba.<br>Apgailestaujame, tačiau Mercedes me connect paslaugos jūsų naujai pasirinktoje šalyje arba regione nėra prieinamos. T. y. nebegalite naudotis savo connect paslaugomis.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Lauke Pašto kodas nurodykite galiojantį pašto kodą.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Nurodykite visą gimimo datą.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Namo (ir buto) numeris",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Šalis arba regionas",
+
+  "upmc.ll.global.button.login":
+    "Prisijungti",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Fiksuotojo telefono numeris",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Papildoma duomenų apsauga pagyvinta.",
+
+  "upmc.ll.global.KR":
+    "Pietų Korėja",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Užpildykite lauką.",
+
+  "upmc.ll.global.button.ok":
+    "Gerai",
+
+  "upmc.ll.global.language.lv":
+    "Latvių",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Apgailestaujame, tačiau dabar šio veiksmo atlikti negalima.<br>Vėliau bandykite iš naujo.",
+
+  "upmc.ll.global.LI":
+    "Lichtenšteinas",
+
+  "upmc.ll.global.language.lt":
+    "Lietuvių",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Norėčiau papildyti duomenis. Paslaugos išaktyvinamos.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Mokėjimo priemonė",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Nėra išsaugotų duomenų",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kortelės numeris",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Galioja iki",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Kortelės galiojimas baigėsi.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Kortelės savininkas",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "\u201eAmex\u201c",
+
+  "todo.upmc.ll.payment.action":
+    "Nurodykite mokėjimo priemonę",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Išankstinis nustatymas",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Pašalinti mokėjimo priemonę.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Ar tikrai norite pašalinti mokėjimo priemonę (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Daimler Mobility Services GmbH privatumo politika.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Apgailestaujame. Proceso negalima užbaigti dėl techninių problemų. Prašome pamėginkite vėliau iš naujo. Dėkojame už jūsų supratingumą.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Papildykite toliau pateikiamus duomenis:",
+
+  "todo.upmc.ll.hus.valid":
+    "Papildėte reikiamus duomenis.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Negaliojanti nuoroda",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Nesutikus su Mercedes me connect ir išmaniojo valdiklio smart control paslaugų naudojimo sąlygomis, deja, nebus galima naudotis šiomis paslaugomis.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Reikalingas patvirtinimas dėl galutinio naudotojo licencijos sutarties dėl Nuance teikiamų paslaugų ir sutikimo dėl Nuance naudojamų duomenų, kad transporto priemonėje būti galima naudotis atitinkamomis paslaugomis ir kalbomis.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Reikalingas patvirtinimas",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Atlikta",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Neturite leidimo",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Į Mercedes me Store svetainę",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Baigdamas registraciją patvirtinu, kad perskaičiau ir sutinku su <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Privatumo politika<\/a>.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Vardas neatitinka fiskalinio kodo",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Pavardė neatitinka fiskalinio kodo",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Gimimo diena neatitinka fiskalinio kodo",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Pakeitimas atliktas sėkmingai. Netrukus būsite nukreiptas",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN kodas",
+
+  "upmc.ll.yourdata.pin.text":
+    "Šioje vietoje galite panaikinti savo PIN kodą, kad galėtumėte prisijungti prie Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Šioje vietoje galite nustatyti savo PIN kodą, kad galėtumėte prisijungti prie Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Panaikinkite savo Mercedes me PIN kodą",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Ar tikrai norite panaikinti PIN kodą?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Apgailestaujame, ši paslauga šiuo metu neprieinama. Bandykite dar kartą vėliau."
+
+}

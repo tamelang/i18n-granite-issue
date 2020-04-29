@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Danışmanlık ve satın alma için muhatap kişiniz.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Servis ve ikinci el araçlar için muhatap kişiniz",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Henüz bir Mercedes-Benz bayisi seçmediniz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Mercedes-Benz bayisi seç",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "\"Mercedes me\"nin sunduğu tüm avantajlardan faydalanabilmek için şimdi bir Mercedes-Benz bayisi seçin.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Yer planı",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Bayi web sitesi",
+
+  "dcic.ll.overview.title":
+    "Mercedes-Benz bayiniz.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Talep Gönder",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Mercedes-Benz'in ortağını değiştir"
+
+}

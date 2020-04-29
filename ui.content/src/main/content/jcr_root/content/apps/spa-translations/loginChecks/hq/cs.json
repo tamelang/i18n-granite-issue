@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Hey, normally you are using Mercedes-Benz OneWeb by browsing on {0}. Because of legal reasons we will redirect you there.",
+
+  "loginChecks.ll.global.button.close":
+    "Aizveriet",
+
+  "loginChecks.ll.global.button.confirm":
+    "Potvrdit",
+
+  "loginChecks.ll.global.button.next":
+    "Další",
+
+  "loginChecks.ll.global.button.with.car":
+    "S autem",
+
+  "loginChecks.ll.global.button.without.car":
+    "Bez auta",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Please choose how you want to complete your profile data.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Přejít na předchozí stránku",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Dokončete své přihlášení.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

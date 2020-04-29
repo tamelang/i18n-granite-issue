@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Vaša kontaktná osoba na poradenstvo a predaj.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Váš kontaktný partner pre servis a jazdené vozidlá",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Ešte ste nevybrali zmluvného partnera Mercedes-Benz.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Výber zmluvného partnera Mercedes-Benz",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Zvoľte si zmluvného partnera Mercedes-Benz, aby ste mohli v plnom rozsahu využívať výhody portálu Mercedes me.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Lokalizačný plán",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Webová stránka predajcu",
+
+  "dcic.ll.overview.title":
+    "Váš zmluvný partner Mercedes-Benz.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Poslať dopyt",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Vymeňte partnera Mercedes-Benz"
+
+}

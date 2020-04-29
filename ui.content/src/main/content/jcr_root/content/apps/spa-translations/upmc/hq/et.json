@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "eesti",
+
+  "upmc.ll.global.language.tr":
+    "türgi",
+
+  "upmc.ll.global.language.da":
+    "taani",
+
+  "upmc.ll.profile.useragreements":
+    "Kasutustingimused",
+
+  "upmc.ll.global.JP":
+    "Jaapan",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Uus riik või piirkond",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-posti aadress",
+
+  "upmc.ll.global.button.edit":
+    "Töötlemine",
+
+  "upmc.ll.global.language.cs":
+    "tšehhi",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Valige",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Sisestatud e-posti aadress on juba olemas. Sisestage teine e-posti aadress.<br>Märkus. Iga e-posti aadressi saab määrata ainult ühele Mercedes me kasutajakontole.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Valige väli ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Valige vähemalt üks kontakteerumisviis.",
+
+  "upmc.ll.global.language.sv":
+    "rootsi",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Te ei sisestanud telefoninumbrit.",
+
+  "upmc.ll.global.language.sk":
+    "slovaki",
+
+  "upmc.ll.global.IT":
+    "Itaalia",
+
+  "upmc.ll.global.language.sl":
+    "slovaki",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Pange tähele:<br>Kahjuks ei saa me teie lisatud sõidukeid ja isikuandmeid uue valitud riigi smart portaali üle kanda. Sisestage need andmed uuesti.<br>Arvestage ka sellega, et teie uues valitud riigis või piirkond ei ole smart control kahjuks saadaval. St et te ei saa oma smart controli teenuseid enam kasutada.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Lõuna-Aafrika Vabariik",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Sisestage oma telefoni- või mobiilinumber.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Nimetäiend",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Korrusenumber",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Märkus. Saate oma tervikliku aadressi sisestada, kui olete salvestanud uue riigi või piirkonna muutmise.",
+
+  "upmc.ll.global.language.bg":
+    "bulgaaria",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Kasutajakonto kustutamine",
+
+  "upmc.ll.global.language.ru":
+    "vene",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Pöördumine",
+
+  "upmc.ll.yourdata.email.add.again":
+    "E-posti aadressi uuesti registreerimine",
+
+  "upmc.ll.yourdata.refresh":
+    "Uuendamine",
+
+  "upmc.ll.global.language.ro":
+    "rumeenia",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Ungari",
+
+  "upmc.ll.global.HR":
+    "Horvaatia",
+
+  "upmc.ll.global.button.submit":
+    "Salvesta",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Sisestage ###label### jaoks maksimaalselt ###chars### tärki.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "pole verifitseeritud",
+
+  "upmc.ll.global.language.ar":
+    "Araabia keel",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Te ei saanud aktiveerimiskoodi? Võib-olla eksisite oma mobiilinumbri sisestamisel. Registreerige oma mobiilinumber sellisel juhul uuesti.<br><br>Saite aktiveerimiskoodi ja soovite seda nüüd sisestada? Pange tähele, et aktiveerimiskoodi sisestamine on võimalik vaid vahetult mobiilinumbri registreerimise ajal. Registreerige oma mobiilinumber uuesti.<br><br>Kas olete aktiveerimiskoodi juba edukalt sisestanud? Võib juhtuda, et sünkroniseerimist ei ole veel toimunud. Palun oodake veidi ja klõpsake nuppu Värskenda.",
+
+  "upmc.ll.global.IE":
+    "Iirimaa",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Sisestage ###label### jaoks minimaalselt ###chars### tärki.",
+
+  "upmc.ll.global.language.af":
+    "afrikaani",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Teie kasutajakonto laiendatud andmekaitse inaktiveeriti edukalt.<br><br>Kui soovite laiendatud andmekaitse uuesti aktiveerida, siis pöörduge palun oma Mercedes-Benzi partneri poole.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Kreeka",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Inaktiveerige laiendatud andmekaitse.",
+
+  "upmc.ll.global.form.address.text":
+    "Sisestage oma kontaktaadress.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Liidumaa / maakond",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Riik",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Märkus",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Märkus",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Sisestatud mobiilinumber on juba olemas. Sisestage teine mobiilinumber.<br>Märkus. Iga mobiilinumbri saab määrata ainult ühele Mercedes me kasutajakontole.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Pöördumine",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Sisestage oma terviklik sünnikuupäev.",
+
+  "upmc.ll.global.language.pt":
+    "portugali",
+
+  "upmc.ll.yourdata.status.loading":
+    "Oodake üks hetk.",
+
+  "upmc.ll.global.button.administration":
+    "Administratsioon",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Valige välja soovitud pildiosa, nihutades ja suurendades või vähendades.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Profiilipildi täiendamine või väljavahetamine.",
+
+  "upmc.ll.global.FR":
+    "Prantsusmaa",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "E-posti aadressid tuleb verifitseerida, et neid saaks Mercedes me portaalis kasutada. E-posti aadressi verifitseerimiseks registreerige see uuesti.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobiilinumber",
+
+  "upmc.ll.global.text.today":
+    "Täna",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Sisestage siia oma perekonnanimi.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me portaal",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Telefoninumber",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Tänav",
+
+  "upmc.ll.global.GB":
+    "Ühendkuningriik",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Hetkel pole kogu teave teie valitud keeles saadaval. See teave kuvatakse teises keeles.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Pange tähele:<br>Teie uues valitud riigis või piirkond jah smart control saadaval.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Mobiilinumbrit pole sisestatud.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Perekonnanimi",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profiilipilt",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Saate oma kasutajakonto kustutada allpool oleva lingi kaudu. Pange tähele, et kustutamisega inaktiveeritakse kõik teenused teie sõidukites ja kõik kaaskasutaja-volitused eemaldatakse.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Olete kindel, et soovite oma kasutajakonto laiendatud andmekaitse inaktiveerida?<br><br>Märkus. Kui soovite laiendatud andmekaitse seejärel uuesti aktiveerida, siis pöörduge oma Mercedes-Benzi partneri poole.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Pange tähele:<br>Kahjuks ei saa me teie lisatud sõidukeid, isikuandmeid ja seadistusi uue valitud riigi või piirkond portaali üle kanda.<br>Sisestage need andmed uue riigi või piirkond all uuesti, et saaksite teenuseid jälle kasutada.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Telefoninumber",
+
+  "upmc.ll.yourdata.address.headline":
+    "Aadress",
+
+  "upmc.ll.global.ES":
+    "Hispaania",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Blanketti ei täidetud õigesti. Kontrollige sisestatud andmeid.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Teie sõnum sisaldab rohkem kui ###chars### tärki! Lühendage teksti.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Inaktiveerimine",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Aasta",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Sisestage siia oma teine eesnimi.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Telemaatikafunktsioonide jaoks on vajalikud järgmised andmed:",
+
+  "upmc.ll.global.FI":
+    "Soome",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Sisestage ###label### jaoks kehtiv väärtus.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Koht",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Toiming pole hetkel tehnilistel põhjustel võimalik. Proovige hiljem uuesti.",
+
+  "upmc.ll.global.language.fr":
+    "prantsuse",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobiilinumber",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Telefoni- ja mobiilinumbrid tuleb sisestada rahvusvahelises vormingus. Näide: +372 123 1234.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Tehke valik",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Inaktiveerimise kinnitamine",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Lisage e-posti aadress",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Te saate üles laadida ainult JPG- või PNG-vormingus pilte, mille suurus on maksimaalselt 5 MB ja minimaalne suurus 300 × 300 pikslit.",
+
+  "upmc.ll.profile.headline":
+    "Minu profiil.",
+
+  "upmc.ll.global.button.completelater":
+    "Hiljem täiendamine",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Te ei sisestanud e-posti aadressi.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Kui jätkate ilma neid andmeid sisestamata, inaktiveeritakse need teenused kõigis sõidukites. Teie ja teie kaaskasutajad ei saa neid siis enam kasutada.",
+
+  "upmc.ll.global.language.fi":
+    "soome",
+
+  "upmc.ll.yourdata.email.add":
+    "E-posti aadressi lisamine",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Mobiilinumbri lisamine ja verifitseerimine",
+
+  "upmc.ll.global.button.connect":
+    "Sidumine",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Saate minuga ühendust võtta ka e-posti teel.",
+
+  "upmc.ll.global.DK":
+    "Taani",
+
+  "upmc.ll.global.form.mobile.verified":
+    "verifitseeritud",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Seda faili ei õnnestunud üles laadida:",
+
+  "upmc.ll.global.EE":
+    "Eesti",
+
+  "upmc.ll.global.button.next":
+    "Edasi",
+
+  "upmc.ll.global.language.es":
+    "hispaania",
+
+  "upmc.ll.global.language.et":
+    "eesti",
+
+  "upmc.ll.yourdata.notverified":
+    "pole verifitseeritud",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Kas soovite kindlasti oma profiilipildi kustutada?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "päev",
+
+  "upmc.ll.global.language.en":
+    "inglise",
+
+  "upmc.ll.global.language.el":
+    "kreeka",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Neid andmeid vajatakse järgmisel eesmärgil:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "*-ga tähistatud väljade täitmine on kohustuslik.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Teie aadressi muutmine.",
+
+  "upmc.ll.yourdata.status.verified":
+    "verifitseeritud",
+
+  "upmc.ll.global.CN":
+    "Hiina",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Täitke väli ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-posti aadress",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.global.DE":
+    "Saksamaa",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Korterinumber",
+
+  "upmc.ll.global.TR":
+    "Türgi",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Sihtnumber",
+
+  "upmc.ll.global.CY":
+    "Küprose Vabariik",
+
+  "upmc.ll.global.CZ":
+    "Tšehhi Vabariik",
+
+  "upmc.ll.yourdata.email.missing":
+    "E-posti aadressi ei ole sisestatud.",
+
+  "upmc.ll.global.SE":
+    "Rootsi",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Pange tähele:<br>Kahjuks ei saa me teie lisatud sõidukeid ja isikuandmeid uue valitud riigi või piirkond Mercedes me portaali üle kanda. Sisestage need andmed uuesti.<br>Mercedes me connect on saadaval teie äsja valitud riigis või piirkonnas.<br>Sõiduki lisamisel saate teada, kas see on Mercedes me connecti toega. Ja teid juhatatakse läbi kõigi sammude, et saaksite teenuseid kasutada.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Siit saate oma profiilipilti täiendada, muuta või kustutada.",
+
+  "upmc.ll.yourdata.email.error":
+    "Lisage e-posti aadress",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobiilinumber",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Te ei sisestanud mobiilinumbrit.",
+
+  "upmc.ll.global.CH":
+    "Šveits",
+
+  "upmc.ll.global.button.cancel":
+    "Katkesta",
+
+  "upmc.ll.global.CA":
+    "Kanada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Lohistage uus pilt väljale või valige välja, klõpsates nuppu.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovakkia",
+
+  "upmc.ll.global.SI":
+    "Sloveenia",
+
+  "upmc.ll.global.language.ko":
+    "korea",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Tänavatüüp",
+
+  "upmc.ll.global.AT":
+    "Austria",
+
+  "upmc.ll.global.language":
+    "Keel",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Märkus",
+
+  "upmc.ll.yourdata.name.headline":
+    "Nimi",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Salasõna",
+
+  "upmc.ll.global.BG":
+    "Bulgaaria",
+
+  "upmc.ll.global.BE":
+    "Belgia",
+
+  "upmc.ll.global.RU":
+    "Venemaa",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Märkus. Verifitseerige oma e-posti aadress, et seda Mercedes me portaalis registreerumiseks kasutada.<br>Klõpsake selleks muutmissümbolil ja sisestage uuesti oma e-posti aadress.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Sihtnumber",
+
+  "upmc.ll.global.button.back":
+    "Tagasi",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Veakood klienditeenistuse poolseks järelevalveks:",
+
+  "upmc.ll.global.RO":
+    "Rumeenia",
+
+  "upmc.ll.global.hint.headline":
+    "Märkus",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobiiltelefoninumber peab olema kinnitatud, et seda saaks Mercedes me portaalis kasutada. Mobiiltelefoninumbri kinnitamiseks, sisestage see uuesti.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobiilinumber",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Teie uues valitud riigis või piirkond ei ole smart control kahjuks saadaval. St et te ei saa oma smart controli teenuseid enam kasutada.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Pange tähele:<br>Kahjuks ei saa me teie lisatud sõidukeid ja isikuandmeid uue valitud riigi smart portaali üle kanda. Sisestage need andmed uuesti.<br><br>Teie uues valitud riigis või piirkond jah smart control saadaval.<br>Sõiduki lisamisel saate teada, kas see on smart controli toega. Ja teid juhatatakse läbi kõigi sammude, et saaksite teenuseid kasutada.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Saate mind kõige paremini kätte ... kaudu",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Verifitseeritud mobiilinumber",
+
+  "upmc.ll.global.language.ja":
+    "jaapani",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Sisestage siia oma eesnimi.",
+
+  "upmc.ll.global.language.zh":
+    "lihtsustatud hiina keel",
+
+  "upmc.ll.profile.doc.text.error":
+    "Nõusolekuavalduse muutmine ei ole hetkel võimalik. Proovige hiljem uuesti.",
+
+  "upmc.ll.global.language.it":
+    "itaalia",
+
+  "upmc.ll.global.button.print":
+    "Prindi",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Lisage mobiilinumber",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Pange tähele:<br>Kui vahetate riik või piirkond, võib juhtuda, et teie kasutatud teenused inaktiveeritakse. See juhtub, kuna pakutavad teenused ja kehtivad kasutustingimused võivad riik või piirkond erineda.<br>Aktiveerige teenused uues riik või piirkond lihtsalt taas menüüs \u201eTeenuste haldamine\u201c.",
+
+  "upmc.ll.global.button.confirm":
+    "Kinnita",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Laiendatud andmekaitse",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Saate oma loobumissoovi saata meile ka kirjalikult posti või faksi teel:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postkasti number 1456<br>6201 BL Maastricht<br>Holland<br>Faks: +3726868898",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Teine perekonnanimi",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Valige välja uus pilt, klõpsates nuppu.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Mobiiltelefoninumbri uuesti sisestamine ja kinnitamine",
+
+  "upmc.ll.global.button.send":
+    "Saada",
+
+  "upmc.ll.yourdata.text.error":
+    "Juurdepääs profiiliandmetele ei ole hetkel võimalik.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Kas te ei saanud e-posti teel kinnitust? Võib-olla eksisite oma e-posti aadressi sisestamisel. Registreerige oma e-posti aadress sellisel juhul uuesti.<br><br>Kas avasite juba oma e-posti aadressi verifitseerimiseks kinnituslingi? Võib juhtuda, et sünkroniseerimist ei ole veel toimunud. Palun oodake veidi ja klõpsake nuppu Värskenda.",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Märkus",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Märkus klientidele, kes on end registreerinud Daimler Grupi ja selle markide teistel veebilehtedel ja rakendustes: Kui muudate siin oma andmeid, võtavad need muudatused üle kõik ühisel profiilil olevad veebilehed ja rakendused (nt Mercedes me portaal ja smart.com).",
+
+  "upmc.ll.global.language.hu":
+    "ungari",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Poola",
+
+  "upmc.ll.global.language.hr":
+    "horvaadi",
+
+  "upmc.ll.yourdata.headline":
+    "Minu Mercedes me ID andmed.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Valige variant.",
+
+  "upmc.ll.yourdata.password.text":
+    "Kasutage turvalist salasõna ja muutke seda regulaarselt.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Sünnikuupäev",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Täiendage oma terviklikku aadressi. See on vajalik, et andmakaitsealast nõusolekuavaldust üheselt teie isikule määrata.",
+
+  "upmc.ll.global.language.pl":
+    "poola",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Kuu",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Siit saate oma profiilipilti täiendada, muuta või kustutada.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Teie kontol on aktiveeritud laiendatud andmekaitse. Teie andmed on nähtavad ainult Daimler AG valitud isikurühmadele (nt spetsiaalsele tugimeeskonnale).",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Vali pilt",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Soovitud keele valimine",
+
+  "upmc.ll.global.form.text.mandatory":
+    "*-ga tähistatud väljade täitmine on kohustuslik.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Pange tähele:<br>Kahjuks ei saa me teie lisatud sõidukeid ja isikuandmeid uue valitud riigi või piirkond Mercedes me portaali üle kanda. Sisestage need andmed uuesti.<br>Pange lisaks tähele, et Mercedes me connect ei ole teie uues valitud riigis või piirkond kahjuks saadaval. St et te ei saa oma connecti teenuseid enam kasutada.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Sisestage oma telefoninumber.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Sisestage kehtiv kuupäev.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Täiendav aadressirida 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Täiendav aadressirida 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Täiendav aadressirida 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Valige väli.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Teine eesnimi",
+
+  "upmc.ll.global.NO":
+    "Norra",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Märkus. Verifitseerige oma mobiilinumber, et seda Mercedes me portaalis registreerumiseks kasutada.<br>Klõpsake selleks muutmissümbolil ja sisestage uuesti oma mobiilinumber.",
+
+  "upmc.ll.global.NL":
+    "Holland",
+
+  "upmc.ll.global.button.delete":
+    "Kustuta",
+
+  "upmc.ll.global.button.register":
+    "Loo uus konto",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Eesnimi",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobiilinumber",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Postkast",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profiilipilt",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Lugesin märkust ja soovin salvestamisega jätkata.<br>Teenused inaktiveeritakse.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Selle riigi või piirkonna aadresside andmeid ei saa määrata, kuna Mercedes me portaali teenused ei ole selles riigis või piirkonnas saadaval.",
+
+  "upmc.ll.global.language.no":
+    "norra",
+
+  "upmc.ll.global.language.nl":
+    "hollandi",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Sisestatud sünnikuupäev on sobimatu.<br>Palun kontrollige oma valikut.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Kustuta profiilipilt.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Kasutajakonto kustutamine",
+
+  "upmc.ll.global.LV":
+    "Läti",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Salvesta ja edasi",
+
+  "upmc.ll.global.notification.title":
+    "Märkus.",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Majanimi",
+
+  "upmc.ll.global.LT":
+    "Leedu",
+
+  "upmc.ll.global.LU":
+    "Luksemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Pange tähele:<br>Mercedes me connect on saadaval teie äsja valitud riigis või piirkonnas.<br>Seda kas teie sõiduk toetab Mercedes me connecti, saate vaadata menüüpunkti \u201eMinu sõidukid\u201c avamisel. Mercedes me connecti funktsiooniga sõidukid on seal tähistatud ikooni ja märkustekstiga.",
+
+  "upmc.ll.global.button.close":
+    "Sulge",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Pange tähele:<br>Kahjuks ei ole Mercedes me ühenduses saadaval teie äsja valitud riigis või piirkonnas. St et te ei saa oma connecti teenuseid enam kasutada.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Sisestage sihtnumbri väljale kehtiv väärtus.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Sisestage oma terviklik sünnikuupäev.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Majanumber",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Riik või piirkond",
+
+  "upmc.ll.global.button.login":
+    "Logi sisse",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Telefoninumber",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Laiendatud andmekaitse on inaktiveeritud.",
+
+  "upmc.ll.global.KR":
+    "Lõuna-Korea",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Täitke väli.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "läti",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Toimingut ei ole hetkel võimalik teha.<br>Proovige hiljem uuesti.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "leedu",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Soovin andmeid täiendada. Teenused inaktiveeritakse.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Maksevahend",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Andmeid pole lisatud",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kaardi number",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Kehtiv kuni",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Kaart on aegunud.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Kaardi omanik",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Makseviisi lisamine",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "eelseadistus",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Maksevahendi kustutamine.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Kas soovite kindlasti maksevahendi (###digits###) kustutada?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Ettevõtte Daimler Mobility Services GmbH isikuandmete kaitse avaldus.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Palume väga vabandust. Tehniliste probleemide tõttu pole seda protsessi võimalik lõpetada. Proovige hiljem uuesti. Täname teid mõistva suhtumise eest.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Palun sisestage järgmised andmed:",
+
+  "todo.upmc.ll.hus.valid":
+    "Olete vajalikud andmed sisestanud.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Kehtetu link",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Nende teenuste kasutamine ei ole kahjuks võimalik enne, kui te olete nõustunud Mercedes me connect ja smart control teenuste kasutustingimustega.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Teatud teenuste ja kõneteenuse kasutamiseks sõidukis on vajalik nõustuda Nuance lõppkasutaja litsentsilepinguga ja anda nõusolek isikuandmete töötlemiseks Nuance süsteemis.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Nõustumine on vajalik",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Valmis",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Õigused puuduvad",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Mercedes me Store'i veebilehele",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Registreerumisega kinnitan, et olen tutvunud ja nõustunud <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Privaatsuspoliitikaga<\/a>.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Eesnimi ei sobi maksukoodiga",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Perekonnanimi ei sobi maksukoodiga",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Sünnikuupäev ei sobi maksukoodiga",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Teie muudatus oli edukas. Teid suunatakse kohe ümber",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Siin saate kustutada PINi Mercedes-Benziga ühendumiseks",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Siin saate sätestada PINi Mercedes-Benziga ühendumiseks",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Kustutage oma Mercedes me PIN",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Kas olete kindel et soovite PINi kustutada?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Vabandame, teenus pole praegu saadaval. Proovige hiljem uuesti."
+
+}

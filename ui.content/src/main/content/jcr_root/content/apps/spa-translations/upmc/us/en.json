@@ -1,0 +1,318 @@
+{
+
+  "upmc.ll.global.JP":
+    "Japan",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Email Address",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "The email address you entered already exists. Please enter a different email address.<br>Note: Each email address can be associated with only one Mercedes me user account.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Please select at least one contact channel.",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Please enter a mobile phone number.",
+
+  "upmc.ll.global.language.sk":
+    "Slovakian",
+
+  "upmc.ll.global.language.sl":
+    "Slovakian",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the smart portal of your newly selected country or region. Please reenter these data.<br>Please also note that smart control is unfortunately not available in your newly selected country or region. This means you can no longer use your smart control services.",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Hallway number",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Delete User Account",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Reenter email address",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please specify the date of birth as listed in your passport.",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "For ###label###, please enter a maximum of ###chars### characters.",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Did you not receive an activation code? The mobile phone number you entered may contain a typo. If so, please re-enter your mobile phone number.<br><br>Did you receive the activation code and now wish to enter it? Please note that entry of the activation code only is only possible when entering the mobile phone number.Please re-enter your mobile phone number.<br><br>Have you already successfully entered the activation code? Maybe synchronization is not yet complete. Please wait a moment and then click on \"Update\".",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "For ###label###, please enter at least ###chars### characters.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Enhanced data protection has been deactivated for your user account.<br><br>Should you wish to reactivate enhanced data protection, please contact your authorized Mercedes-Benz retailer.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Deactivate enhanced data protection.",
+
+  "upmc.ll.global.form.address.text":
+    "Please enter your registered address.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "State",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "State",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "The mobile phone number you entered already exists. Please enter a different mobile phone number.<br>Note: Each mobile phone number can be associated with only one Mercedes me user account.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Salutation",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Please enter your date of birth.",
+
+  "upmc.ll.yourdata.status.loading":
+    "Please bear with us.",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Email addresses must be verified to enable their use on the Mercedes me Portal. To verify your email address, please reenter it.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobile Phone Number",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Please enter your last name here.",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Not all content is currently available in the language you selected. The relevant content will be displayed in another language.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "No mobile phone number specified.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Last Name",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "You can delete your user account with the link below. Please note that with the deletion all services in your vehicles will be deactivated and all co-user authorizations will be rescinded.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Are you sure you want to deactivate enhanced data protection for your user account?<br><br>Note: Should you subsequently wish to reactivate enhanced data protection, please contact your authorized Mercedes-Benz retailer.",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "The form was filled out incorrectly. Please check your entries.",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Please enter your middle name here.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "City",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "The action is not currently possible due to a technical problem. Please try again later.",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobile Phone Number",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Landline and mobile phone numbers must be entered in the international format. Example: +1152123123123.",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Please add an email address.",
+
+  "upmc.ll.global.button.completelater":
+    "Complete later",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "You have not entered an email address.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "The services will be deactivated in all vehicles if you continue without these details. You and your co-users will then no longer be able to use them.",
+
+  "upmc.ll.global.form.mobile.verified":
+    "Verified",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Upload of this file failed:",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Are you sure you want to delete your profile picture?",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Fields marked with an * are mandatory.",
+
+  "upmc.ll.yourdata.status.verified":
+    "Verified",
+
+  "upmc.ll.global.CN":
+    "China",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Please fill out field ###label###.",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Apt. Number",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "ZIP Code",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the Mercedes me Portal of your newly selected country or region. Please reenter these data.<br>Mercedes me connect is available in your newly selected country or region.<br>You will learn whether your vehicle supports Mercedes me connect when you define it. And you will be guided through all steps required for being able to use the services.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Please upload your profile image.",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobile Phone Number",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Please enter a mobile phone number.",
+
+  "upmc.ll.global.language.ko":
+    "Korean",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Type of street",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Note: Verify your email address to be able to use it for registering on the Mercedes me Portal.<br>To do so, click on the 'Edit' symbol and reenter your email address.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Zip code",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobile phone numbers must be verified to enable their use on the Mercedes me Portal. Please reenter mobile phone numbers to verify them.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobile Phone Number",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Unfortunately, smart control is not available in your newly selected country or region. This means you can no longer use your smart control services.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the smart portal of your newly selected country or region. Please reenter these data.<br><br>smart control is available in your newly selected country or region.<br>You will learn whether your vehicle supports smart control when you define it. And you will be guided through all steps required for being able to use the services.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "The best way to reach me is by",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "The mobile phone number was verified by the user via Mercedes me connect portal.",
+
+  "upmc.ll.global.language.ja":
+    "Japanese",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Please enter your first name here.",
+
+  "upmc.ll.global.language.zh":
+    "Simplified Chinese",
+
+  "upmc.ll.profile.doc.text.error":
+    "Changes to the declaration of consent are not possible at this time. Please try again later.",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Enhanced data protection",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "&nbsp;",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Reenter and verify mobile phone number",
+
+  "upmc.ll.yourdata.text.error":
+    "No access to the profile data at this time.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Have you not received a confirmation email? Maybe the email address you entered contains a typo. In this case, please reenter your email address.<br><br>Did you already click the confirmation link to verify your email address? Maybe synchronization is not yet complete. Please wait a moment and then click on \"Update\".",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Notice for customers who registered on other websites and applications of the Daimler Group and its brands: If you change your data here, those changes will be adopted by all websites and applications of the Daimler Group and its brands that share this profile (e.g. Mercedes me Portal and smart.com).",
+
+  "upmc.ll.yourdata.headline":
+    "My Profile",
+
+  "upmc.ll.yourdata.password.text":
+    "Use a secure password and change it periodically.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Date of Birth",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Please complete your incomplete address. This is required to associate the Data Protection Declaration of Consent uniquely with your person.",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Please upload your profile image.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Enhanced data protection is active on your user account. Your data are only visible to selected groups of people (e.g. a special support team) within Daimler AG.",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Fields marked with an asterisk (*) are required.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Please note:<br>Unfortunately, we cannot transfer your defined vehicles and personal details to the Mercedes me Portal of your newly selected country or region. Please reenter these data.<br>Please also note that Mercedes me connect is unfortunately unavailable in your newly selected country or region. This means you can no longer use your connect services.",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Address",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Address Line 2",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Please select field.",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Note: Verify your mobile phone number to be able to use it for registering on the Mercedes me Portal.<br>To do so, click on the 'Edit' symbol and reenter your mobile phone number.",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "First Name",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobile Phone Number",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profile Image",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "I have read the notice and want to continue with saving my entries.<br>Services will be deactivated.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Delete User Account",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Name of building",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Please note:<br>Mercedes me connect is available in your newly selected country or region.<br>You can see whether your vehicle supports Mercedes me connect by opening the \"My Vehicles\" menu item. Vehicles with Mercedes me connect function are highlighted there with an icon and text.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Please note:<br>Mercedes me connect is not available in your newly selected country or region. This means you can no longer use your connect services.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Please enter a valid value in the field 'Zip code.'",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Please enter your full date of birth.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Apt. Number",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Country",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Enhanced data protection deactivated.",
+
+  "upmc.ll.global.KR":
+    "South Korea",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Please fill out field.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "The action is not possible at this time.<br>Please try again later.",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "I want to the complete the information. Services will be deactivated."
+
+}

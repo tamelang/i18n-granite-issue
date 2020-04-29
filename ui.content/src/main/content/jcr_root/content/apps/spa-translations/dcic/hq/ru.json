@@ -1,0 +1,54 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Ваше контактное лицо для консультаций и вопросов по продажам",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Ваше контактное лицо по вопросам сервисного обслуживания и подержанных автомобилей",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "отправить запрос",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "План расположения",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Дилерский сайт",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Сменить дилера Mercedes-Benz",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "Вы еще не выбрали партнера \"Мерседес-Бенц\".",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Выбрать партнера \"Мерседес-Бенц\"",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Пожалуйста, выберите партнера \"Мерседес-Бенц\" для доступа к полному объему преимуществ программы Mercedes me.",
+
+  "dcic.ll.overview.title":
+    "Ваш партнер Mercedes-Benz.",
+
+  "dcic.ll.service.error.config.missingjwt":
+    "Информация о веб-сессии потеряна. Пожалуйста, войдите снова",
+
+  "dcic.ll.service.error.config.missinglocale":
+    "Конфигурация языка не найдена. Пожалуйста, войдите снова",
+
+  "dcic.ll.service.error.loadingvehicledata":
+    "К сожалению, данные автомобиля не могут быть загружены.",
+
+  "dcic.ll.service.error.missingdealer":
+    "К сожалению, в настоящее время информация о вашем дилере Mercedes-Benz не доступна.",
+
+  "dcic.ll.service.error.missingfinservice":
+    "Не указан VIN для сервисного партнера!",
+
+  "dcic.ll.service.error.missingfinvehicle":
+    "Не указан VIN для сервисного партнера!",
+
+  "dcic.ll.service.error.savingdealer":
+    "Дилер не может быть сохранен в данный момент."
+
+}

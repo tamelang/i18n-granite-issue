@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "magyar",
+
+  "upmc.ll.global.language.tr":
+    "török",
+
+  "upmc.ll.global.language.da":
+    "dán",
+
+  "upmc.ll.profile.useragreements":
+    "Használati Feltételek",
+
+  "upmc.ll.global.JP":
+    "Japán",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Új ország vagy régió",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-mail-cím",
+
+  "upmc.ll.global.button.edit":
+    "Szerkesztés",
+
+  "upmc.ll.global.language.cs":
+    "cseh",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Kérjük, válasszon!",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "A megadott e-mail-cím már létezik. Kérjük, adjon meg egy másik e-mail-címet!<br>Megjegyzés: Minden e-mail-cím csak egy Mercedes me felhasználói fiókhoz rendelhető hozzá.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Kérjük, jelölje ki a###label### mezőt!",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Válasszon ki legalább egy kapcsolattartási lehetőséget!",
+
+  "upmc.ll.global.language.sv":
+    "svéd",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Ön nem adott meg vezetékes telefonszámot.",
+
+  "upmc.ll.global.language.sk":
+    "szlovák",
+
+  "upmc.ll.global.IT":
+    "Olaszország",
+
+  "upmc.ll.global.language.sl":
+    "szlovák",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Kérjük, vegye figyelembe a következőt:<br>Sajnos felvitt gépkocsijait és személyes adatait nem lehet átvinni az újonnan választott ország, ill. régió smart Portáljára. Kérjük, ismét adja meg ezeket az adatokat!<br>Ezen kívül kérjük, vegye figyelembe, hogy a smart control újonnan választott országában, ill. régiójában sajnos nem áll rendelkezésre. Vagyis: smart control szolgáltatásait ezentúl nem fogja tudni használni.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Dél-Afrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Kérjük, adja meg vezetékes vagy mobiltelefonszámát!",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Névkiegészítés",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Folyosószám",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Megjegyzés: Teljes címét akkor adhatja meg, ha az átköltözést egy új országba vagy régióba elmentette.",
+
+  "upmc.ll.global.language.bg":
+    "bolgár",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Felhasználói fiók törlése",
+
+  "upmc.ll.global.language.ru":
+    "orosz",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Rang",
+
+  "upmc.ll.yourdata.email.add.again":
+    "E-mail cím újbóli megadása",
+
+  "upmc.ll.yourdata.refresh":
+    "Frissítés",
+
+  "upmc.ll.global.language.ro":
+    "román",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Kérjük, adja meg a születési időpontot az útlevélnek megfelelően!",
+
+  "upmc.ll.global.HU":
+    "Magyarország",
+
+  "upmc.ll.global.HR":
+    "Horvátország",
+
+  "upmc.ll.global.button.submit":
+    "Mentés",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Kérjük a ###label### mezőben legfeljebb ###chars### karaktert adjon meg!",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "nem ellenőrzött",
+
+  "upmc.ll.global.language.ar":
+    "arab",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Nem kapott aktiválási kódot? Lehetséges, hogy hibásan adta meg mobiltelefonszámát. Kérjük, ebben az esetben adja meg ismét mobiltelefonszámát!<br><br>Megkapta az aktiválási kódot és szeretné azt most megadni? Kérjük, vegye figyelembe, hogy az aktiválási kód megadása csak közvetlenül a mobiltelefonszám megadásakor lehetséges. Kérjük, adja meg újra mobiltelefonszámát!<br><br>Már sikeresen megadta az aktiválási kódot? Előfordulhat, hogy a szinkronizálás még nem történt meg. Kérjük, várjon egy kis ideig, majd kattintson a \u201eFrissítés\u201d-re!",
+
+  "upmc.ll.global.IE":
+    "Írország",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Kérjük a ###label### mezőben legalább ###chars### karaktert adjon meg!",
+
+  "upmc.ll.global.language.af":
+    "afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Felhasználói fiókjának kibővített adatvédelme sikeresen kikapcsolásra került.<br><br>Ha a kibővített adatvédelmet ismét aktiválni szeretné, kérjük, forduljon Mercedes-Benz partneréhez!",
+
+  "upmc.ll.global.AE_DU":
+    "Dubaj",
+
+  "upmc.ll.global.GR":
+    "Görögország",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "A kibővített adatvédelem kikapcsolása.",
+
+  "upmc.ll.global.form.address.text":
+    "Kérjük, adja meg értesítési címét!",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Szövetségi állam",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Állam",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Megjegyzés",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Megjegyzés",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "A megadott mobiltelefonszám már létezik. Kérjük, adjon meg egy másik mobiltelefonszámot!<br>Megjegyzés: Minden mobiltelefonszám csak egy Mercedes me felhasználói fiókhoz rendelhető hozzá.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Megszólítás",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Adja meg a teljes születési dátumát!",
+
+  "upmc.ll.global.language.pt":
+    "portugál",
+
+  "upmc.ll.yourdata.status.loading":
+    "Kérjük, legyen egy pillanatig türelemmel!",
+
+  "upmc.ll.global.button.administration":
+    "Adminisztráció",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu-Dzabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Az Áthelyezés és nagyítás vagy kicsinyítés funkcióval válassza ki a kívánt képkivágást.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Profilkép kiegészítése vagy cseréje.",
+
+  "upmc.ll.global.FR":
+    "Franciaország",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "Az e-mail-címeket ellenőrizni kell ahhoz, hogy azokat a Mercedes me Portálon használni lehessen. E-mail címének ellenőrzéséhez kérjük, adja meg azt újra!",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobiltelefonszám",
+
+  "upmc.ll.global.text.today":
+    "Ma",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Kérjük, adja meg vezetéknevét!",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me Portál",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Vezetékes telefonszám",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Utca",
+
+  "upmc.ll.global.GB":
+    "Egyesült Királyság",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Jelenleg még nem áll rendelkezésre minden tartalom az Ön által kiválasztott nyelvre lefordítva. Ezeket a tartalmakat egy másik nyelven jelenítjük meg.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Kérjük, vegye figyelembe a következőt:<br>Újonnan választott országában, ill. régiójában a smart control rendelkezésre áll.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Nincs mobiltelefonszám megadva.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Vezetéknév",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profilkép",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Az alábbi linken törölheti felhasználói fiókját. Kérjük, vegye figyelembe, hogy a törléssel a gépkocsijaihoz rendelt valamennyi szolgáltatás deaktiválódik és minden társfelhasználói jogosultság is visszavonásra kerül!",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Biztos benne, hogy felhasználói fiókja kibővített adatvédelmét ki szeretné kapcsolni?<br><br>Megjegyzés: Ha a kibővített adatvédelmet ismét aktiválni szeretné, kérjük, forduljon Mercedes-Benz partneréhez!",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Kérjük, vegye figyelembe a következőt:<br>Sajnos felvitt gépkocsijait, személyes adatait és beállításait nem lehet átvinni az újonnan választott ország vagy régió portáljára.<br>Kérjük, adja meg ezeket az adatokat az új országban vagy régióban ismét, hogy ismét használhassa a szolgáltatásokat!",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Vezetékes telefonszám",
+
+  "upmc.ll.yourdata.address.headline":
+    "Cím",
+
+  "upmc.ll.global.ES":
+    "Spanyolország",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "A formanyomtatványt nem töltötte ki megfelelően. Ellenőrizze az Ön által megadott adatokat!",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Üzenete több mint ###chars### karakterből áll! Kérjük, rövidítse a szöveget!",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Deaktiválás",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Év",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Kérjük, adja meg a második keresztnevét!",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "A következő adatok szükségesek a telematika-funkciókhoz:",
+
+  "upmc.ll.global.FI":
+    "Finnország",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Adjon meg egy érvényes értéket a ###label### mezőben!",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Helység",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "A művelet műszaki probléma miatt jelenleg nem lehetséges, kérjük, próbálja meg ismét egy későbbi időpontban!",
+
+  "upmc.ll.global.language.fr":
+    "francia",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobiltelefonszám",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "A vezetékes és mobiltelefonszámokat nemzetközi formátumban adja meg! Példa: +36152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Kérjük, válasszon!",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "A kikapcsolás megerősítése",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Kérjük, adjon hozzá egy e-mail-címet!",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Csak JPG- vagy PNG-formátumú, legfeljebb 5 MB és legalább 300x300 pixel méretű képeket tölthet fel.",
+
+  "upmc.ll.profile.headline":
+    "Profilom.",
+
+  "upmc.ll.global.button.completelater":
+    "Kiegészítés később",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Ön nem adott meg e-mail-címet.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Ha ezen adatok megadása nélkül továbblép, ezeket a szolgáltatásokat minden gépkocsinál deaktiváljuk. Ön és társfelhasználói azokat a jövőben nem tudják majd használni.",
+
+  "upmc.ll.global.language.fi":
+    "finn",
+
+  "upmc.ll.yourdata.email.add":
+    "E-mail cím hozzáadása",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Mobiltelefonszám hozzáadása és ellenőrzése",
+
+  "upmc.ll.global.button.connect":
+    "Kapcsolódás",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "E-mailben is felvehetik velem a kapcsolatot",
+
+  "upmc.ll.global.DK":
+    "Dánia",
+
+  "upmc.ll.global.form.mobile.verified":
+    "ellenőrizve",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Ezt a fájlt nem lehetett feltölteni:",
+
+  "upmc.ll.global.EE":
+    "Észtország",
+
+  "upmc.ll.global.button.next":
+    "Tovább",
+
+  "upmc.ll.global.language.es":
+    "spanyol",
+
+  "upmc.ll.global.language.et":
+    "észt",
+
+  "upmc.ll.yourdata.notverified":
+    "nem ellenőrzött",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Biztos benne, hogy törölni kívánja profilképét?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Nap",
+
+  "upmc.ll.global.language.en":
+    "angol",
+
+  "upmc.ll.global.language.el":
+    "görög",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Ezek az adatok a következőkhöz szükségesek:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "A *-gal jelölt mezőket minden esetben töltse ki!",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Cím módosítása.",
+
+  "upmc.ll.yourdata.status.verified":
+    "ellenőrizve",
+
+  "upmc.ll.global.CN":
+    "Kína",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Kérjük, töltse ki a ###label### mezőt!",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-mail-cím",
+
+  "upmc.ll.global.TW":
+    "Tajvan",
+
+  "upmc.ll.global.DE":
+    "Németország",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Ajtószám",
+
+  "upmc.ll.global.TR":
+    "Törökország",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Postai irányítószám",
+
+  "upmc.ll.global.CY":
+    "Ciprusi Köztársaság",
+
+  "upmc.ll.global.CZ":
+    "Cseh Köztársaság",
+
+  "upmc.ll.yourdata.email.missing":
+    "Nincs e-mail-cím megadva.",
+
+  "upmc.ll.global.SE":
+    "Svédország",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Kérjük, vegye figyelembe a következőt:<br>Sajnos felvitt gépkocsijait és személyes adatait nem lehet átvinni az újonnan választott ország, ill. régió Mercedes me Portáljára. Kérjük, ismét adja meg ezeket az adatokat!<br>Újonnan választott országában, ill. régiójában a Mercedes me connect rendelkezésre áll.<br>Gépkocsija felvitelekor meg fogja tudni, hogy az támogatja-e a Mercedes me connectet. És minden szükséges lépésen végigvezetjük Önt, a szolgáltatások használatához.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Itt kiegészítheti, módosíthatja vagy törölheti profilképét.",
+
+  "upmc.ll.yourdata.email.error":
+    "Kérjük, adjon hozzá egy e-mail-címet!",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobiltelefonszám",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Ön nem adott meg mobiltelefonszámot.",
+
+  "upmc.ll.global.CH":
+    "Svájc",
+
+  "upmc.ll.global.button.cancel":
+    "Mégse",
+
+  "upmc.ll.global.CA":
+    "Kanada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Új kép áthúzása a felületre vagy kiválasztása egy kattintással a gombra.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Szlovákia",
+
+  "upmc.ll.global.SI":
+    "Szlovénia",
+
+  "upmc.ll.global.language.ko":
+    "koreai",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Utcatípus",
+
+  "upmc.ll.global.AT":
+    "Ausztria",
+
+  "upmc.ll.global.language":
+    "Nyelv",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Megjegyzés",
+
+  "upmc.ll.yourdata.name.headline":
+    "Név",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Jelszó",
+
+  "upmc.ll.global.BG":
+    "Bulgária",
+
+  "upmc.ll.global.BE":
+    "Belgium",
+
+  "upmc.ll.global.RU":
+    "Oroszország",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Megjegyzés: Igazolja vissza e-mail-címét, hogy azt a Mercedes me Portálra való bejelentkezéshez használhassa!<br>Ehhez kattintson a kezelés-szimbólumra, és adja meg ismét e-mail-címét!",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Postai irányítószám",
+
+  "upmc.ll.global.button.back":
+    "Vissza",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Hibakód az ügyfélszolgálati utókövetéshez:",
+
+  "upmc.ll.global.RO":
+    "Románia",
+
+  "upmc.ll.global.hint.headline":
+    "Megjegyzés",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "A mobiltelefonszámokat ellenőrizni kell ahhoz, hogy azokat a Mercedes me Portálon használni lehessen. A mobiltelefonszám ellenőrzéséhez kérjük, adja meg azt újra!",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobiltelefonszám",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Újonnan választott országában. ill. régiójában a smart control sajnos nem áll rendelkezésre. Vagyis: smart control szolgáltatásait ezentúl nem fogja tudni használni.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Kérjük, vegye figyelembe a következőt:<br>Sajnos felvitt gépkocsijait és személyes adatait nem lehet átvinni az újonnan választott ország, ill. régió smart Portáljára. Kérjük, ismét adja meg ezeket az adatokat!<br><br>Újonnan választott országában, ill. régiójában a smart control rendelkezésre áll.<br>Gépkocsija felvitelekor meg fogja tudni, hogy az támogatja-e a smart controlt. És minden szükséges lépésen végigvezetjük Önt, a szolgáltatások használatához.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Legegyszerűbb elérhetőségem:",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Ellenőrzött mobiltelefonszám",
+
+  "upmc.ll.global.language.ja":
+    "japán",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Kérjük, adja meg keresztnevét!",
+
+  "upmc.ll.global.language.zh":
+    "egyszerűsített kínai",
+
+  "upmc.ll.profile.doc.text.error":
+    "A beleegyező nyilatkozat módosítása jelenleg nem lehetséges. Kérjük, próbálja meg később ismét!",
+
+  "upmc.ll.global.language.it":
+    "olasz",
+
+  "upmc.ll.global.button.print":
+    "Nyomtatás",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Kérjük, adjon hozzá egy mobiltelefonszámot!",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Kérjük, vegye figyelembe a következőt:<br>Ha megváltoztatja az országot vagy régiót, adott esetben az Ön által használt szolgáltatások deaktiválódhatnak. Ez azért fordulhat elő, mert a nyújtott szolgáltatások és az érvényes Használati Feltételek országtól vagy régiótól függően eltérőek lehetnek.<br>A \u201eSzolgáltatások kezelése\u201c alatt az új országban vagy régióban egyszerűen aktiválja ismét a szolgáltatásokat.",
+
+  "upmc.ll.global.button.confirm":
+    "Megerősítés",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Kibővített adatvédelem",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Lemondási igényét írásban, levél vagy fax útján, küldheti meg nekünk:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postafiók 1456<br>6201 BL Maastricht<br>Hollandia<br>Fax: +36 1 235 53 04",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Második vezetéknév",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Új kép kiválasztása egy kattintással a gombra.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Mobiltelefonszám újbóli megadása és ellenőrzése",
+
+  "upmc.ll.global.button.send":
+    "Elküldés",
+
+  "upmc.ll.yourdata.text.error":
+    "A hozzáférés a profiladatokhoz jelenleg nem lehetséges.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Nem kapott visszaigazoló e-mailt? Lehetséges, hogy hibásan adta meg e-mail-címét. Kérjük, ebben az esetben adja meg e-mail-címét ismét!<br><br>Visszaigazolta már e-mail-címét a megerősítő linkre kattintva? Előfordulhat, hogy a szinkronizálás még nem történt meg. Kérjük, várjon egy pillanatot, majd kattintson a \u201eFrissítés\u201d-re!",
+
+  "upmc.ll.global.PT":
+    "Portugália",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Megjegyzés",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Azon ügyfelekre, akik a Daimler-csoport és márkáinak más weboldalain és alkalmazásaiban regisztráltak, a következő érvényes: ha adatait itt módosítja, akkor ezek a módosítások minden, a közös profilt használó weboldalon és alkalmazásban (pl. Mercedes me Portál és smart.com) átvételre kerülnek.",
+
+  "upmc.ll.global.language.hu":
+    "magyar",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Lengyelország",
+
+  "upmc.ll.global.language.hr":
+    "horvát",
+
+  "upmc.ll.yourdata.headline":
+    "Mercedes me ID adataim.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Válasszon egy lehetőséget!",
+
+  "upmc.ll.yourdata.password.text":
+    "Használjon biztonságos jelszót és azt rendszeresen változtassa meg!",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Születési dátum",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Kérjük, egészítse ki teljes címét! Erre azért van szükség, hogy az Adatvédelmi beleegyező nyilatkozatot egyértelműen hozzárendelhessük az Ön személyéhez.",
+
+  "upmc.ll.global.language.pl":
+    "lengyel",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Hónap",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Itt kiegészítheti, módosíthatja vagy törölheti profilképét.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Felhasználói fiókjánál a kibővített adatvédelem aktív. Adatait csak kiválasztott csoportok (pl. egy speciális támogatócsapat) láthatják, a Daimler AG-n belül.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Kép kiválasztása",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "A kívánt nyelv kiválasztása",
+
+  "upmc.ll.global.form.text.mandatory":
+    "A *-gal jelölt mezőket minden esetben töltse ki!",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Kérjük, vegye figyelembe a következőt:<br>Sajnos felvitt gépkocsijait és személyes adatait nem lehet átvinni az újonnan választott ország, ill. régió Mercedes me Portáljára. Kérjük, ismét adja meg ezeket az adatokat!<br>Ezen kívül kérjük, vegye figyelembe, hogy a Mercedes me connect újonnan választott országában, ill. régiójában sajnos nem áll rendelkezésre. Vagyis: connect szolgáltatásait ezentúl nem fogja tudni használni.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "Személyi igazolvány száma",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Kérjük, adja meg a vezetékes telefonszámát!",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Kérjük, érvényes dátumot adjon meg!",
+
+  "upmc.ll.global.MT":
+    "Málta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "1. kiegészítő címsor",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "2. kiegészítő címsor",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "3. kiegészítő címsor",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Kérjük, válasszon mezőt!",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Második keresztnév",
+
+  "upmc.ll.global.NO":
+    "Norvégia",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Megjegyzés: Igazolja vissza mobiltelefonszámát, hogy azt a Mercedes me Portálra való bejelentkezéshez használhassa!<br>Ehhez kattintson a kezelés-szimbólumra, és adja meg ismét mobiltelefonszámát!",
+
+  "upmc.ll.global.NL":
+    "Hollandia",
+
+  "upmc.ll.global.button.delete":
+    "Törlés",
+
+  "upmc.ll.global.button.register":
+    "Regisztrálás",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Keresztnév",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobiltelefonszám",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Postafiók",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profilkép",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "A tudnivalókat elolvastam és tovább szeretném folytatni a mentést.<br>A szolgáltatásokat deaktiválni fogjuk.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Ehhez az országhoz, ill. régióhoz nem adhatók meg címadatok, mert a Mercedes me Portál szolgáltatásai ebben az országban, ill. régióban nem állnak rendelkezésre.",
+
+  "upmc.ll.global.language.no":
+    "norvég",
+
+  "upmc.ll.global.language.nl":
+    "holland",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "A megadott születési dátum érvénytelen.<br>Kérjük, ellenőrizze a kiválasztást.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Profilkép törlése.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Felhasználói fiók törlése",
+
+  "upmc.ll.global.LV":
+    "Lettország",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Mentés és tovább",
+
+  "upmc.ll.global.notification.title":
+    "Megjegyzés:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Háznév",
+
+  "upmc.ll.global.LT":
+    "Litvánia",
+
+  "upmc.ll.global.LU":
+    "Luxemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Kérjük, vegye figyelembe a következőt:<br>Újonnan választott országában, ill. régiójában a Mercedes me connect rendelkezésre áll.<br>Azt, hogy gépkocsija támogatja-e a Mercedes me connectet, láthatja, ha megnyitja a \u201eGépkocsijaim\u201c menüpontot. A Mercedes me connect funkciókkal rendelkező gépkocsik itt egy ikonnal és tájékoztató szöveggel vannak megjelölve.",
+
+  "upmc.ll.global.button.close":
+    "Bezárás",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Kérjük, vegye figyelembe a következőt:<br>Újonnan választott országában, ill. régiójában a Mercedes me connect sajnos nem áll rendelkezésre. Vagyis: connect szolgáltatásait ezentúl nem fogja tudni használni.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "A postai irányítószám mezőben érvényes értéket adjon meg!",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Adja meg a teljes születési dátumát!",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Házszám",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Ország vagy régió",
+
+  "upmc.ll.global.button.login":
+    "Bejelentkezés",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Vezetékes telefonszám",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "A kibővített adatvédelem kikapcsolva.",
+
+  "upmc.ll.global.KR":
+    "Dél-Korea",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Kérjük, töltse ki a mezőt!",
+
+  "upmc.ll.global.button.ok":
+    "Rendben",
+
+  "upmc.ll.global.language.lv":
+    "lett",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "A folyamat jelenleg sajnos nem lehetséges.<br>Kérjük, próbálja meg újra egy későbbi időpontban!",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "litván",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Szeretném kiegészíteni az adatokat. A szolgáltatásokat deaktiválni fogjuk.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Fizetőeszköz",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Nincs tárolt adat",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kártya száma",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Lejárat dátuma: ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "A kártya lejárt.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Kártyatulajdonos",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Fizetőeszköz hozzáadása",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Alapértelmezett beállítás",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Fizetőeszköz törlése.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Biztos abban, hogy törölni szeretné a(z) (###digits###) fizetőeszközt?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "A Daimler Mobility Services GmbH Adatvédelmi irányelvei.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Sajnáljuk!Műszaki probléma miatt nem fejezhető be a folyamat. Kérjük, próbálja meg újra egy későbbi időpontban!Köszönjük megértését!",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Unfortunately you do not meet the age requirement",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Kérjük, egészítse ki a következő adatokat:",
+
+  "todo.upmc.ll.hus.valid":
+    "Ön kiegészítette a szükséges adatokat.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Érvénytelen hivatkozás",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "A Mercedes me connect und smart control szolgáltatások Használati Feltételeinek elfogadása nélkül a szolgáltatások használata sajnos nem lehetséges.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Bizonyos szolgáltatások és nyelvi szolgáltatások gépkocsiban való használatához szükség van a Nuance Végfelhasználói Licencszerződésének elfogadására és a hozzájárulásra az adatok Nuance általi használatához.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Hozzájárulás szükséges",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Kész",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Nincs jogosultság",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Kérjük, töltse ki vagy tekintse át profiladatait",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "A Mercedes me Store weboldalra",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "A regisztrációmmal egyben megerősítem, hogy elolvastam és egyetértek az <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Adatvédelmi irányelvekben<\/a> foglaltakkal.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "A keresztnév nem felel meg az adószámnak",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "A vezetéknév nem felel meg az adószámnak",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "A születésnap nem felel meg az adószámnak",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "A változtatás sikeres volt. Hamarosan átirányítjuk",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN-kód",
+
+  "upmc.ll.yourdata.pin.text":
+    "Itt törölheti a PIN-kódot, mellyel csatlakozhat Mercedes-Benz gépkocsijához",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Itt beállíthatja a PIN-kódot, mellyel csatlakozhat Mercedes-Benz gépkocsijához",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Mercedes me PIN-kódja törlése",
+
+  "upmc.ll.layer.pin.delete.request":
+    "Biztos benne, hogy törölni akarja a PIN-kódot?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Sajnáljuk, ez a szolgáltatás jelenleg nem elérhető. Kérjük, próbálja meg később újra."
+
+}

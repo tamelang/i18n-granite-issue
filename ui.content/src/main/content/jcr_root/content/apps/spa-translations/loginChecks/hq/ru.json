@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Ваша учетная запись зарегистрирована в другой стране ({0}). Вы хотите быть перенаправлены на Ваш домашний рынок?",
+
+  "loginChecks.ll.global.button.close":
+    "Закрыть",
+
+  "loginChecks.ll.global.button.confirm":
+    "Подтвердить",
+
+  "loginChecks.ll.global.button.next":
+    "следующий",
+
+  "loginChecks.ll.global.button.with.car":
+    "С машиной",
+
+  "loginChecks.ll.global.button.without.car":
+    "Без машины",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Пожалуйста, выберите, как вы хотите заполнить данные своего профиля.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Продолжить регистрацию автомобиля",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Назад",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Завершите регистрацию.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

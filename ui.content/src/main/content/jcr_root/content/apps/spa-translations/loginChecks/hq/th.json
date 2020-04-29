@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Mercedes me ID ของคุณลงทะเบียนในประเทศอื่นแล้ว คุณต้องการที่จะเปลี่ยนเส้นทางไปยังตลาดบ้านของคุณ",
+
+  "loginChecks.ll.global.button.close":
+    "ใกล้",
+
+  "loginChecks.ll.global.button.confirm":
+    "ยืนยัน",
+
+  "loginChecks.ll.global.button.next":
+    "ต่อไป",
+
+  "loginChecks.ll.global.button.with.car":
+    "ด้วยรถยนต์",
+
+  "loginChecks.ll.global.button.without.car":
+    "ไม่มีรถ",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "โปรดเลือกวิธีการกรอกข้อมูลโปรไฟล์ของคุณ",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "ไปที่หน้าก่อนหน้า",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "โปรดลงทะเบียนให้เสร็จสมบูรณ์",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

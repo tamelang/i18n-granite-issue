@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Uw contactpersoon voor advies en aanschaf.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Uw contactpersoon voor service en tweedehandsvoertuigen",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "U hebt nog geen Mercedes-Benz dealer geselecteerd.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Mercedes-Benz dealer selecteren",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "Selecteer nu een Mercedes-Benz dealer om de voordelen van \u2019Mercedes me\u2019 volledig te kunnen benutten.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Locatie plan",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Dealer website",
+
+  "dcic.ll.overview.title":
+    "Uw Mercedes-Benz partner.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Stuur onderzoek",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Mercedes-Benz-partner wijzigen"
+
+}

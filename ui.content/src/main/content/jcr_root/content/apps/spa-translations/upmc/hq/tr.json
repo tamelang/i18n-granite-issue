@@ -1,0 +1,909 @@
+{
+
+  "upmc.ll.global.language.de":
+    "Almanca",
+
+  "upmc.ll.global.language.tr":
+    "Türkçe",
+
+  "upmc.ll.global.language.da":
+    "Danca",
+
+  "upmc.ll.profile.useragreements":
+    "Kullanım koşulları",
+
+  "upmc.ll.global.JP":
+    "Japonya",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Yeni ülke veya bölge",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-posta adresi",
+
+  "upmc.ll.global.button.edit":
+    "Düzenle",
+
+  "upmc.ll.global.language.cs":
+    "Çekçe",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Lütfen seçin",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Girilen e-posta adresi zaten mevcut. Lütfen başka bir e-posta adresi girin.<br>Hatırlatma: Her e-posta adresi sadece bir Mercedes me kullanıcı hesabında kullanılabilir.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Lütfen ###label### alanını seçin.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Lütfen en az bir iletişim yolu seçin.",
+
+  "upmc.ll.global.language.sv":
+    "İsveççe",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Sabit hat numarası girmediniz.",
+
+  "upmc.ll.global.language.sk":
+    "Slovakça",
+
+  "upmc.ll.global.IT":
+    "İtalya",
+
+  "upmc.ll.global.language.sl":
+    "Slovakça",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Lütfen şunları dikkate alın:<br>Maalesef kayıtlı araçlarınızı ve kişisel verilerinizi yeni seçilen ülke veya bölgenin smart portalına aktaramıyoruz. Lütfen bu verileri tekrar girin.<br>Ayrıca smart control'un yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut olmadığını lütfen dikkate alın. Yani, smart connect hizmetlerinizi artık kullanamazsınız.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Güney Afrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Lütfen sabit hat numaranızı veya mobil iletişim numaranızı belirtin.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Ad eki",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Koridor numarası",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Hatırlatma: Yeni bir ülkeye veya bölgeye geçişinizi kaydettiyseniz eksiksiz adresinizi belirtebilirsiniz.",
+
+  "upmc.ll.global.language.bg":
+    "Bulgarca",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Kullanıcı hesabını sil",
+
+  "upmc.ll.global.language.ru":
+    "Rusça",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Unvan",
+
+  "upmc.ll.yourdata.email.add.again":
+    "E-posta adresini yeniden gir",
+
+  "upmc.ll.yourdata.refresh":
+    "Güncelle",
+
+  "upmc.ll.global.language.ro":
+    "Romence",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Macaristan",
+
+  "upmc.ll.global.HR":
+    "Hırvatistan",
+
+  "upmc.ll.global.button.submit":
+    "Kaydet",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Lütfen ###label### için azami ###chars### karakter girin.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "doğrulanmadı",
+
+  "upmc.ll.global.language.ar":
+    "Arapça",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Herhangi bir aktivasyon kodu almadınız mı? Mobil iletişim numaranızı girerken yanlış girmiş olabilirsiniz. Bu durumda lütfen mobil iletişim numaranızı tekrar girin.<br><br>Aktivasyon kodunuzu edindiniz ve şimdi girmek mi istiyorsunuz? Aktivasyon kodu girişinin sadece mobil iletişim numarası girildiği anda yapılabileceğini lütfen dikkate alın. Lütfen mobil iletişim numaranızı tekrar girin.<br><br>Aktivasyon kodunu zaten başarılı şekilde girmiş miydiniz? Senkronizasyon henüz gerçekleşmemiş olabilir. Lütfen kısa bir süre bekleyin ve güncelle butonuna tıklayın.",
+
+  "upmc.ll.global.IE":
+    "İrlanda",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Lütfen ###label### için asgari ###chars### karakter girin.",
+
+  "upmc.ll.global.language.af":
+    "Afrikaanca",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Kullanıcı hesabınız için genişletilmiş veri koruması başarıyla devre dışı bırakıldı.<br><br>Genişletilmiş veri korumasını tekrar etkinleştirmek için lütfen Mercedes-Benz bayinize başvurun.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Yunanistan",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Genişletilmiş veri korumasını devre dışı bırakın.",
+
+  "upmc.ll.global.form.address.text":
+    "Lütfen ikamet adresinizi girin.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Eyalet",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Ülke",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Hatırlatma",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Hatırlatma",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Girilen mobil iletişim numarası zaten mevcut. Lütfen başka bir mobil iletişim numarası girin.<br>Hatırlatma: Her mobil iletişim numarası sadece bir Mercedes me kullanıcı hesabında kullanılabilir.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "HitapCinsiyet",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Lütfen doğum tarihinizi eksiksiz olarak belirtin.",
+
+  "upmc.ll.global.language.pt":
+    "Portekizce",
+
+  "upmc.ll.yourdata.status.loading":
+    "Lütfen kısa bir süre bekleyin.",
+
+  "upmc.ll.global.button.administration":
+    "Yönetim",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Kaydırarak ve büyütüp küçülterek istediğiniz resim bölümünü seçin.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Profil resmi ekle veya değiştir.",
+
+  "upmc.ll.global.FR":
+    "Fransa",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "E-posta adresleri, Mercedes me portalında kullanılabilmeleri için doğrulanmış olmalıdır. E-posta adresinizi doğrulamak için lütfen yeniden girin.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobil iletişim numarası",
+
+  "upmc.ll.global.text.today":
+    "Bugün",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Lütfen buraya soyadınızı girin.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me portalı",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Sabit hat numarası",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Sokak",
+
+  "upmc.ll.global.GB":
+    "Birleşik Krallık",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "Seçtiğiniz dildeki içeriklerin tamamı henüz çevrilmemiştir. Bu içerikler başka bir dilde gösterilir.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Lütfen şunları dikkate alın:<br>smart control yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Mobil iletişim numarası girilmedi.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Soyadı",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profil resmi",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Aşağıda yer alan link üzerinden kullanıcı hesabınızı silebilirsiniz. Kullanıcı hesabınızı silmeniz ile birlikte, aracınızdaki tüm hizmetlerin devre dışı kalacağını ve tüm ortak kullanıcıların yetkilerinin kaldırılacağını lütfen dikkate alın.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Kullanıcı hesabınız için genişletilmiş veri korumasını devre dışı bırakmak istediğinizden emin misiniz?<br><br>Hatırlatma: Genişletilmiş veri korumasını daha sonra tekrar etkinleştirmek için lütfen Mercedes-Benz bayinize başvurun.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Lütfen şunları dikkate alın:<br>Maalesef kayıtlı araçlarınızı, kişisel verilerinizi ve ayarlarınızı yeni seçilen ülke veya bölgenin portalına aktaramıyoruz.<br>Hizmetleri tekrar kullanabilmek için, lütfen bu verileri yeni ülke veya bölgede tekrar girin.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Sabit hat numarası",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adres",
+
+  "upmc.ll.global.ES":
+    "İspanya",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Form doğru şekilde doldurulmadı. Lütfen girdilerinizi kontrol edin.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Mesajınızda ###chars### karakterden fazla karakter bulunmaktadır! Lütfen metni kısaltın.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Etkin durumdan çıkart",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Yıl",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Lütfen buraya ikinci adınızı girin.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Belirtilen bilgiler Telematik özellikleri için gereklidir:",
+
+  "upmc.ll.global.FI":
+    "Finlandiya",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Lütfen ###label### için geçerli bir değer belirtin.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "İl",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Bu işlemi teknik bir sorundan dolayı şu anda gerçekleştiremiyoruz, lütfen daha sonra tekrar deneyin.",
+
+  "upmc.ll.global.language.fr":
+    "Fransızca",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobil iletişim numarası",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Sabit hat ve mobil iletişim numaraları uluslararası formatta girilmelidir. Örnek: +90152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Lütfen bir seçim yapın",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Devre dışı bırakmayı onayla",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Lütfen bir e-posta adresi ekleyin.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Yalnızca en fazla 5 MB ve en az 300 x 300 piksellik JPG veya PNG formatındaki resimleri yükleyebilirsiniz.",
+
+  "upmc.ll.profile.headline":
+    "Profilim.",
+
+  "upmc.ll.global.button.completelater":
+    "Daha sonra tamamla",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Herhangi bir e-posta adresi girmediniz.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Bu bilgileri girmeden devam ederseniz, bu hizmetler tüm araçlarınızda etkin durumdan çıkartılacaktır. Bu durumda siz ve ortak kullanıcılarınız bu hizmetleri artık kullanamazsınız.",
+
+  "upmc.ll.global.language.fi":
+    "Fince",
+
+  "upmc.ll.yourdata.email.add":
+    "E-posta adresi ekle",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Mobil iletişim numarası ekle ve doğrula",
+
+  "upmc.ll.global.button.connect":
+    "Bağla",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Bana e-posta aracılığı ile de ulaşabilirsiniz",
+
+  "upmc.ll.global.DK":
+    "Danimarka",
+
+  "upmc.ll.global.form.mobile.verified":
+    "doğrulandı",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Bu dosya yüklenemedi:",
+
+  "upmc.ll.global.EE":
+    "Estonya",
+
+  "upmc.ll.global.button.next":
+    "Devam",
+
+  "upmc.ll.global.language.es":
+    "İspanyolca",
+
+  "upmc.ll.global.language.et":
+    "Estonca",
+
+  "upmc.ll.yourdata.notverified":
+    "doğrulanmadı",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Profil resminizi silmek istediğinizden emin misiniz?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Gün",
+
+  "upmc.ll.global.language.en":
+    "İngilizce",
+
+  "upmc.ll.global.language.el":
+    "Yunanca",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Bu bilgiler şunun için gerekmektedir:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "* ile işaretlenmiş alanları lütfen mutlaka doldurun.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Adresinizin değiştirilmesi.",
+
+  "upmc.ll.yourdata.status.verified":
+    "doğrulandı",
+
+  "upmc.ll.global.CN":
+    "Çin",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Lütfen ###label### alanını doldurun.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-posta adresi",
+
+  "upmc.ll.global.TW":
+    "Tayvan",
+
+  "upmc.ll.global.DE":
+    "Almanya",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Kapı numarası",
+
+  "upmc.ll.global.TR":
+    "Türkiye",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Posta kodu",
+
+  "upmc.ll.global.CY":
+    "Kıbrıs Cumhuriyeti",
+
+  "upmc.ll.global.CZ":
+    "Çek Cumhuriyeti",
+
+  "upmc.ll.yourdata.email.missing":
+    "Herhangi bir e-posta adresi girilmedi.",
+
+  "upmc.ll.global.SE":
+    "İsveç",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Lütfen şunları dikkate alın:<br>Maalesef kayıtlı araçlarınızı ve kişisel verilerinizi yeni seçilen ülke veya bölgenin Mercedes me portalına aktaramıyoruz. Lütfen bu verileri tekrar girin.<br>Mercedes me connect yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil.<br>Aracınızın kaydını oluştururken, Mercedes me connect'i destekleyip desteklemediğini öğrenirsiniz ve hizmetleri kullanabilmek için tüm adımlara yönlendirilirsiniz.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Bir profil resmi ekleyin veya profil resminizi değiştirin ya da silin.",
+
+  "upmc.ll.yourdata.email.error":
+    "Lütfen bir e-posta adresi ekleyin",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobil iletişim numarası",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Mobil iletişim numarası girmediniz.",
+
+  "upmc.ll.global.CH":
+    "İsviçre",
+
+  "upmc.ll.global.button.cancel":
+    "İptal et",
+
+  "upmc.ll.global.CA":
+    "Kanada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Alana sürükleyerek veya butona basarak yeni bir resim seçin.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovakya",
+
+  "upmc.ll.global.SI":
+    "Slovenya",
+
+  "upmc.ll.global.language.ko":
+    "Korece",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Sokak türü",
+
+  "upmc.ll.global.AT":
+    "Avusturya",
+
+  "upmc.ll.global.language":
+    "Dil",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Hatırlatma",
+
+  "upmc.ll.yourdata.name.headline":
+    "Ad",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Şifre",
+
+  "upmc.ll.global.BG":
+    "Bulgaristan",
+
+  "upmc.ll.global.BE":
+    "Belçika",
+
+  "upmc.ll.global.RU":
+    "Rusya",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Hatırlatma: Mercedes me portalına giriş yaparken kullanabilmek için e-posta adresinizi doğrulayın.<br>Bunun için düzenle simgesine tıklayın ve e-posta adresinizi tekrar girin.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Posta kodu",
+
+  "upmc.ll.global.button.back":
+    "Geri",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Müşteri hizmetlerinde geri takip için hata kodu:",
+
+  "upmc.ll.global.RO":
+    "Romanya",
+
+  "upmc.ll.global.hint.headline":
+    "Hatırlatma",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobil iletişim numaraları, Mercedes me portalında kullanılabilmeleri için doğrulanmış olmalıdır. Mobil iletişim numaralarını doğrulamak için lütfen tekrar girin.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobil iletişim numarası",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "smart control yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil. Yani, smart connect hizmetlerinizi artık kullanamazsınız.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Lütfen şunları dikkate alın:<br>Maalesef kayıtlı araçlarınızı ve kişisel verilerinizi yeni seçilen ülke veya bölgenin smart portalına aktaramıyoruz. Lütfen bu verileri tekrar girin.<br><br>smart control yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil.<br>Aracınızı kaydederken, aracın smart control'u destekleyip desteklemediğini öğrenirsiniz. Ve hizmetleri kullanabilmek için tüm adımlarda yönlendirilirsiniz.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Bana en iyi şu şekilde ulaşabilirsiniz:",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Doğrulanmış mobil iletişim numarası",
+
+  "upmc.ll.global.language.ja":
+    "Japonca",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Lütfen buraya adınızı girin.",
+
+  "upmc.ll.global.language.zh":
+    "Basitleştirilmiş Çince",
+
+  "upmc.ll.profile.doc.text.error":
+    "Onay bildirimi üzerinde değişiklik yapmak şu an mümkün değildir. Lütfen daha sonra tekrar deneyin.",
+
+  "upmc.ll.global.language.it":
+    "İtalyanca",
+
+  "upmc.ll.global.button.print":
+    "Yazdır",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Lütfen bir mobil iletişim numarası ekleyin",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Lütfen şunları dikkate alın:<br>Ülkeyi veya bölgeyi değiştirdiğinizde, kullandığınız hizmetler de devre dışı kalabilir. Bunun nedeni, sunulan hizmetlerin ve geçerli kullanım koşullarının ülkeye veya bölgeye göre farklılık gösterebilmesidir.<br>Yeni ülke veya bölgedeki hizmetleri \"Hizmetleri yönet\" altından tekrar etkinleştirin.",
+
+  "upmc.ll.global.button.confirm":
+    "Onayla",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Genişletilmiş veri koruması",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "İptal talebinizi posta veya faks yoluyla yazılı olarak bize ulaştırabilirsiniz:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Posta kutusu 1456<br>6201 BL Maastricht<br>Hollanda<br>Faks: -",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "İkinci soyadı",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Butona basarak yeni bir resim seçin.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Mobil iletişim numarasını yeniden gir ve doğrula",
+
+  "upmc.ll.global.button.send":
+    "Gönder",
+
+  "upmc.ll.yourdata.text.error":
+    "Profil verilerinize erişim şu an mümkün değil.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Onay e-postası almadınız mı? E-posta adresinizi yanlış girmiş olabilirsiniz. Bu durumda lütfen e-posta adresinizi tekrar girin.<br><br>E-posta adresinizi doğrulamak için onay linkini çağırmış mıydınız? Senkronizasyon henüz gerçekleşmemiş olabilir. Lütfen kısa bir süre bekleyin ve güncelle butonuna tıklayın.",
+
+  "upmc.ll.global.PT":
+    "Portekiz",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Hatırlatma",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Daimler grubunun ve markalarının diğer web sayfalarına ve uygulamalarına kaydolan müşteriler için şunlar geçerlidir: Bilgilerinizi burada değiştirirseniz, bu değişiklikler ortak profile katılan tüm web sayfaları ve uygulamalar (örneğin Mercedes me portalı ve smart.com) tarafından devralınır.",
+
+  "upmc.ll.global.language.hu":
+    "Macarca",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Polonya",
+
+  "upmc.ll.global.language.hr":
+    "Hırvatça",
+
+  "upmc.ll.yourdata.headline":
+    "Mercedes me ID bilgilerim.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Lütfen bir seçenek seçin.",
+
+  "upmc.ll.yourdata.password.text":
+    "Güvenli bir şifre kullanın ve bunu düzenli aralıklarla değiştirin.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Doğum tarihi",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Lütfen adresinizi eksiksiz olarak girin. Bu, veri koruma yasasına ilişkin onay bildirimini sizinle ilişkilendirebilmek için gereklidir.",
+
+  "upmc.ll.global.language.pl":
+    "Lehçe",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Ay",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Bir profil resmi ekleyin veya profil resminizi değiştirin ya da silin.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Kullanıcı hesabınız için genişletilmiş veri koruması etkinleştirilmiştir. Bilgileriniz yalnıza Daimler AG bünyesinde bulunan seçilmiş kişi grupları (örneğin özel destek ekibi) tarafından görüntülenebilir.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Resim seç",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "İstediğiniz dili seçin",
+
+  "upmc.ll.global.form.text.mandatory":
+    "* ile işaretlenmiş alanları lütfen mutlaka doldurun.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Lütfen şunları dikkate alın:<br>Maalesef kayıtlı araçlarınızı ve kişisel verilerinizi yeni seçilen ülke veya bölgenin Mercedes me portalına aktaramıyoruz. Lütfen bu verileri tekrar girin.<br>Ayrıca Mercedes me connect'in yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut olmadığını dikkate alın. Yani, connect hizmetlerinizi artık kullanamazsınız.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Lütfen sabit hat numaranızı girin.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Lütfen geçerli bir tarih girin.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "İlave adres satırı 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "İlave adres satırı 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "İlave adres satırı 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Lütfen alan seçin.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "İkinci ad",
+
+  "upmc.ll.global.NO":
+    "Norveç",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Hatırlatma: Mercedes me portalına giriş yaparken kullanabilmek için mobil iletişim numaranızı doğrulayın.<br>Bunun için düzenle simgesine tıklayın ve mobil iletişim numaranızı tekrar girin.",
+
+  "upmc.ll.global.NL":
+    "Hollanda",
+
+  "upmc.ll.global.button.delete":
+    "Sil",
+
+  "upmc.ll.global.button.register":
+    "Kaydol",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Ad",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobil iletişim numarası",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "P.O. box",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profil resmi",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Hatırlatmayı okudum ve kaydetme işlemini sürdürmek istiyorum.<br>Hizmetler etkin durumdan çıkartılıyor.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Mercedes me portalının hizmetleri ülkenizde veya bölgenizde sunulmadığından dolayı, bu ülke ya da bölge için adres bilgileri girilemez.",
+
+  "upmc.ll.global.language.no":
+    "Norveççe",
+
+  "upmc.ll.global.language.nl":
+    "Felemenkçe",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Belirtilen doğum tarihi geçersizdir.<br>Lütfen seçiminizi kontrol edin.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Profil resmini sil.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Kullanıcı hesabını sil",
+
+  "upmc.ll.global.LV":
+    "Letonya",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Kaydet ve devam et",
+
+  "upmc.ll.global.notification.title":
+    "Hatırlatma:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Bina adı",
+
+  "upmc.ll.global.LT":
+    "Litvanya",
+
+  "upmc.ll.global.LU":
+    "Lüksemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Lütfen şunları dikkate alın:<br>Mercedes me connect yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil.<br>Aracınızın Mercedes me connect'i destekleyip desteklemediğini, \"Araçlarım\" menü noktasını açtığınızda görebilirsiniz. Mercedes me connect fonksiyonuna sahip araçlar, burada bir simge ve hatırlatma metni ile işaretlenmiştir.",
+
+  "upmc.ll.global.button.close":
+    "Kapat",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Lütfen şunları dikkate alın:<br>Mercedes me connect yeni seçtiğiniz ülkenizde veya bölgenizde maalesef mevcut değil. Yani, connect hizmetlerinizi artık kullanamazsınız.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Lütfen posta kodu alanına geçerli bir değer girin.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Lütfen doğum tarihinizi eksiksiz olarak belirtin.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Bina numarası",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Ülke veya bölge",
+
+  "upmc.ll.global.button.login":
+    "Giriş yap",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Sabit hat numarası",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Genişletilmiş veri koruması devre dışı bırakıldı.",
+
+  "upmc.ll.global.KR":
+    "Güney Kore",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Lütfen alanı doldurun.",
+
+  "upmc.ll.global.button.ok":
+    "Tamam",
+
+  "upmc.ll.global.language.lv":
+    "Letonca",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Maalesef bu işlem şu anda mümkün değil.<br>Lütfen daha sonra tekrar deneyin.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "Litvanca",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Bilgileri tamamlamak istiyorum. Hizmetler etkin durumdan çıkartılıyor.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Payment Methods",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "No data stored",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Credit card number: ",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Expiry date: ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Expired.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Credit card holder: ",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Add means of payment",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Default",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Delete means of payment.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Are you sure to want to delete means of payment (**** **** **** ###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Daimler Mobility Services GmbH'nin Gizlilik Beyanını okuyun",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Maalesef yaş gereksinimini karşılamıyorsunuz",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Adı, mali tüzüğe uymamaktadır",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Soyadı, mali tüzüğe uymamaktadır",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Doğum tarihi, mali tüzüğe uymamaktadır",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Değişikliğiniz başarıyla gerçekleştirildi. Kısa bir süre içinde yeniden yönlendirileceksiniz",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Burada, Mercedes-Benz'inize bağlanmak için kullanılan PIN'i silebilirsiniz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Burada, Mercedes-Benz'inize bağlanmak için kullanılan PIN'i belirleyebilirsiniz",
+
+  "upmc.ll.layer.pin.delete.request":
+    " PIN'i silmek istediğinizden emin misiniz?",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Mercedes me PIN'inizi silin",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Üzgünüz, bu hizmete şu anda erişilemiyor. Lütfen daha sonra tekrar deneyin."
+
+}

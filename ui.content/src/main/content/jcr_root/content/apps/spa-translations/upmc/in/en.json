@@ -1,0 +1,24 @@
+{
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Did you not receive an activation code? Is it possible that you could have mistyped your mobile phone number? If so, please re-enter your mobile phone number.<br><br>Do you want to enter the activation code you received now? Please note that you can only enter the activation code when entering your mobile phone number. Please re-enter your mobile phone number.<br><br>Have you already successfully entered the activation code? Synchronisation may not yet be complete. Please wait a moment, then click on \"Update\".",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Salutation",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Telephone",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Email",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "You can delete your user account via the link below. Please note that deletion will deactivate all services in your vehicles and all co-user rights will be withdrawn.",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "You can also send us your cancellation request by email on me-connect.indcac.mercedes-benz.com. For any further questions, please contact:<br>Customer Connect (Toll Free) : 0008000501888",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Country"
+
+}

@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Vaš Mercedes me ID registriran je u drugoj zemlji ({0}). Želite biti preusmjereni na domaće tržište.",
+
+  "loginChecks.ll.global.button.close":
+    "Blizu",
+
+  "loginChecks.ll.global.button.confirm":
+    "Potvrditi",
+
+  "loginChecks.ll.global.button.next":
+    "Sljedeći",
+
+  "loginChecks.ll.global.button.with.car":
+    "Automobilom",
+
+  "loginChecks.ll.global.button.without.car":
+    "Bez automobila",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Odaberite način na koji želite dovršiti podatke profila.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Idite na prethodnu stranicu",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Dovršite svoju prijavu.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

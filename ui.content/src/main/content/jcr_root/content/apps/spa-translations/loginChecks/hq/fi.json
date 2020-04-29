@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Mercedes me ID on rekisteröity eri maassa ({0}). Haluat olla ohjattuna kotimarkkinoillesi.",
+
+  "loginChecks.ll.global.button.close":
+    "lähellä",
+
+  "loginChecks.ll.global.button.confirm":
+    "Vahvistaa",
+
+  "loginChecks.ll.global.button.next":
+    "Seuraava",
+
+  "loginChecks.ll.global.button.with.car":
+    "Autolla",
+
+  "loginChecks.ll.global.button.without.car":
+    "Ilman autoa",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Valitse, miten haluat täyttää profiilisi tiedot.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Siirry edelliselle sivulle",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Suorita kirjautuminen loppuun.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

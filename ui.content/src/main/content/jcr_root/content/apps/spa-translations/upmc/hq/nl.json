@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "Duits",
+
+  "upmc.ll.global.language.tr":
+    "Turks",
+
+  "upmc.ll.global.language.da":
+    "Deens",
+
+  "upmc.ll.profile.useragreements":
+    "Gebruiksvoorwaarden",
+
+  "upmc.ll.global.JP":
+    "Japan",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Nieuw land of nieuwe regio",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-mailadres",
+
+  "upmc.ll.global.button.edit":
+    "Bewerken",
+
+  "upmc.ll.global.language.cs":
+    "Tsjechisch",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Maak een keuze",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Het opgegeven e-mailadres bestaat al. Geef een ander e-mailadres op.<br>Belangrijk: Elk e-mailadres kan aan slechts één Mercedes me-gebruikersaccount worden toegewezen.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Selecteer het veld ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Selecteer minstens één wijze van contact.",
+
+  "upmc.ll.global.language.sv":
+    "Zweeds",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "U hebt geen vast telefoonnummer opgegeven.",
+
+  "upmc.ll.global.language.sk":
+    "Slowaaks",
+
+  "upmc.ll.global.IT":
+    "Italië",
+
+  "upmc.ll.global.language.sl":
+    "Slowaaks",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Graag wijzen we u op het volgende:<br>Helaas kunnen wij uw toegevoegde voertuigen en persoonsgegevens niet aan de smart-portal van het nieuwe land of de nieuwe regio overdragen. Voer deze gegevens opnieuw in.<br>Let er bovendien op dat smart control helaas niet beschikbaar is in het nieuwe land of de nieuwe regio. Dit houdt in dat u geen gebruik meer kunt maken van uw smart control-services.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Zuid-Afrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Voer uw vaste of mobiele telefoonnummer in.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Naamtoevoeging",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Verdiepingsnummer",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Belangrijk: U kunt uw volledige adres invoeren wanneer u de wijziging in een nieuw land of een nieuwe regio hebt opgeslagen.",
+
+  "upmc.ll.global.language.bg":
+    "Bulgaars",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Gebruikersaccount verwijderen",
+
+  "upmc.ll.global.language.ru":
+    "Russisch",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Titel",
+
+  "upmc.ll.yourdata.email.add.again":
+    "E-mailadres opnieuw vastleggen",
+
+  "upmc.ll.yourdata.refresh":
+    "Actualiseren",
+
+  "upmc.ll.global.language.ro":
+    "Roemeens",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Voer de geboortedatum in die in uw paspoort staat.",
+
+  "upmc.ll.global.HU":
+    "Hongarije",
+
+  "upmc.ll.global.HR":
+    "Kroatië",
+
+  "upmc.ll.global.button.submit":
+    "Opslaan",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "Gebruik voor ###label### maximaal ###chars### tekens.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "niet geverifieerd",
+
+  "upmc.ll.global.language.ar":
+    "Arabisch",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Hebt u geen activeringscode ontvangen? Misschien hebt u een tikfout gemaakt bij het invoeren van uw mobiele nummer. Leg uw mobiele nummer opnieuw vast.<br><br>Hebt u de activeringscode ontvangen en wilt u deze nu invoeren? Graag wijzen we u erop dat de activeringscode alleen kan worden ingevoerd tijdens het vastleggen van het mobiele nummer. Leg uw mobiele nummer opnieuw vast.<br><br>Hebt u de activeringscode al ingevoerd? Het is mogelijk dat de synchronisatie nog niet is voltooid. We verzoeken u even te wachten en vervolgens op 'Actualiseren' te klikken.",
+
+  "upmc.ll.global.IE":
+    "Ierland",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "Gebruik voor ###label### minimaal ###chars### tekens.",
+
+  "upmc.ll.global.language.af":
+    "Afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "De uitgebreide gegevensbescherming voor uw gebruikersaccount is gedeactiveerd.<br><br>Om de uitgebreide gegevensbescherming weer te activeren, kunt u contact opnemen met uw Mercedes-Benz partner.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Griekenland",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Uitgebreide gegevensbescherming deactiveren.",
+
+  "upmc.ll.global.form.address.text":
+    "Voer uw registratieadres in.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Provincie",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Staat",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Opmerking",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Opmerking",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Het opgegeven mobiele telefoonnummer bestaat al. Geef een ander mobiel nummer op.<br>Belangrijk: Elk mobiel nummer kan aan slechts één Mercedes me-gebruikersaccount worden toegewezen.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Aanhef",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Voer uw volledige geboortedatum in.",
+
+  "upmc.ll.global.language.pt":
+    "Portugees",
+
+  "upmc.ll.yourdata.status.loading":
+    "Een ogenblik geduld.",
+
+  "upmc.ll.global.button.administration":
+    "Beheer",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Selecteer het gewenste fotofragment door de foto te verschuiven, te vergroten of te verkleinen.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Profielafbeelding instellen of vervangen.",
+
+  "upmc.ll.global.FR":
+    "Frankrijk",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "E-mailadressen moeten zijn geverifieerd om in de Mercedes me-portal te kunnen worden gebruikt. Om uw e-mailadres te verifiëren, moet u dit opnieuw vastleggen.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobiel telefoonnummer",
+
+  "upmc.ll.global.text.today":
+    "Vandaag",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Voer hier uw achternaam in.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me Portal",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Vast telefoonnummer",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Straat",
+
+  "upmc.ll.global.GB":
+    "Verenigd Koninkrijk",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "De volledige inhoud is momenteel nog niet beschikbaar in de door u geselecteerde taal. Deze inhoud wordt in een andere taal weergegeven.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Graag wijzen we u op het volgende:<br>In het nieuwe land of de nieuwe regio is smart control beschikbaar.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Geen mobiel nummer opgegeven.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Achternaam",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profielafbeelding",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Met behulp van de link hieronder kunt u uw gebruikersaccount verwijderen. Graag wijzen we u erop dat met het verwijderen ook alle services in uw voertuigen worden gedeactiveerd en alle medegebruikersrechten worden ingetrokken.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Weet u zeker dat u de uitgebreide gegevensbescherming voor uw gebruikersaccount wilt deactiveren?<br><br>Belangrijk: Om de uitgebreide gegevensbescherming daarna weer te activeren, kunt u contact opnemen met uw Mercedes-Benz partner.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Graag wijzen we u op het volgende:<br>Helaas kunnen we uw toegevoegde voertuigen, persoonsgegevens en instellingen niet aan de portal van het nieuwe land of de nieuwe regio overdragen.<br>U moet deze gegevens opnieuw in het nieuwe land of de nieuwe regio invoeren om de services weer te kunnen gebruiken.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Vast telefoonnummer",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adres",
+
+  "upmc.ll.global.ES":
+    "Spanje",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Het formulier is niet juist ingevuld. Controleer de ingevoerde gegevens.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Uw bericht bestaat uit meer dan ###chars### tekens! Kort de tekst in.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Deactiveren",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "Jaar",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Voer hier uw tweede voornaam in.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Voor de telematicafuncties zijn de volgende gegevens nodig:",
+
+  "upmc.ll.global.FI":
+    "Finland",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Geef een geldige waarde voor ###label### op.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Plaats",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "De actie is vanwege een technisch probleem momenteel niet mogelijk. Probeer het later opnieuw.",
+
+  "upmc.ll.global.language.fr":
+    "Frans",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobiel nummer",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Telefoonnummers, zowel vaste als mobiele, moeten op de internationale notatiewijze worden opgegeven. Voorbeeld: +31152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Maak een keuze",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Deactivering bevestigen",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Voeg een e-mailadres toe.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Sie können nur Bilder im Format JPG oder PNG, mit maximal 5 MB und mit einer Mindestgröße von 300x300 Pixeln hochladen.",
+
+  "upmc.ll.profile.headline":
+    "Mijn profiel.",
+
+  "upmc.ll.global.button.completelater":
+    "Later aanvullen",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "U hebt geen e-mailadres opgegeven.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Wanneer u zonder deze gegevens doorgaat, worden deze services in alle voertuigen gedeactiveerd. U en uw medegebruikers kunnen deze services dan niet meer gebruiken.",
+
+  "upmc.ll.global.language.fi":
+    "Fins",
+
+  "upmc.ll.yourdata.email.add":
+    "E-mailadres toevoegen",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Mobiel nummer toevoegen en verifiëren",
+
+  "upmc.ll.global.button.connect":
+    "Verbinden",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "U kunt ook per e-mail contact met mij opnemen",
+
+  "upmc.ll.global.DK":
+    "Denemarken",
+
+  "upmc.ll.global.form.mobile.verified":
+    "Geverifieerd",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Dit bestand kon niet worden geüpload:",
+
+  "upmc.ll.global.EE":
+    "Estland",
+
+  "upmc.ll.global.button.next":
+    "Volgende",
+
+  "upmc.ll.global.language.es":
+    "Spaans",
+
+  "upmc.ll.global.language.et":
+    "Ests",
+
+  "upmc.ll.yourdata.notverified":
+    "niet geverifieerd",
+
+  "upmc.ll.global.US":
+    "Verenigde Staten",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Bent u zeker dat u uw profielafbeelding wilt verwijderen?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Dag",
+
+  "upmc.ll.global.language.en":
+    "Engels",
+
+  "upmc.ll.global.language.el":
+    "Grieks",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Deze gegevens zijn nodig voor:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Met een * aangeduide velden moeten in elk geval worden ingevuld.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Wijziging van uw adres.",
+
+  "upmc.ll.yourdata.status.verified":
+    "Geverifieerd",
+
+  "upmc.ll.global.CN":
+    "China",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Vul het veld ###label### in.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-mailadres",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.global.DE":
+    "Duitsland",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Deurnummer",
+
+  "upmc.ll.global.TR":
+    "Turkije",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Postcode",
+
+  "upmc.ll.global.CY":
+    "Republiek Cyprus",
+
+  "upmc.ll.global.CZ":
+    "Tsjechië",
+
+  "upmc.ll.yourdata.email.missing":
+    "Geen e-mailadres opgegeven.",
+
+  "upmc.ll.global.SE":
+    "Zweden",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Graag wijzen we u op het volgende:<br>Helaas kunnen we uw toegevoegde voertuigen en persoonsgegevens niet aan de Mercedes me-portal van het nieuwe land of de nieuwe regio overdragen. Voer deze gegevens opnieuw in.<br>Mercedes me connect is beschikbaar in het nieuwe land of de nieuwe regio.<br>Wanneer u uw voertuig toevoegt, ziet u of Mercedes me connect wordt ondersteund. Bovendien wordt u door alle stappen geleid om de services te kunnen gebruiken.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Upload, wijzig of verwijder uw profielafbeelding hier.",
+
+  "upmc.ll.yourdata.email.error":
+    "Voeg een e-mailadres toe",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobiel telefoonnummer",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "U hebt geen mobiel nummer opgegeven.",
+
+  "upmc.ll.global.CH":
+    "Zwitserland",
+
+  "upmc.ll.global.button.cancel":
+    "Annuleren",
+
+  "upmc.ll.global.CA":
+    "Canada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Nieuwe foto naar het vak slepen of met een klik op de knop selecteren.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slowakije",
+
+  "upmc.ll.global.SI":
+    "Slovenië",
+
+  "upmc.ll.global.language.ko":
+    "Koreaans",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Wegtype",
+
+  "upmc.ll.global.AT":
+    "Oostenrijk",
+
+  "upmc.ll.global.language":
+    "Taal",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Opmerking",
+
+  "upmc.ll.yourdata.name.headline":
+    "Naam",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Wachtwoord",
+
+  "upmc.ll.global.BG":
+    "Bulgarije",
+
+  "upmc.ll.global.BE":
+    "België",
+
+  "upmc.ll.global.RU":
+    "Rusland",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Belangrijk: verifieer uw e-mailadres, zodat u zich hiermee bij de Mercedes me-portal kunt aanmelden.<br>Klik hiervoor op het bewerkingspictogram en geef uw e-mailadres nogmaals op.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Postcode",
+
+  "upmc.ll.global.button.back":
+    "Vorige",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Foutmeldingscode voor hulp door klantenservice:",
+
+  "upmc.ll.global.RO":
+    "Roemenië",
+
+  "upmc.ll.global.hint.headline":
+    "Opmerking",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobiele nummers moeten zijn geverifieerd om in de Mercedes me-portal te kunnen worden gebruikt. Om mobiele nummers te verifiëren, moet u deze opnieuw vastleggen.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobiel nummer",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "In het/de nieuwe door u geselecteerde land/regio is smart control helaas niet beschikbaar. Dit houdt in dat u geen gebruik meer kunt maken van uw smart control-services.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Graag wijzen we u op het volgende:<br>Helaas kunnen wij uw toegevoegde voertuigen en persoonsgegevens niet aan de smart-portal van het nieuwe land of de nieuwe regio overdragen. Voer deze gegevens opnieuw in.<br><br>smart control is beschikbaar in het nieuwe land of de nieuwe regio.<br>Wanneer u uw voertuig toevoegt, ziet u of smart control wordt ondersteund. Bovendien wordt u door alle stappen geleid om de services te kunnen gebruiken.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "U bereikt mij het beste per",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Geverifieerd mobiel nummer",
+
+  "upmc.ll.global.language.ja":
+    "Japans",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Voer hier uw voornaam in.",
+
+  "upmc.ll.global.language.zh":
+    "Vereenvoudigd Chinees",
+
+  "upmc.ll.profile.doc.text.error":
+    "Momenteel kunnen geen wijzigingen in de instemmingsverklaring worden aangebracht. Probeer het later opnieuw.",
+
+  "upmc.ll.global.language.it":
+    "Italiaans",
+
+  "upmc.ll.global.button.print":
+    "Afdrukken",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Voeg een mobiel nummer toe",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Graag wijzen we u op het volgende:<br>Wanneer u het land of de regio wijzigt, is het mogelijk dat uw gebruikte services worden gedeactiveerd. De reden hiervoor is dat de aangeboden services en de geldende gebruiksvoorwaarden per land of regio kunnen verschillen.<br>Activeer de services in het nieuwe land of de nieuwe regio gewoon weer onder 'Services beheren'.",
+
+  "upmc.ll.global.button.confirm":
+    "Bevestigen",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Uitgebreide gegevensbescherming",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "U kunt uw opzegging ook schriftelijk per brief of fax aan ons kenbaar maken:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postbus 1456<br>6201 BL Maastricht<br>Nederland<br>Fax: +31 20 6545255",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Tweede achternaam",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Nieuwe foto met een klik op de knop selecteren.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Mobiel nummer opnieuw vastleggen en verifiëren",
+
+  "upmc.ll.global.button.send":
+    "Versturen",
+
+  "upmc.ll.yourdata.text.error":
+    "De profielgegevens zijn momenteel niet bereikbaar.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Hebt u geen e-mail ter bevestiging ontvangen? Misschien hebt u een tikfout gemaakt bij het invoeren van uw e-mailadres. Leg uw e-mailadres opnieuw vast.<br><br>Hebt u uw e-mailadres al eens met de bevestigingslink geverifieerd? Het is mogelijk dat de synchronisatie nog niet is voltooid. We verzoeken u even te wachten en vervolgens op 'Actualiseren' te klikken.",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Opmerking",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "Voor klanten die zich bij andere websites en applicaties van de Daimler-groep en zijn merken hebben geregistreerd, geldt: Als u uw gegevens hier wijzigt, worden deze wijzigingen voor alle aan het gemeenschappelijk profiel deelnemende websites en toepassingen (zoals de Mercedes me-portal en smart.com) doorgevoerd.",
+
+  "upmc.ll.global.language.hu":
+    "Hongaars",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Polen",
+
+  "upmc.ll.global.language.hr":
+    "Kroatisch",
+
+  "upmc.ll.yourdata.headline":
+    "Mijn Mercedes me ID-gegevens.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Selecteer een optie.",
+
+  "upmc.ll.yourdata.password.text":
+    "Gebruik een veilig wachtwoord en wijzig dit regelmatig.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Geboortedatum",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Vul uw volledige adres aan. Dit is noodzakelijk om de instemmingsverklaring gebruik persoonsgegevens uitsluitend aan uw persoon toe te wijzen.",
+
+  "upmc.ll.global.language.pl":
+    "Pools",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Maand",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Upload, wijzig of verwijder uw profielafbeelding hier.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Voor uw account is de uitgebreide gegevensbescherming actief. Uw gegevens zijn alleen zichtbaar voor bepaalde groepen van personen (bijvoorbeeld een speciaal supportteam) binnen Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Foto selecteren",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Kies de gewenste taal",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Met een * aangeduide velden moeten in elk geval worden ingevuld.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Graag wijzen we u op het volgende:<br>Helaas kunnen we uw toegevoegde voertuigen en persoonsgegevens niet aan de Mercedes me-portal van het nieuwe land of de nieuwe regio overdragen. Voer deze gegevens opnieuw in.<br>Let er bovendien op dat Mercedes me connect niet beschikbaar is in het nieuwe land of de nieuwe regio. Dit houdt in dat u uw connect-services niet meer kunt gebruiken.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID-kaartnummer",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Voer uw vaste telefoonnummer in.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Voer een geldige datum in.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Adresaanvulling 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Adresaanvulling 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Adresaanvulling 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Selecteer een veld.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Tweede voornaam",
+
+  "upmc.ll.global.NO":
+    "Noorwegen",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Belangrijk: verifieer uw mobiele telefoonnummer, zodat u zich hiermee bij de Mercedes me-portal kunt aanmelden.<br>Klik hiervoor op het bewerkingspictogram en geef uw mobiele telefoonnummer nogmaals op.",
+
+  "upmc.ll.global.NL":
+    "Nederland",
+
+  "upmc.ll.global.button.delete":
+    "Verwijderen",
+
+  "upmc.ll.global.button.register":
+    "Registreren",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Voornaam",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobiel telefoonnummer",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Postbus",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profielafbeelding",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Ik heb de opmerking gelezen en wil doorgaan met het opslaan.<br>De services worden gedeactiveerd.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefoon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Voor dit land of deze regio kunnen geen adresgegevens worden opgegeven, omdat de services van de Mercedes me-portal niet beschikbaar zijn in dit land of deze regio.",
+
+  "upmc.ll.global.language.no":
+    "Noors",
+
+  "upmc.ll.global.language.nl":
+    "Nederlands",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "De vermelde geboortedatum is ongeldig.<br>Controleer uw selectie.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Profielafbeelding verwijderen.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Gebruikersaccount verwijderen",
+
+  "upmc.ll.global.LV":
+    "Letland",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Opslaan en doorgaan",
+
+  "upmc.ll.global.notification.title":
+    "Belangrijk:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Huisnaam",
+
+  "upmc.ll.global.LT":
+    "Litouwen",
+
+  "upmc.ll.global.LU":
+    "Luxemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Graag wijzen we u op het volgende:<br>Mercedes me connect is beschikbaar in het nieuwe land of de nieuwe regio.<br>Of uw voertuig Mercedes me connect ondersteunt, kunt u zien door de menuoptie 'Mijn voertuigen' te openen. Voertuigen met Mercedes me connect-functie zijn daar met een pictogram en een opmerking gemarkeerd.",
+
+  "upmc.ll.global.button.close":
+    "Sluiten",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Graag wijzen we u op het volgende:<br>In het/de nieuwe door u geselecteerde land/regio is Mercedes me connect helaas niet beschikbaar. Dit houdt in dat u uw connect-services niet meer kunt gebruiken.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Voer in het veld Postcode een geldige waarde in.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Voer uw volledige geboortedatum in.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Huisnummer",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Land of regio",
+
+  "upmc.ll.global.button.login":
+    "Aanmelden",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Vast telefoonnummer",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Uitgebreide gegevensbescherming gedeactiveerd.",
+
+  "upmc.ll.global.KR":
+    "Zuid-Korea",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Vul het veld in.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "Lets",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Dit is momenteel helaas niet mogelijk.<br>Probeer het later opnieuw.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "Litouws",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Ik wil de gegevens aanvullen. De services worden gedeactiveerd.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### past niet in het gewenste formaat",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Betaalmiddelen",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Geen gegevens opgeslagen",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Creditcardnummer: ",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Vervaldatum: ",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "verlopen",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Creditcardhouder: ",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Betaalmethode toevoegen",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "verzuim",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Betalingswijzen verwijderen",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Weet u zeker dat u de betaalmethode wilt verwijderen?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "gegevensbeschermingsverklaring van Daimler Mobility Services GmbH",
+
+  "todo.upmc.ll.payment.error.general":
+    "Het spijt ons heel erg. Vanwege technische problemen kan het proces niet worden voltooid. Probeer het later opnieuw. We vragen om uw begrip.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Helaas voldoet u niet aan de leeftijdseis",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Vul de volgende gegevens aan:",
+
+  "todo.upmc.ll.hus.valid":
+    "U hebt de benodigde gegevens aangevuld.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Ongeldige link",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Wanneer u niet met de gebruiksvoorwaarden voor de Mercedes me connect- en smart control-services akkoord gaat, kunnen deze services helaas niet worden gebruikt.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Om bepaalde services en spraakgestuurde functies in het voertuig te kunnen gebruiken, moet de licentieovereenkomst van Nuance voor eindgebruikers zijn geaccepteerd en toestemming zijn verleend voor de gegevensverwerking door Nuance.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Akkoord vereist",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Klaar",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Geen rechten",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Naar website Mercedes me Store",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Door mijn registratie te vervolledigen bevestig ik dat ik de <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Privacy Policy<\/a> heb gelezen en hiermee akkoord ga.",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Voornaam komt niet met fiscaal identificatienummer overeen",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Achternaam komt niet met fiscaal identificatienummer overeen",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Geboortedatum komt niet met fiscaal identificatienummer overeen",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Uw wijziging is geslaagd. U wordt spoedig omgeleid",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me-pincode",
+
+  "upmc.ll.yourdata.pin.text":
+    "Hier kunt u de pincode voor verbinding met uw Mercedes-Benz verwijderen",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Hier kunt u de pincode voor verbinding met uw Mercedes-Benz instellen",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Uw Mercedes me-pincode verwijderen",
+
+  "upmc.ll.layer.pin.delete.request":
+    "Weet u zeker dat u de pincode wilt verwijderen?",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Deze service is momenteel helaas niet beschikbaar. Probeer het later opnieuw."
+
+}

@@ -1,0 +1,42 @@
+{
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Zip/Postal Code",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Zip/Postal Code",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Home telephone number must be entered in international format. Example: +6512345678",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobile number",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobile number",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobile number",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Please note that deletion will deactivate all services in your vehicles and all co-user rights will be withdrawn. <br> 1. You can delete your user account via link below. <br>2. You can also send us a request from the e-mail that is registered to your user account. Please include details of your date of birth and vehicle chassis number (VIN). Kindly forward your request to me-connect.sgpcac.mercedes-benz.com <br> For further assistance, kindly contact:<br> \u2022 1800 329 7540 (calling from Singapore \u2013 toll free) <br> \u2022 me-connect.sgpcac.mercedes-benz.com.",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "<br>",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Home number",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Last Name",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "You can add, alter or delete your profile image here.",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Home number",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "You have not entered a home telephone number."
+
+}

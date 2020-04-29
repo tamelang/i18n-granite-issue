@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Η Mercedes me ID σας είναι ταυτότητα σε μια διαφορετική χώρα ({0}). Θέλετε να ανακατευθυνθείτε στην εγχώρια αγορά σας.",
+
+  "loginChecks.ll.global.button.close":
+    "Άκυρo",
+
+  "loginChecks.ll.global.button.confirm":
+    "Επιβεβαιώση",
+
+  "loginChecks.ll.global.button.next":
+    "Επόμενο",
+
+  "loginChecks.ll.global.button.with.car":
+    "Με το όχημα",
+
+  "loginChecks.ll.global.button.without.car":
+    "Χωρίς αυτοκίνητο",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Επιλέξτε τον τρόπο με τον οποίο θέλετε να συμπληρώσετε τα δεδομένα του προφίλ σας.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Μεταβείτε στην προηγούμενη σελίδα",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Ολοκληρώστε την σύνδεσή σας.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Άκυρo",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Επιβεβαιώση"
+
+}

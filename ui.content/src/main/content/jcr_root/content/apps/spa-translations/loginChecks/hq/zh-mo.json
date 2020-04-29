@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.关闭global.headline.with.without.car":
+    "完成你的註冊",
+
+  "loginChecks.ll.global.button.close":
+    "關閉",
+
+  "loginChecks.ll.global.button.confirm":
+    "確認",
+
+  "loginChecks.ll.global.button.next":
+    "下一个",
+
+  "loginChecks.ll.global.button.with.car":
+    "車主註冊",
+
+  "loginChecks.ll.global.button.without.car":
+    "一般註冊",
+
+  "loginChecks.ll.global.message.market.redirect":
+    "您的\u201cMercedes me ID\u201d已在其他國家/地區註冊 ({0})。您希望被重定向到您的本地市場。",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "請選擇以下其中一項以完成你的個人資料",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "返回",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

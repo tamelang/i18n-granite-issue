@@ -1,0 +1,909 @@
+{
+
+  "upmc.ll.global.language.de":
+    "ドイツ語",
+
+  "upmc.ll.global.language.tr":
+    "トルコ語",
+
+  "upmc.ll.global.language.da":
+    "デンマーク語",
+
+  "upmc.ll.profile.useragreements":
+    "Mercedes me connect 利用規約",
+
+  "upmc.ll.global.JP":
+    "日本",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "新しい国または地域",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "Eメール",
+
+  "upmc.ll.global.button.edit":
+    "編集",
+
+  "upmc.ll.global.language.cs":
+    "チェコ語",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "選択してください",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "ご入力いただいたメールアドレスはすでに登録されています。別のメールアドレスを入力してください。<br>注意事項：1 つの Mercedes me アカウント情報に登録できるメールアドレスは 1 つのみです。",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "「###label###」を選択してください。",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "ご希望の連絡方法を選択してください。",
+
+  "upmc.ll.global.language.sv":
+    "スウェーデン語",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "自宅電話番号が入力されていません。",
+
+  "upmc.ll.global.language.sk":
+    "スロバキア語",
+
+  "upmc.ll.global.IT":
+    "イタリア",
+
+  "upmc.ll.global.language.sl":
+    "スロバキア語",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "以下の点にご注意ください。<br>残念ながら、お客様の設定した車両および個人情報を、新たに選択した国または地域の smart ポータルに転送することはできません。これらのデータを再度入力してください。<br>また、新たに選択した国または地域では、残念ながら smart control をご利用いただけないことにご注意ください。つまり、 お客様のsmart control サービスを利用できなくなります。",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "南アフリカ",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "お客様の自宅電話番号または携帯電話を入力してください。",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "名（カナ）",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "階",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "注意事項：新しい国や地域への変更を保存した場合は、お客様の完全な住所を入力できます。",
+
+  "upmc.ll.global.language.bg":
+    "ブルガリア語",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "アカウント情報を削除する",
+
+  "upmc.ll.global.language.ru":
+    "ロシア語",
+
+  "upmc.ll.yourdata.name.label.title":
+    "役職",
+
+  "upmc.ll.yourdata.email.add.again":
+    "メールアドレスを新たに登録する",
+
+  "upmc.ll.yourdata.refresh":
+    "更新する",
+
+  "upmc.ll.global.language.ro":
+    "ルーマニア語",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "ハンガリー",
+
+  "upmc.ll.global.HR":
+    "クロアチア",
+
+  "upmc.ll.global.button.submit":
+    "保存",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "###label###には最大 ###chars###文字入力できます。",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "未照合",
+
+  "upmc.ll.global.language.ar":
+    "アラビア語",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "アクティベーションコードが届きませんでしたか？携帯電話の入力時にタイプミスがあった可能性があります。その場合は、携帯電話を入力し直してください。<br><br>アクティベーションコードが届きましたか？また、これを今入力しますか？アクティベーションコードの入力は携帯電話の入力直後にしか行えませんのでご注意ください。携帯電話を入力し直してください。<br><br>アクティベーションコードはすでに入力済みですか？同期がまだ行われていない可能性があります。しばらくお待ちになってから、「更新する」をクリックしてください。",
+
+  "upmc.ll.global.IE":
+    "アイルランド",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "###label###に最低でも###chars###文字入力してください。",
+
+  "upmc.ll.global.language.af":
+    "アフリカーンス語",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "お客様のユーザーアカウントの拡張データ保護は正常に無効化されました。<br><br>拡張データ保護を再び有効にするには、お近くのメルセデス･ベンツ正規販売店までご連絡ください。",
+
+  "upmc.ll.global.AE_DU":
+    "ドバイ",
+
+  "upmc.ll.global.GR":
+    "ギリシャ",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "高度データ保護を無効にする",
+
+  "upmc.ll.global.form.address.text":
+    "お客様の住所を入力してください。",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "都道府県",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "国",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "注意事項",
+
+  "upmc.ll.profile.namechange.confirm":
+    "注意事項",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "ご入力いただいた携帯電話はすでに登録されています。別の携帯電話を入力してください。<br>注意事項：1 つの Mercedes me アカウント情報に登録できる携帯電話は 1 つのみです。",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "性別",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "生年月日を省略せずに入力してください。",
+
+  "upmc.ll.global.language.pt":
+    "ポルトガル語",
+
+  "upmc.ll.yourdata.status.loading":
+    "しばらくお待ちください。",
+
+  "upmc.ll.global.button.administration":
+    "管理",
+
+  "upmc.ll.global.AE_AZ":
+    "アブダビ",
+
+  "upmc.ll.profile.picture.position.request":
+    "スライド、拡大、縮小によって、望む画像カットを選択してください。",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "プロフィール画像を追加または変更します。",
+
+  "upmc.ll.global.FR":
+    "フランス",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "メールアドレスは、Mercedes meポータルで使用できるように照合されている必要があります。メールアドレスを照合するために、このアドレスを再度登録してください。",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "携帯電話",
+
+  "upmc.ll.global.text.today":
+    "今日",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "ここに姓を入力してください。",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me ポータル",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "自宅電話番号",
+
+  "upmc.ll.yourdata.address.label.street":
+    "大字・通称名",
+
+  "upmc.ll.global.GB":
+    "英国",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "現在、選択した言語ではコンテンツの一部をまだご利用できません。これらのコンテンツは他の言語でご提供します。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "以下の点にご注意ください。<br>新たに選択した国または地域では、smart control をご利用いただけます。",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "携帯電話が入力されていません。",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "姓",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "プロフィール写真",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "以下リンクより、ユーザーアカウントを削除することができます。アカウントを削除すると、Mercedes me Portal へのアクセスができなくなります。また、本アカウントに接続されているすべての車両において、メインユーザーおよびサブユーザー共にMercedes me connect サービスがご利用できなくなります。",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "本当に、お客様のユーザーアカウントの拡張データ保護を無効にしてもよろしいですか？<br><br>注意事項：その後、拡張データ保護を再び有効にするには、お近くのメルセデス･ベンツ正規販売店までご連絡ください。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "以下の点にご注意ください。<br>残念ながら、お客様の設定した車両、個人情報および設定を、新たに選択した国または地域のポータルに転送することはできません。<br>サービスを再びご利用いただくために、これらのデータを新しい国または地域で再度入力してください。",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "固定電話",
+
+  "upmc.ll.yourdata.address.headline":
+    "住所",
+
+  "upmc.ll.global.ES":
+    "スペイン",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "このフォームの入力内容に誤りがあります。入力内容をご確認ください。",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "メッセージが ###chars###文字を超えています！文章を短くしてください。",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "無効にする",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "年",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "ここにミドルネームを入力してください。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "テレマチック機能に必要なデータは以下のとおりです。",
+
+  "upmc.ll.global.FI":
+    "フィンランド",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "###label### に有効な値を入力してください。",
+
+  "upmc.ll.yourdata.address.label.city":
+    "市区郡町村",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "当キャンペーンは技術的問題のため、現在ご利用いただけません。恐れ入りますが、のちほど改めてお試しください。",
+
+  "upmc.ll.global.language.fr":
+    "フランス語",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "携帯電話",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "固定電話および携帯電話の番号は、国際電話番号の書式で入力してください。例: +81152123123123",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "いずれかを選択してください",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "無効化を確定します",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "メールアドレスを追加してください。",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "画像は必ず JPG あるいは PNG 形式で最大 5  MBまで、最小ピクセルサイズ 300x300 でアップロードすることができます。",
+
+  "upmc.ll.profile.headline":
+    "プロフィール。",
+
+  "upmc.ll.global.button.completelater":
+    "後で追加する",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "メールアドレスが入力されていません。",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "これらデータを入力せずに次へと、すべての車両でこれらのサービスが無効になります。お客様およびサブユーザーは、これらのサービスを利用できなくなります。",
+
+  "upmc.ll.global.language.fi":
+    "フィンランド語",
+
+  "upmc.ll.yourdata.email.add":
+    "メールアドレスを追加する",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "携帯電話を追加および照合する",
+
+  "upmc.ll.global.button.connect":
+    "接続する",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "メールでも連絡可能です",
+
+  "upmc.ll.global.DK":
+    "デンマーク",
+
+  "upmc.ll.global.form.mobile.verified":
+    "確認済み",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "このファイルはアップロードできませんでした:",
+
+  "upmc.ll.global.EE":
+    "エストニア",
+
+  "upmc.ll.global.button.next":
+    "次へ",
+
+  "upmc.ll.global.language.es":
+    "スペイン語",
+
+  "upmc.ll.global.language.et":
+    "エストニア語",
+
+  "upmc.ll.yourdata.notverified":
+    "未照合",
+
+  "upmc.ll.global.US":
+    "米国",
+
+  "upmc.ll.profile.picture.delete.request":
+    "プロフィール画像を本当に削除しますか。",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "日",
+
+  "upmc.ll.global.language.en":
+    "英語",
+
+  "upmc.ll.global.language.el":
+    "ギリシャ語",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "これらデータは以下の用途に使用されます。",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "*印は入力必須項目です。",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "住所の変更。",
+
+  "upmc.ll.yourdata.status.verified":
+    "確認済み",
+
+  "upmc.ll.global.CN":
+    "中国",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "「###label###」を入力してください。",
+
+  "upmc.ll.yourdata.reachability.email":
+    "メールアドレス",
+
+  "upmc.ll.global.TW":
+    "台湾",
+
+  "upmc.ll.global.DE":
+    "Germany（ドイツ）",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "住居番号",
+
+  "upmc.ll.global.TR":
+    "トルコ",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "郵便番号",
+
+  "upmc.ll.global.CY":
+    "キプロス",
+
+  "upmc.ll.global.CZ":
+    "チェコ共和国",
+
+  "upmc.ll.yourdata.email.missing":
+    "メールアドレスが入力されていません。",
+
+  "upmc.ll.global.SE":
+    "スウェーデン",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "以下の点にご注意ください。<br>残念ながら、お客様の設定した車両および個人情報を、新たに選択した国または地域の Mercedes me ポータルに転送することはできません。これらのデータを再度入力してください。<br>新たに選択した国または地域では Mercedes me connect をご利用いただけます。<br>お客様の車両が Mercedes me connect に対応しているかどうかは、その車両の設定時に分かります。また、サービスをご利用いただくために、すべてのステップにわたってガイドが行われます。",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "お客様のプロフィール写真を追加、変更または削除します。",
+
+  "upmc.ll.yourdata.email.error":
+    "メールアドレスを追加してください",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "携帯電話",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "携帯電話が入力されていません。",
+
+  "upmc.ll.global.CH":
+    "スイス",
+
+  "upmc.ll.global.button.cancel":
+    "キャンセル",
+
+  "upmc.ll.global.CA":
+    "カナダ",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "画像をスクリーン上へドラッグして、あるいはボタンクリックで選択します。",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "スロバキア",
+
+  "upmc.ll.global.SI":
+    "スロベニア",
+
+  "upmc.ll.global.language.ko":
+    "韓国語",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "道路の種類",
+
+  "upmc.ll.global.AT":
+    "オーストリア",
+
+  "upmc.ll.global.language":
+    "言語",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "注意事項",
+
+  "upmc.ll.yourdata.name.headline":
+    "名前",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "パスワード",
+
+  "upmc.ll.global.BG":
+    "ブルガリア",
+
+  "upmc.ll.global.BE":
+    "ベルギー",
+
+  "upmc.ll.global.RU":
+    "ロシア",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "注意事項：Mercedes me ポータルでのログイン時にメールアドレスを使用できるように、メールアドレスを照合してください。<br>それには、編集アイコンをクリックして、もう一度メールアドレスを指定してください。",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "郵便番号",
+
+  "upmc.ll.global.button.back":
+    "戻る",
+
+  "upmc.ll.global.errorid.notification.text":
+    "カスタマーサービスでの追跡に必要なエラーコード:",
+
+  "upmc.ll.global.RO":
+    "ルーマニア",
+
+  "upmc.ll.global.hint.headline":
+    "注意事項",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "携帯電話は、Mercedes meポータルで使用できるように照合されている必要があります。携帯電話を照合するために、この番号を再度登録してください。",
+
+  "upmc.ll.global.form.mobile.label":
+    "携帯電話",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "新たに選択した国または地域では、残念ながら smart control をご利用いただけません。つまり、 お客様のsmart control サービスを利用できなくなります。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "以下の点にご注意ください。<br>残念ながら、お客様の設定した車両および個人情報を、新たに選択した国または地域の smart ポータルに転送することはできません。これらのデータを再度入力してください。<br><br>新たに選択した国または地域では、smart control をご利用いただけます。<br>お客様の車両が smart control に対応しているかどうかは、その車両の設定時に分かります。また、サービスをご利用いただくために、すべてのステップにわたってガイドが行われます。",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "希望連絡方法",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "確認済み携帯電話",
+
+  "upmc.ll.global.language.ja":
+    "日本語",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "ここに名を入力してください。",
+
+  "upmc.ll.global.language.zh":
+    "中国語 (簡体字)",
+
+  "upmc.ll.profile.doc.text.error":
+    "現在、同意の意思表示を変更できません。後でもう一度お試ください。",
+
+  "upmc.ll.global.language.it":
+    "イタリア語",
+
+  "upmc.ll.global.button.print":
+    "印刷する",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "携帯電話を追加してください",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "以下の点にご注意ください。<br>国または地域を変更すると、ご利用中のサービスが無効になる場合があります。これは、提供されるサービスおよび適用される利用規約が国または地域によって異なる場合があるためです。<br>「サービスの管理」で、新しい国または地域でのサービスを有効にする必要があります。",
+
+  "upmc.ll.global.button.confirm":
+    "確定",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "拡張データ保護",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "ご不明点がございましたらメルセデスコールにお問い合わせください。<br>メルセデスコール: 0120-190-610<br>営業時間/24時間365日 年中無休<br>システムメンテナンス等によりサービスを休止する場合があります。あらかじめご了承下さい。",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "姓（カナ）",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "新しい画像をボタンクリックで選択します。",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "携帯電話を新たに登録および照合する",
+
+  "upmc.ll.global.button.send":
+    "送信する",
+
+  "upmc.ll.yourdata.text.error":
+    "現在、プロフィールに登録されている情報にアクセスできません。",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "確認のメールが届きませんでしたか？メールアドレスの入力時にタイプミスがあった可能性があります。この場合は、メールアドレスを再度登録してください。<br><br>メールアドレスを照合するために、確認用のリンクにすでにアクセスしましたか？同期がまだ行われていない可能性があります。しばらくお待ちになってから、「更新する」をクリックしてください。",
+
+  "upmc.ll.global.PT":
+    "ポルトガル",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "注意事項",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "ダイムラー・グループおよびそのブランドの他のウェブサイトで登録をしているユーザーの皆様へ: ここでユーザー情報を変更すると、共通のプロフィールを使用しているすべてのウェブページとアプリケーション(Mercedes meポータル、smart.comなど)に、この変更が適用されます。",
+
+  "upmc.ll.global.language.hu":
+    "ハンガリー語",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "ポーランド",
+
+  "upmc.ll.global.language.hr":
+    "クロアチア語",
+
+  "upmc.ll.yourdata.headline":
+    "私の Mercedes me ID データ。",
+
+  "upmc.ll.global.form.error.selectoption":
+    "オプションを 1 つ選択してください。",
+
+  "upmc.ll.yourdata.password.text":
+    "安全なパスワードを使用し、定期的に変更してください。",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "誕生日",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "住所を省略せずに入力してください。これは、個人情報保護法で定められた同意の意思表示をお客様本人と一意で結びつけるために必要です。",
+
+  "upmc.ll.global.language.pl":
+    "ポーランド語",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "月",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "お客様のプロフィール写真を追加、変更または削除します。",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "このユーザーアカウントでは、拡張データ保護機能が有効になっています。お客様のユーザー情報は、ダイムラー AG 内の限られた人物グループ (例: 専用サポートチーム) だけが閲覧できます。",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "画像の選択",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "ご希望の言語を選択する",
+
+  "upmc.ll.global.form.text.mandatory":
+    "*印は入力必須項目です。",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "以下の点にご注意ください。<br>残念ながら、お客様の設定した車両および個人情報を、新たに選択した国または地域の Mercedes me ポータルに転送することはできません。これらのデータを再度入力してください。<br>また、新たに選択した国または地域では、残念ながら Mercedes me connect をご利用いただけないことにご注意ください。つまり、 お客様のconnectサービスを利用できなくなります。",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID カード番号",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "自宅電話番号を入力してください。",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "有効な日付を入力してください。",
+
+  "upmc.ll.global.MT":
+    "マルタ",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "字名・丁目",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "建物名/部屋番号",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "アドレス追加行 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "フィールドを選択してください。",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "ミドルネーム",
+
+  "upmc.ll.global.NO":
+    "ノルウェー",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "注意事項：Mercedes me ポータルでのログイン時に携帯電話を使用できるように、携帯電話を照合してください。<br>それには、編集アイコンをクリックして、もう一度携帯電話を指定してください。",
+
+  "upmc.ll.global.NL":
+    "オランダ",
+
+  "upmc.ll.global.button.delete":
+    "削除",
+
+  "upmc.ll.global.button.register":
+    "新規ユーザー登録",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "名",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "電話番号１",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "私書箱",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "プロフィール写真",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "注意事項を読みました。保存して先に進みます。<br>サービスが無効にされました。",
+
+  "upmc.ll.yourdata.phone.headline":
+    "電話番号２",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "この国または地域では Mercedes me ポータルサービスを提供していないため、住所を入力できません。",
+
+  "upmc.ll.global.language.no":
+    "ノルウェー語",
+
+  "upmc.ll.global.language.nl":
+    "オランダ語",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "入力された生年月日は無効です。<br>選択内容をご確認ください。",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "プロフィール画像を削除します。",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "アカウント情報を削除する",
+
+  "upmc.ll.global.LV":
+    "ラトビア",
+
+  "upmc.ll.global.button.submitandproceed":
+    "保存して次に進む",
+
+  "upmc.ll.global.notification.title":
+    "注意事項：",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "建物名",
+
+  "upmc.ll.global.LT":
+    "リトアニア",
+
+  "upmc.ll.global.LU":
+    "ルクセンブルク",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "以下の点にご注意ください。<br>新たに選択した国または地域では Mercedes me connect をご利用いただけます。<br>お客様の車両が Mercedes me connect に対応しているかどうかは、メニュー項目「私の車両」を開いた時点で分かります。Mercedes me connect 機能に対応した車両には、アイコンおよび注意事項が表示されています。",
+
+  "upmc.ll.global.button.close":
+    "閉じる",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "以下の点にご注意ください。<br>新しく選択したお客様の国または地域では、残念ながら Mercedes me connect をご利用いただけません。つまり、 お客様のconnectサービスを利用できなくなります。",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "「郵便番号」フィールドに有効な値を入力してください。",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "生年月日を省略せずに入力してください。",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "番地/号",
+
+  "upmc.ll.yourdata.address.label.country":
+    "国",
+
+  "upmc.ll.global.button.login":
+    "ログイン",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "自宅電話番号",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "拡張データ保護は無効となっています。",
+
+  "upmc.ll.global.KR":
+    "韓国",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "お問い合わせ内容の入力は必須です。",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "ラトビア語",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "この操作は、残念ながら現在行えません。<br>後でもう一度、お試しください。",
+
+  "upmc.ll.global.LI":
+    "リヒテンシュタイン",
+
+  "upmc.ll.global.language.lt":
+    "リトアニア語",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "データを追加します。サービスが無効にされました。",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "お支払方法",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "データが保存されていません",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "クレジットカード番号",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "有効期限",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "期限切れ",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "クレジットカード所有者：",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "お支払い方法を追加する",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "デフォルト",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "お支払い方法を削除する",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "お支払い方法を本当に削除しますか(**** **** **** ###桁###)？",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Daimler Mobility Services GmbH プライバシー ステートメントをご覧ください。",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "残念ながらあなたは年齢制限を満たしていません",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Please complete your profile information:",
+
+  "todo.upmc.ll.hus.valid":
+    "Your profile has all needed information!",
+
+  "todo.upmc.ll.hus.notoken":
+    "Error: No token found.",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.general_ua",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "Please translate upmc.ll.hus.error.consent_required.message.other_ua",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Please translate upmc.ll.hus.error.consent_required.headline",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Done",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Please translate todo.upmc.ll.hus.notentitled",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "名前と個人納税者番号が一致しません",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "苗字と個人納税者番号が一致しません",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "生年月日と個人納税者番号が一致しません",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "変更は成功しました。まもなくリダイレクトされます",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "ここでPINを削除して、お客様のメルセデス・ベンツに接続できます",
+
+  "upmc.ll.yourdata.pin.empty":
+    "ここでPINを設定して、お客様のメルセデス・ベンツに接続できます",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Mercedes me PINを削除します",
+
+  "upmc.ll.layer.pin.delete.request":
+    "本当にPINを削除しますか? ",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "申し訳ありません。このサービスは現在ご利用いただけません。後でもう一度お試しください。"
+
+}

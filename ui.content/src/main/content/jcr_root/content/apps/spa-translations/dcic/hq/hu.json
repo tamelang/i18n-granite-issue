@@ -1,0 +1,33 @@
+{
+
+  "dcic.ll.overview.headline.salesdealer":
+    "Az Ön tanácsadási és vásárlási kapcsolattartója.",
+
+  "dcic.ll.overview.headline.servicedealer":
+    "Az Ön kapcsolattartója a szerviz és használt gépkocsik területén",
+
+  "dcic.ll.overview.info.message.dealernotselected":
+    "You have not yet selected a Mercedes-Benz dealer.",
+
+  "dcic.ll.overview.info.message.selectdealernow.link":
+    "Mercedes-Benz partner kiválasztása",
+
+  "dcic.ll.overview.info.message.selectdealernow.text":
+    "A \"Mercedes me\" előnyeinek teljes körű kihasználásához válasszon ki egy Mercedes-Benz partnert.",
+
+  "dcic.ll.overview.info.dealer.links.locationplan":
+    "Helyszínterv",
+
+  "dcic.ll.overview.info.dealer.links.website":
+    "Kereskedő honlapja",
+
+  "dcic.ll.overview.title":
+    "Az Ön Mercedes-Benz partnere.",
+
+  "dcic.ll.overview.info.dealer.links.contactform":
+    "Kérdés küldése",
+
+  "dcic.ll.overview.info.links.changepartner":
+    "Változtassa meg a Mercedes-Benz partnert"
+
+}

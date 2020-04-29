@@ -1,0 +1,45 @@
+{
+
+  "loginChecks.ll.global.message.market.redirect":
+    "Su Mercedes me ID está registrada en un país diferente ({0}). Quieres ser redirigido a tu mercado doméstico.",
+
+  "loginChecks.ll.global.button.close":
+    "Cerrar",
+
+  "loginChecks.ll.global.button.confirm":
+    "Confirmar",
+
+  "loginChecks.ll.global.button.next":
+    "Siguiente",
+
+  "loginChecks.ll.global.button.with.car":
+    "Con vehículo",
+
+  "loginChecks.ll.global.button.without.car":
+    "Sin vehículo",
+
+  "loginChecks.ll.global.message.with.without.car":
+    "Por favor, elige cómo quieres completar tus datos de perfil.",
+
+  "loginChecks.ll.profile.button.with.car":
+    "Please go ahead with the registration of your cars",
+
+  "loginChecks.ll.profile.button.without.car":
+    "Ir a la página anterior",
+
+  "loginChecks.ll.global.headline.with.without.car":
+    "Complete su registro.",
+
+  "loginChecks.ll.global.headline.login.after.register.by.dealer":
+    "Welcome to Mercedes Me",
+
+  "loginChecks.ll.global.message.login.after.register.by.dealer":
+    "Please complete in only few steps your user account and if necessary all mandatory data for activating your Mercedes me connect services.",
+
+  "loginChecks.ll.global.button.cancel.login.after.register.by.dealer":
+    "Cancel",
+
+  "loginChecks.ll.global.button.confirm.login.after.register.by.dealer":
+    "Confirm"
+
+}

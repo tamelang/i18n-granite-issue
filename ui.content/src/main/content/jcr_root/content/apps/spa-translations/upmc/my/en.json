@@ -1,0 +1,27 @@
+{
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Did you not receive an activation code? Is it possible that you could have mistyped your mobile phone number? If so, please re-enter your mobile phone number.<br><br>Do you want to enter the activation code you received now? Please note that you can only enter the activation code when entering your mobile phone number. Please re-enter your mobile phone number.<br><br>Have you already successfully entered the activation code? Synchronisation may not yet be complete. Please wait a moment, then click on \"Update\".",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Salutation",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Telephone",
+
+  "upmc.ll.yourdata.reachability.email":
+    "Email",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Please note that deletion will deactivate all services in your vehicles and all co-user rights will be withdrawn.",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "1. You can delete your user account via the link below.<br>\n2. You can also send us a request from the e-mail that is registered to your user account. Please include details of your date of birth and vehicle chassis number (VIN). Kindly forward your request to <a href=\"mailto:me-connect.myscac.mercedes-benz.com\">me-connect.myscac.mercedes-benz.com<\/a><br>\n<br>\nFor further assistance, kindly contact:<br>\nCustomer Care Centre<br>\nToll Free Number: 1-800-88-1133<br>\nE-Mail: <a href=\"mailto:me-connect.myscac.mercedes-benz.com\">me-connect.myscac.mercedes-benz.com<\/a>\n",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Landline and mobile telephone numbers must be entered in international format. Example: +60134208057.",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Please select or start typing"
+
+}

@@ -1,0 +1,918 @@
+{
+
+  "upmc.ll.global.language.de":
+    "tysk",
+
+  "upmc.ll.global.language.tr":
+    "tyrkisk",
+
+  "upmc.ll.global.language.da":
+    "dansk",
+
+  "upmc.ll.profile.useragreements":
+    "Bruksvilkår",
+
+  "upmc.ll.global.JP":
+    "Japan",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.label":
+    "Nytt land eller region",
+
+  "upmc.ll.yourdata.emailaddress.headline":
+    "E-postadresse",
+
+  "upmc.ll.global.button.edit":
+    "Rediger",
+
+  "upmc.ll.global.language.cs":
+    "tsjekkisk",
+
+  "upmc.ll.global.dropdown.pleaseselect":
+    "Velg",
+
+  "upmc.ll.manageprofile.error.duplicateemail":
+    "Denne e-postadressen finnes allerede. Oppgi en annen e-postadresse.<br>Viktig: Hver enkelt e-postadresse kan bare tilordnes til én Mercedes me-brukerkonto.",
+
+  "upmc.ll.global.form.errorwithplaceholders.choosefield":
+    "Velg felt ###label###.",
+
+  "upmc.ll.global.form.error.selectcommunicationchannel":
+    "Velg minst én kontaktbane.",
+
+  "upmc.ll.global.language.sv":
+    "svensk",
+
+  "upmc.ll.yourdata.address.text.phone.empty":
+    "Du har ikke oppgitt noe fasttelefonnummer.",
+
+  "upmc.ll.global.language.sk":
+    "slovakisk",
+
+  "upmc.ll.global.IT":
+    "Italia",
+
+  "upmc.ll.global.language.sl":
+    "slovakisk",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.smart":
+    "Merk:<br>Dessverre kan vi ikke overføre dine biler og personlige data til smart-portalen i det nye landet eller regionen. Oppgi dataene på nytt.<br>Vær dessuten oppmerksom på at smart control dessverre ikke er tilgjengelig i ditt nye land eller region. Det betyr Du kan ikke lenger bruke smart control-tjenestene dine.",
+
+  "upmc.ll.loading":
+    "Lade Benutzerdaten ...",
+
+  "upmc.ll.global.ZA":
+    "Sør-Afrika",
+
+  "upmc.ll.global.form.error.phoneblock.invalid":
+    "Angi ditt fastnummer eller mobilnummer.",
+
+  "upmc.ll.manageprofile.form.label.nameprefix":
+    "Tillegg til navnet",
+
+  "upmc.ll.manageprofile.form.address.label.floorno":
+    "Gårds- og bruksnummer",
+
+  "upmc.ll.yourdata.country.hint.text":
+    "Viktig: Du kan oppgi din fullstendige adresse når du har lagret valget av et nytt land eller region.",
+
+  "upmc.ll.global.language.bg":
+    "bulgarsk",
+
+  "upmc.ll.yourdata.deleteregistration.headline":
+    "Slett brukerkonto",
+
+  "upmc.ll.global.language.ru":
+    "russisk",
+
+  "upmc.ll.yourdata.name.label.title":
+    "Tittel",
+
+  "upmc.ll.yourdata.email.add.again":
+    "Registrer e-postadresse på nytt",
+
+  "upmc.ll.yourdata.refresh":
+    "Oppdater",
+
+  "upmc.ll.global.language.ro":
+    "rumensk",
+
+  "upmc.ll.global.form.birthdate.hint":
+    "Please indicate the birth date according to the passport.",
+
+  "upmc.ll.global.HU":
+    "Ungarn",
+
+  "upmc.ll.global.HR":
+    "Kroatia",
+
+  "upmc.ll.global.button.submit":
+    "Lagre",
+
+  "upmc.ll.global.form.errorwithplaceholders.maximumchars":
+    "For ###label### kan det maksimalt angis ###chars### tegn.",
+
+  "upmc.ll.yourdata.status.not.verified":
+    "ikke verifisert",
+
+  "upmc.ll.global.language.ar":
+    "arabisk",
+
+  "upmc.ll.yourdata.form.cellphone.noactivationcode":
+    "Har du ikke mottatt noen aktiveringskode? Kanskje har du tastet inn feil mobilnummer. Registrer i så fall mobilnummeret ditt på nytt.<br><br>Har du mottatt aktiveringskoden og vil legge den inn nå? Merk at aktiveringskoden bare kan legges inn umiddelbart i forbindelse med registrering av mobilnummeret. Registrer mobilnummer på nytt.<br><br>Har du lagt inn aktiveringskoden allerede? Det er mulig at synkroniseringen ikke er fullført ennå. Vent litt og klikk så på \"Oppdater\".",
+
+  "upmc.ll.global.IE":
+    "Irland",
+
+  "upmc.ll.global.form.errorwithplaceholders.minimumchars":
+    "For ###label### må minst ###chars### tegn angis.",
+
+  "upmc.ll.global.language.af":
+    "afrikaans",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.text":
+    "Deaktiveringen av utvidet datavern for din brukerkonto var vellykket.<br><br>Hvis du vil reaktivere utvidet datavern, ta kontakt med en Mercedes-Benz forhandler.",
+
+  "upmc.ll.global.AE_DU":
+    "Dubai",
+
+  "upmc.ll.global.GR":
+    "Hellas",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.headline":
+    "Deaktivere utvidet datavern.",
+
+  "upmc.ll.global.form.address.text":
+    "Skriv inn din faste adresse.",
+
+  "upmc.ll.manageprofile.form.address.label.province":
+    "Forbundsstat",
+
+  "upmc.ll.manageprofile.form.address.label.state":
+    "Stat",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.title":
+    "Merk",
+
+  "upmc.ll.profile.namechange.confirm":
+    "Merk",
+
+  "upmc.ll.global.XX":
+    "International Site",
+
+  "upmc.ll.manageprofile.error.duplicatemobile":
+    "Dette mobilnummeret finnes allerede. Oppgi et annet mobilnummer.<br>Viktig: Hvert enkelt mobilnummer kan bare tilordnes til én Mercedes me-brukerkonto.",
+
+  "upmc.ll.yourdata.name.label.salutation":
+    "Tiltale",
+
+  "upmc.ll.yourdata.dateofbirth.text.empty":
+    "Angi fullstendig fødselsdato.",
+
+  "upmc.ll.global.language.pt":
+    "portugisisk",
+
+  "upmc.ll.yourdata.status.loading":
+    "Vent litt.",
+
+  "upmc.ll.global.button.administration":
+    "Administrasjon",
+
+  "upmc.ll.global.AE_AZ":
+    "Abu Dhabi",
+
+  "upmc.ll.profile.picture.position.request":
+    "Velg ønsket bildeutsnitt ved å forskyve, forstørre eller forminske.",
+
+  "upmc.ll.layer.profile.picture.upload.area.subjoin.image":
+    "Supplere eller erstatte profilbilde.",
+
+  "upmc.ll.global.FR":
+    "Frankrike",
+
+  "upmc.ll.yourdata.email.not.verified.text":
+    "E-postadresser må være bekreftet for å kunne brukes i Mercedes me-portalen. For å bekrefte e-postadressen må du registrere den på nytt.",
+
+  "upmc.ll.yourdata.reachability.mobile":
+    "Mobilnummer",
+
+  "upmc.ll.global.text.today":
+    "I dag",
+
+  "upmc.ll.global.form.hint.name.text.lastname":
+    "Angi etternavn her.",
+
+  "upmc.ll.global.ios.webapp.title":
+    "Mercedes me-portalen",
+
+  "upmc.ll.yourdata.reachability.phone":
+    "Fasttelefonnummer",
+
+  "upmc.ll.yourdata.address.label.street":
+    "Gate/vei",
+
+  "upmc.ll.global.GB":
+    "Storbritannia",
+
+  "upmc.ll.layer.language.hint.information.running.text":
+    "For øyeblikket er ikke alt innholdet oversatt til språket du har valgt. Dette innholdet viser vi deg på et annet språk.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.smart":
+    "Merk:<br>Smart control er tilgjengelig i ditt nye land eller region.",
+
+  "upmc.ll.yourdata.cellphone.missing":
+    "Du har ikke oppgitt mobiltelefonnummer.",
+
+  "upmc.ll.yourdata.name.label.lastname":
+    "Etternavn",
+
+  "upmc.ll.profile.picture.headline.dataspace":
+    "Profilbilde",
+
+  "upmc.ll.yourdata.deleteregistration.text.one":
+    "Du kan slette din brukerkonto via lenken nedenfor. Vær oppmerksom på at slettingen fører til at alle tjenester i bilene dine deaktiveres, og at samtlige rettigheter for medbrukere oppheves.",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.text":
+    "Er du sikker på at du vil deaktivere utvidet datavern for din brukerkonto?<br><br>Viktig: Hvis du vil reaktivere utvidet datavern etterpå, ta kontakt med din Mercedes-Benz forhandler.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case3.hint.text":
+    "Merk:<br>Dessverre kan vi ikke overføre dine biler, personlige data og innstillinger til portalen i det nye landet eller regionen.<br>Du må oppgi disse dataene på nytt i det nye landet eller regionen for å kunne bruke tjenestene igjen.",
+
+  "upmc.ll.yourdata.address.label.phone":
+    "Fasttelefonnummer",
+
+  "upmc.ll.yourdata.address.headline":
+    "Adresse",
+
+  "upmc.ll.global.ES":
+    "Spania",
+
+  "upmc.ll.profile.formdata.incorrect":
+    "Skjemaet er ikke korrekt utfylt. Vennligst kontroller inndataene.",
+
+  "upmc.ll.global.form.errorwithplaceholders.onlymaximumchars":
+    "Meldingen inneholder mer enn ###chars### tegn! Kort ned teksten.",
+
+  "upmc.ll.yourdata.extendeddataprotection.deactivate.link":
+    "Deaktiver",
+
+  "upmc.ll.global.form.birthdate.dropdown.year":
+    "År",
+
+  "upmc.ll.global.form.hint.name.text.middlename":
+    "Angi ditt andre fornavn her.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.fields":
+    "Følgende opplysninger er nødvendige for telematikkfunksjoner:",
+
+  "upmc.ll.global.FI":
+    "Finland",
+
+  "upmc.ll.global.form.errorwithplaceholders.entervalidvalue":
+    "Angi en gyldig verdi for ###label###.",
+
+  "upmc.ll.yourdata.address.label.city":
+    "Sted",
+
+  "upmc.ll.inbox.otr.layer.error.message":
+    "Dette er ikke mulig på grunn av et teknisk problem, prøv på nytt senere.",
+
+  "upmc.ll.global.language.fr":
+    "fransk",
+
+  "upmc.ll.yourdata.address.label.mobilephone":
+    "Mobilnummer",
+
+  "upmc.ll.profile.formdata.phonenumber_needs_update":
+    "Fasttelefon- og mobilnummer må angis i internasjonalt format. Eksempel: +47152123123123.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.text":
+    "Gjør et utvalg",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.hint.button.confirm":
+    "Bekrefte deaktivering",
+
+  "upmc.ll.global.form.error.emailblock.invalid":
+    "Legg til en e-postadresse.",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint.image.specs":
+    "Du kan bare laste opp bilder i formatene JPG eller PNG, med maks. 5 MB og med min. størrelse på 300x300 piksler.",
+
+  "upmc.ll.profile.headline":
+    "Min profil.",
+
+  "upmc.ll.global.button.completelater":
+    "Legge til senere",
+
+  "upmc.ll.global.form.phone.error.noemail":
+    "Du har ikke oppgitt noen e-postadresse.",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text":
+    "Hvis du fortsetter uten disse opplysningene, blir disse tjenestene deaktivert i alle biler. Du og dine medbrukere kan da ikke lenger benytte dem.",
+
+  "upmc.ll.global.language.fi":
+    "finsk",
+
+  "upmc.ll.yourdata.email.add":
+    "Legg til en e-postadresse",
+
+  "upmc.ll.yourdata.cellphone.add":
+    "Legg til og bekreft mobilnummer",
+
+  "upmc.ll.global.button.connect":
+    "Koble til",
+
+  "upmc.ll.yourdata.reachability.email.remark":
+    "Dere kan også kontakte meg på e-post",
+
+  "upmc.ll.global.DK":
+    "Danmark",
+
+  "upmc.ll.global.form.mobile.verified":
+    "verifisert",
+
+  "upmc.ll.layer.profile.picture.upload.error.hint":
+    "Denne filen kunne ikke lastes opp:",
+
+  "upmc.ll.global.EE":
+    "Estland",
+
+  "upmc.ll.global.button.next":
+    "Fortsett",
+
+  "upmc.ll.global.language.es":
+    "spansk",
+
+  "upmc.ll.global.language.et":
+    "estisk",
+
+  "upmc.ll.yourdata.notverified":
+    "ikke verifisert",
+
+  "upmc.ll.global.US":
+    "USA",
+
+  "upmc.ll.profile.picture.delete.request":
+    "Er du sikker på at du vil slette profilbildet?",
+
+  "upmc.ll.global.form.birthdate.dropdown.day":
+    "Dag",
+
+  "upmc.ll.global.language.en":
+    "engelsk",
+
+  "upmc.ll.global.language.el":
+    "gresk",
+
+  "upmc.ll.profile.servicespecificfields.confirm.hint.text.services":
+    "Disse opplysningene trengs til:",
+
+  "upmc.ll.yourdata.text.mandatorydata":
+    "Felt merket med * må alltid fylles ut.",
+
+  "upmc.ll.profile.adresscountrychange.confirm.title":
+    "Endring i din adresse.",
+
+  "upmc.ll.yourdata.status.verified":
+    "verifisert",
+
+  "upmc.ll.global.CN":
+    "Kina",
+
+  "upmc.ll.global.form.errorwithplaceholders.fillmandatory":
+    "Fyll ut feltet ###label###.",
+
+  "upmc.ll.yourdata.reachability.email":
+    "E-postadresse",
+
+  "upmc.ll.global.TW":
+    "Taiwan",
+
+  "upmc.ll.global.DE":
+    "Tyskland",
+
+  "upmc.ll.manageprofile.form.address.label.doorno":
+    "Dørnummer",
+
+  "upmc.ll.global.TR":
+    "Tyrkia",
+
+  "upmc.ll.yourdata.address.label.postcode":
+    "Postnummer",
+
+  "upmc.ll.global.CY":
+    "Republikk Kypros",
+
+  "upmc.ll.global.CZ":
+    "Tsjekkia",
+
+  "upmc.ll.yourdata.email.missing":
+    "Du har ikke oppgitt noen e-postadresse.",
+
+  "upmc.ll.global.SE":
+    "Sverige",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.mercedes":
+    "Merk:<br>Dessverre kan vi ikke overføre dine biler og personlige data til Mercedes me-portalen i det nye landet eller regionen. Oppgi dataene på nytt.<br>I ditt nye land eller region er Mercedes me connect tilgjengelig.<br>Når du legger til bilen, får du vite om den støtter Mercedes me connect. Du blir også veiledet gjennom alle trinnene for å kunne bruke tjenestene.",
+
+  "upmc.ll.profile.picture.driver.headunit":
+    "Kompletter, endre eller slett profilbildet ditt her.",
+
+  "upmc.ll.yourdata.email.error":
+    "Legg til en e-postadresse",
+
+  "upmc.ll.yourdata.mobilephone.headline":
+    "Mobilnummer",
+
+  "upmc.ll.global.form.phone.error.nomobile":
+    "Du har ikke oppgitt noe mobilnummer.",
+
+  "upmc.ll.global.CH":
+    "Sveits",
+
+  "upmc.ll.global.button.cancel":
+    "Avbryt",
+
+  "upmc.ll.global.CA":
+    "Canada",
+
+  "upmc.ll.layer.profile.picture.upload.area.space.hint":
+    "Trekk nytt bilde til flaten eller velg ved å klikke på knappen.",
+
+  "upmc.ll.profile.picture.save":
+    "Speichern",
+
+  "upmc.ll.global.SK":
+    "Slovakia",
+
+  "upmc.ll.global.SI":
+    "Slovenia",
+
+  "upmc.ll.global.language.ko":
+    "koreansk",
+
+  "upmc.ll.manageprofile.form.address.label.streettype":
+    "Gatetype",
+
+  "upmc.ll.global.AT":
+    "Østerrike",
+
+  "upmc.ll.global.language":
+    "Språk",
+
+  "upmc.ll.profile.adresscountrychange.confirm.hint.title":
+    "Merk",
+
+  "upmc.ll.yourdata.name.headline":
+    "Navn",
+
+  "upmc.ll.login":
+    "Bitte loggen Sie sich ein.",
+
+  "upmc.ll.yourdata.password.headline":
+    "Passord",
+
+  "upmc.ll.global.BG":
+    "Bulgaria",
+
+  "upmc.ll.global.BE":
+    "Belgia",
+
+  "upmc.ll.global.RU":
+    "Russland",
+
+  "upmc.ll.yourdata.emailaddress.info.noidentifier":
+    "Viktig: Verifiser e-postadressen din for å kunne bruke den ved innlogging i Mercedes me-portalen.<br>Klikk på Rediger-symbolet, og skriv inn e-postadressen din på nytt.",
+
+  "upmc.ll.global.form.address.label.postalcode":
+    "Postnummer",
+
+  "upmc.ll.global.button.back":
+    "Tilbake",
+
+  "upmc.ll.global.errorid.notification.text":
+    "Feilkode for oppfølging hos kundeservice:",
+
+  "upmc.ll.global.RO":
+    "Romania",
+
+  "upmc.ll.global.hint.headline":
+    "Merk",
+
+  "upmc.ll.yourdata.form.cellphone.update":
+    "Mobilnumre må være verifisert for å kunne brukes i Mercedes me-portalen. Registrer mobilnumre på nytt for å verifisere dem.",
+
+  "upmc.ll.global.form.mobile.label":
+    "Mobilnummer",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.smart":
+    "Smart control er dessverre ikke tilgjengelig i ditt nye land eller region. Det betyr Du kan ikke lenger bruke smart control-tjenestene dine.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case7.hint.text.smart":
+    "Merk:<br>Dessverre kan vi ikke overføre dine biler og personlige data til smart-portalen i det nye landet eller regionen. Oppgi dataene på nytt.<br><br>Smart control er tilgjengelig i ditt nye land eller region.<br>Når du legger inn bilen, får du vite om den støtter smart control. Du blir også veiledet gjennom alle trinnene for å kunne bruke tjenestene.",
+
+  "upmc.ll.yourdata.reachability.headline":
+    "Jeg er lettest å nå via",
+
+  "upmc.ll.yourdata.phone.label.mobilephoneverified":
+    "Verifisert mobilnummer",
+
+  "upmc.ll.global.language.ja":
+    "japansk",
+
+  "upmc.ll.global.form.hint.name.text.firstname":
+    "Angi fornavn her.",
+
+  "upmc.ll.global.language.zh":
+    "forenklet kinesisk",
+
+  "upmc.ll.profile.doc.text.error":
+    "Det er i øyeblikket ikke mulig å foreta endringer i samtykkeerklæringen. Prøv igjen senere.",
+
+  "upmc.ll.global.language.it":
+    "italiensk",
+
+  "upmc.ll.global.button.print":
+    "Skriv ut",
+
+  "upmc.ll.yourdata.cellphone.error":
+    "Legg til et mobilnummer",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case1.hint.text":
+    "Merk:<br>Hvis du bytter land eller region, deaktiveres eventuelt tjenestene du bruker. Grunnen til dette er at tjenestene som tilbys, og de gjeldende bruksvilkårene kan være forskjellige fra land eller region til land eller region.<br>Aktiver bare tjenestene i det nye landet eller regionen igjen under \"Administrere tjenester\".",
+
+  "upmc.ll.global.button.confirm":
+    "Bekreft",
+
+  "upmc.ll.yourdata.extendeddataprotection.headline":
+    "Forbedret personvern",
+
+  "upmc.ll.yourdata.deleteregistration.text.two":
+    "Du kan også sende oss ønsket om oppsigelse skriftlig per brev eller telefaks:<br>Mercedes-Benz<br>Customer Assistance Center Maastricht N.V.<br>Postfach 1456<br>6201 BL Maastricht<br>Niederlande<br>Faks: -",
+
+  "upmc.ll.yourdata.name.label.secondlastname":
+    "Andre etternavn",
+
+  "upmc.ll.layer.profile.picture.upload.area.first.add.picture":
+    "Velg nytt bilde ved å klikke på knappen.",
+
+  "upmc.ll.yourdata.cellphone.add.again":
+    "Registrer og verifiser mobilnummeret ditt på nytt",
+
+  "upmc.ll.global.button.send":
+    "Send",
+
+  "upmc.ll.yourdata.text.error":
+    "I øyeblikket har du dessverre ikke tilgang til profildataene.",
+
+  "upmc.ll.yourdata.form.email.nomailreceived":
+    "Har du ikke mottatt noen bekreftelses-epost? Muligens har det sneket seg inn en skrivefeil i e-postadressen din. Registrer i så fall e-postadressen din på nytt.<br><br>Har du allerede klikket på bekreftelseslenken for å verifisere e-postadressen din? Det er mulig at synkroniseringen ikke er fullført ennå. Vent litt og klikk så på \"Oppdater\".",
+
+  "upmc.ll.global.PT":
+    "Portugal",
+
+  "upmc.ll.profile.picture.cancel":
+    "Abbrechen",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.headline":
+    "Merk",
+
+  "upmc.ll.yourdata.sharedprofile.warning":
+    "For kunder som er registrert via andre nettsteder og apper fra Daimler-konsernet og dets merker gjelder: Endrer du dataene dine her, utføres endringene på alle nettsteder og apper (f.eks. Mercedes me-portalen og smart.com) hvor denne profilen brukes.",
+
+  "upmc.ll.global.language.hu":
+    "ungarsk",
+
+  "upmc.ll.global.qualifier.mandatory":
+    " *",
+
+  "upmc.ll.global.PL":
+    "Polen",
+
+  "upmc.ll.global.language.hr":
+    "kroatisk",
+
+  "upmc.ll.yourdata.headline":
+    "Mine data hos Mercedes me ID.",
+
+  "upmc.ll.global.form.error.selectoption":
+    "Velg et alternativ.",
+
+  "upmc.ll.yourdata.password.text":
+    "Bruk et sikkert passord som du endrer regelmessig.",
+
+  "upmc.ll.yourdata.dateofbirth.headline":
+    "Fødselsdato",
+
+  "upmc.ll.manageprofile.blockdoc.noaddress.text":
+    "Kompletter adressen din. Dette er nødvendig for å kunne tilordne den juridiske samtykkeerklæringen for personvern til din person.",
+
+  "upmc.ll.global.language.pl":
+    "polsk",
+
+  "upmc.ll.global.form.birthdate.dropdown.month":
+    "Måned",
+
+  "upmc.ll.profile.picture.upload.driver.picture":
+    "Kompletter, endre eller slett profilbildet ditt her.",
+
+  "upmc.ll.yourdata.extendeddataprotection.text":
+    "Forbedret personvern er aktivert i din brukerkonto. Dine data er kun synlige for utvalgte persongrupper (f.eks. et spesielt supportteam) i Daimler AG.",
+
+  "upmc.ll.layer.profile.picture.upload.button.picture.decision":
+    "Velg bilde",
+
+  "upmc.ll.adresscountrychange.language.select":
+    "Velg ønsket språk",
+
+  "upmc.ll.global.form.text.mandatory":
+    "Felt merket med * må alltid fylles ut.",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case5.hint.text.mercedes":
+    "Merk:<br>Dessverre kan vi ikke overføre dine biler og personlige data til Mercedes me-portalen i det nye landet eller regionen. Oppgi dataene på nytt.<br>Vær også oppmerksom på at Mercedes me connect dessverre ikke er tilgjengelig i ditt nye land eller region. Det betyr Du kan ikke lenger bruke connect-tjenestene dine.",
+
+  "upmc.ll.yourdata.idcardnumber.headline":
+    "ID card number",
+
+  "upmc.ll.global.form.landlinephone.fieldhint":
+    "Vennligst angi ditt fastnummer.",
+
+  "upmc.ll.global.form.error.date.invalid":
+    "Oppgi en gyldig dato.",
+
+  "upmc.ll.global.MT":
+    "Malta",
+
+  "upmc.ll.manageprofile.form.address.label.addressline1":
+    "Ekstra adresselinje 1",
+
+  "upmc.ll.manageprofile.form.address.label.addressline2":
+    "Ekstra adresselinje 2",
+
+  "upmc.ll.manageprofile.form.address.label.addressline3":
+    "Ekstra adresselinje 3",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.choosefield":
+    "Velg felt.",
+
+  "upmc.ll.manageprofile.form.label.middleinitial":
+    "Andre fornavn",
+
+  "upmc.ll.global.NO":
+    "Norge",
+
+  "upmc.ll.yourdata.mobilephone.info.noidentifier":
+    "Viktig: Verifiser mobilnummeret ditt for å kunne bruke det ved innlogging i Mercedes me-portalen.<br>Klikk på Rediger-symbolet, og skriv inn mobilnummeret ditt på nytt.",
+
+  "upmc.ll.global.NL":
+    "Nederland",
+
+  "upmc.ll.global.button.delete":
+    "Slett",
+
+  "upmc.ll.global.button.register":
+    "Registrer",
+
+  "upmc.ll.yourdata.name.label.firstname":
+    "Fornavn",
+
+  "upmc.ll.global.form.phone.label.mobile":
+    "Mobilnummer",
+
+  "upmc.ll.yourdata.address.label.postofficebox":
+    "Postboks",
+
+  "upmc.ll.profile.picture.driver.headline":
+    "Profilbilde",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.continue":
+    "Jeg har lest merknaden og vil fortsette å lagre.<br>Tjenester blir deaktivert.",
+
+  "upmc.ll.yourdata.phone.headline":
+    "Telefon",
+
+  "upmc.ll.manageprofile.form.adress.note.nocpddata":
+    "Adressedata kan ikke angis for dette landet eller regionen fordi tjenestene i Mercedes me-portalen ikke er tilgjengelige i dette landet.",
+
+  "upmc.ll.global.language.no":
+    "norsk",
+
+  "upmc.ll.global.language.nl":
+    "nederlandsk",
+
+  "upmc.ll.yourdata.dateofbirth.text.error":
+    "Angitt fødselsdato er ugyldig.<br>Kontroller opplysningene du har valgt.",
+
+  "upmc.ll.layer.profile.picture.delete.headline":
+    "Slette profilbilde.",
+
+  "upmc.ll.yourdata.deleteregistration.link":
+    "Slett brukerkonto",
+
+  "upmc.ll.global.LV":
+    "Latvia",
+
+  "upmc.ll.global.button.submitandproceed":
+    "Lagre og gå videre",
+
+  "upmc.ll.global.notification.title":
+    "Viktig:",
+
+  "upmc.ll.manageprofile.form.address.label.housename":
+    "Husnavn",
+
+  "upmc.ll.global.LT":
+    "Litauen",
+
+  "upmc.ll.global.LU":
+    "Luxemburg",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case6.hint.text.mercedes":
+    "Merk:<br>I ditt nye land eller region er Mercedes me connect tilgjengelig.<br>Om bilen din støtter Mercedes me connect, ser du når du åpner menypunktet \"Mine biler\". Biler med Mercedes me connect-funksjon er merket med et ikon og en henvisningstekst.",
+
+  "upmc.ll.global.button.close":
+    "Lukk",
+
+  "upmc.ll.profile.adresscountrychange.newcountry.case4.hint.text.mercedes":
+    "Merk:<br>Mercedes me connect er dessverre ikke tilgjengelig i ditt nye land eller region. Det betyr Du kan ikke lenger bruke connect-tjenestene dine.",
+
+  "upmc.ll.global.form.error.address.text.postcode.invalid":
+    "Skriv inn en gyldig verdi i feltet Postnummer.",
+
+  "upmc.ll.global.form.error.birthdate.text.invalid":
+    "Angi fullstendig fødselsdato.",
+
+  "upmc.ll.yourdata.address.label.housenumber":
+    "Husnummer",
+
+  "upmc.ll.yourdata.address.label.country":
+    "Land eller region",
+
+  "upmc.ll.global.button.login":
+    "Logg inn",
+
+  "upmc.ll.yourdata.landlinephone.headline":
+    "Fasttelefonnummer",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.confirmation.headline":
+    "Utvidet datavern er deaktivert.",
+
+  "upmc.ll.global.KR":
+    "Sør-Korea",
+
+  "upmc.ll.global.form.errorwithoutplaceholders.fillmandatory":
+    "Fyll ut feltet.",
+
+  "upmc.ll.global.button.ok":
+    "OK",
+
+  "upmc.ll.global.language.lv":
+    "latvisk",
+
+  "upmc.ll.yourdata.extendeddataprotection.layer.error.text":
+    "Prosessen er for tiden dessverre ikke mulig.<br>Prøv igjen senere.",
+
+  "upmc.ll.global.LI":
+    "Liechtenstein",
+
+  "upmc.ll.global.language.lt":
+    "litauisk",
+
+  "upmc.ll.profile.servicespecificfields.radio.label.edit":
+    "Jeg vil gjerne komplettere opplysningene. Tjenester blir deaktivert.",
+
+  "todo.upmc.ll.error.pattern":
+    "###label### doesn't fit to the desired format",
+
+  "todo.upmc.ll.profile.not.found":
+    "Your profile could not be loaded",
+
+  "todo.upmc.ll.payment.credit.mastercard.label":
+    "Mastercard",
+
+  "todo.upmc.ll.payment.credit.visa.label":
+    "Visa",
+
+  "todo.upmc.ll.payment.hdl":
+    "Betalingsmiddel",
+
+  "todo.upmc.ll.payment.noentries.msg":
+    "Ingen data lagret",
+
+  "todo.upmc.ll.payment.creditnumber.label":
+    "Kortnummer",
+
+  "todo.upmc.ll.payment.expirationdate.label":
+    "Gyldig til",
+
+  "todo.upmc.ll.payment.expirationdate.hint":
+    "Kortet er utløpt.",
+
+  "todo.upmc.ll.payment.cardholder.label":
+    "Kortinnehaver",
+
+  "todo.upmc.ll.payment.credit.amex.label":
+    "Amex",
+
+  "todo.upmc.ll.payment.action":
+    "Legg til betalingsmiddel",
+
+  "todo.upmc.ll.layer.payment.setdefault":
+    "Forhåndsinnstilling",
+
+  "todo.upmc.ll.layer.payment.delete.headline":
+    "Slett betalingsmiddel.",
+
+  "todo.upmc.ll.layer.payment.delete.request":
+    "Er du sikker på at du vil slette betalingsmiddelet (###digits###)?",
+
+  "todo.upmc.ll.payment.privacy.policy.action":
+    "Personvernerklæring for Daimler Mobility Services GmbH.",
+
+  "todo.upmc.ll.payment.error.general":
+    "Vi beklager. På grunn av tekniske problemer kan transaksjonen ikke fullføres. Prøv igjen senere. Vi ber om forståelse for dette.",
+
+  "todo.upmc.ll.minimum.age.allowed":
+    "Dessverre oppfyller du ikke alderskravet",
+
+  "todo.upmc.ll.yourdata.tax.number.headline":
+    "Tax number",
+
+  "todo.upmc.ll.yourdata.tax.number.text.empty":
+    "You have not entered a tax number.",
+
+  "todo.upmc.ll.tax.number.invalid":
+    "Please introduce a valid tax number",
+
+  "todo.upmc.ll.hus.generaldata":
+    "",
+
+  "todo.upmc.ll.hus.userprofilefields":
+    "",
+
+  "todo.upmc.ll.hus.useragreements":
+    "",
+
+  "todo.upmc.ll.hus.headline":
+    "Legg inn følgende informasjon:",
+
+  "todo.upmc.ll.hus.valid":
+    "Du har lagt inn den påkrevde informasjonen.",
+
+  "todo.upmc.ll.hus.notoken":
+    "Ugyldig lenke",
+
+  "upmc.ll.hus.error.consent_required.message.general_ua":
+    "Det er dessverre ikke mulig å bruke tjenestene uten å samtykke i bruksvilkårene for Mercedes me connect- og smart control-tjenestene.",
+
+  "upmc.ll.hus.error.consent_required.message.other_ua":
+    "For at du skal kunne bruke visse tjenester og språktjenester i bilen kreves ditt samtykke til sluttbruker-lisensavtalen for Nuance og samtykke til at Nuance kan bruke opplysningene dine.",
+
+  "upmc.ll.hus.error.consent_required.headline":
+    "Samtykke kreves",
+
+  "todo.upmc.ll.hus.connect.store.btn.recheck":
+    "Ferdig",
+
+  "todo.upmc.ll.hus.notentitled":
+    "Ingen rettigheter",
+
+  "todo.upmc.ll.profile.missingdatahint":
+    "Please complete your profile data",
+
+  "todo.upmc.ll.hus.connect.store.btn":
+    "Til Mercedes me Store nettstedet",
+
+  "todo.upmc.ll.tax.number.invalid.firstname":
+    "Fornavn stemmer ikke overens med skatteregistreringsnummer",
+
+  "todo.upmc.ll.tax.number.invalid.lastname":
+    "Etternavn stemmer ikke overens med skatteregistreringsnummer",
+
+  "todo.upmc.ll.tax.number.invalid.birthday":
+    "Fødselsdag stemmer ikke overens med skatteregistreringsnummer",
+
+  "upmc.ll.yourdata.privacypolicy.text.agreement":
+    "Ved å fullføre registreringen min, bekrefter jeg at jeg har lest og samtykket til <a href='/passengercars/content-pool/tool-pages/legal/privacy-statement.html'>Privacy Policy<\/a>.",
+
+  "upmc.ll.profile.missingdata.redirect":
+    "Endringen din var vellykket. Du vil snart bli videresendt",
+
+  "upmc.ll.yourdata.pin.headline":
+    "Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.text":
+    "Her kan du slette PIN-koden for å koble deg til din Mercedes-Benz",
+
+  "upmc.ll.yourdata.pin.empty":
+    "Her kan du velge PIN for å koble deg til din Mercedes-Benz",
+
+  "upmc.ll.layer.pin.delete.request":
+    " Er du sikker på at du vil slette PIN-koden?",
+
+  "upmc.ll.layer.pin.delete.headline":
+    "Slett din Mercedes me PIN",
+
+  "upmc.ll.yourdata.pin.serviceUnavailable":
+    "Beklager, denne tjenesten er utilgjengelig for tiden. Prøv igjen senere."
+
+}
