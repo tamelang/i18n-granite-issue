@@ -15,6 +15,6 @@
 */-->
 <!--/* Include the site client libraries (loading only the JS in the footer, CSS was loaded in the header) */-->
 <sly data-sly-use.clientLib="/libs/granite/sightly/templates/clientlib.html" data-sly-call="${clientLib.js @ categories='aem63.all'}" data-sly-unwrap/>
-
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/source/1.8.1/jquery-1.8.1.js"></script>
 <!--/* Include Adobe Dynamic Tag Management libraries for the footer */-->
 <sly data-sly-resource="${@ resourceType='cq/cloudserviceconfigs/components/servicecomponents'}" data-sly-unwrap/>
